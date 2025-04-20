@@ -1,0 +1,27 @@
+This is a bit of a silly one.  In the opening phase of the fight, Dullahan will only use Reflectable spells (Ice 2, Ice 3, and Holy).  However, after getting hit eight times, the boss will enter its second phase, where it will start using its more dangerous attacks.  The standout in this run is Morning Star, which it can use twice in a row.  Morning Star hits really hard for this point, so we'd need some of our new defensive gear, back row, Safe, and Defend just to barely survive it.
+
+A Black Belt (counterattacks on 75% of physical attacks) and the Drainer sword (absorbs HP when hitting an enemy) could give us enough consistency to survive Morning Star, but it would still need a fair bit of luck since the battle is long.  It may also be tricky to tell when Dullahan is about to use Morning Star since it often does nothing, and it's actually a pretty fast boss too, so we'd have to play cautiously and sacrifice attacks to ensure we're Defending in time for Morning Star.  Finally, we'd have to skip out on Auto-Reflect in the first phase due to Reflect ???? hindering us, so that's not free either.
+
+However, there's an easy way around this.  If the boss only enters the second phase when it's hit eight times, why don't we just... not hit it eight times?  We don't have a massive source of damage here, but Reflected attacks won't increment the counter unless we hit the boss ourselves first.  Of course, Dullahan absorbs Ice, and its less common Holy spells won't outpace the healing from its Reflected Ice spells, let alone its Cure 2 in the second half of the fight.  We do have a way around this though.  The Debilitator Tool, recently bought from Figaro Castle, can make enemies weak to any element.  This even includes elements that enemies nullify or absorb!  It also doesn't increment the counter, so if we just spam the Debilitator until Dullahan is weak to Ice and Holy, we can just sit there and wait for it to kill itself.  Using the highest Battle Speed is preferable here because it will make Dullahan commit Sudoku faster.
+
+As an aside, this is a boss whose MP was increased to prevent it from running out.  This does not help us.  It would run out of MP about as fast as it would die here.  Dullahan dies when it runs out of MP, and anybody could have finished it off by Rasping its MP to zero at that point, so we still don't have to deal with Morning Star if its MP isn't increased.
+
+The only other potential hitch is L. ? Pearl, which Dullahan uses at the start of the fight.  It will only connect against characters whose level is a multiple of the last digit of your GP total (weird, I know).  So if we sell stuff until our GP total ends in a 0, it will never connect.  Since we're using Auto-Reflect here, we also want Auto-Haste to prevent Reflect ???? from slowing us down.  After that, we just grab some popcorn and wait for the fight to end (no, literally, I went and made some popcorn during this fight).
+
+It's at this point where you can see the clearest divide between the "earlygame" and "lategame" characters.  Every earlygame character has fought at least three battles, while the only battles we've fought with lategame characters are the ones before recruiting Edgar.  Not a single character has split the difference by fighting exactly two battles.  We'll start using one of the lategame characters in the next video though.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 3
+Edgar - 3
+Sabin - 3
+Celes - 3
+Strago - 3
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 4
+Umaro - 0
+Gogo - 0

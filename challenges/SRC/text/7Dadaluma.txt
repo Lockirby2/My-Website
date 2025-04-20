@@ -1,0 +1,31 @@
+Dadaluma's main weakness is Vanish, since he mostly uses physical attacks and usually won't remove it.  This battle is probably possible without Vanish, but it would likely turn into a slow stall-fest (like the previous battle) one way or another, so it's preferable that we just maintain Vanish the whole battle.  The only hitch is Dadaluma's Shock Wave, a weak magical attack that he'll occasionally remove Vanish with.  With a full party, you're basically always guaranteed to win easily before Vanish is removed from everybody, but with a single character, your damage is a lot slower and one Shock Wave seals the deal.
+
+Most of our characters don't have enough damage to get through the fight before Vanish is removed.  Sabin and Cyan can't hack it at all because their attacks will hit one of Dadaluma's minions more often than not, making their offense pretty bad here.  Celes and Locke don't have a hope, while Gau must be saved for harder fights.  Edgar could do it with some luck, but we have a better option.  This happens to be one of the rare moments when Shadow can be briefly recruited (for 3000 GP in this case), and with his high damage output and ability to reset his Vanish status in the middle of battle, this fight becomes trivial.
+
+Now we need to decide who to bring to the Magitek Facility, where we have to fight a series of five boss fights with the same party.  Locke and Celes are mandatory, and Gau may as well be.  For our fourth character, we can choose Edgar, Sabin, or Cyan.  We want to take as many fights as possible with our third character, so Edgar is out.  He has already fought two battles (neither of which had good alternatives), and there's another fight later where he'll be essential.  Sabin's AuraBolt being Holy-elemental makes him a poor choice for two fights, while Cyan's higher HP helps in a third fight.  Plus, there's actually a place where Sabin will excel later.  With that in mind, Cyan is the obvious choice.
+
+Ultros 2 isn't fought the normal way that it is in challenges.  The gimmick to this fight is that there are four Ultroses, each with their own separate HP bar.  After every two turns he takes (not counting the Imp-setting timed attack), the next hit Ultros takes will send him underwater, and another one of the Ultroses will pop up at that time.  Normally, the play is to focus-fire the first form to overwhelm it with damage, but here we simply don't have enough damage to do so unless we use Gau.  Gau can 2HKO Ultros with Aspik's Giga Volt, but we can't get away with using him in this fight either.  That strat also requires winning a couple coin flips with Rage, while a slower strategy is more reliable if nothing else.  Therefore, we'll simply play the fight as intended and whittle down the various forms until one dies.
+
+Now that we have some Espers, we can now start using some spells.  Bolt 2 is our main source of damage; SwdTech is off-limits because Ultros will counter is with Acid Rain.  I also used Ramuh for the memes at one point, just to show off how embarrassing Summons tend to be in this game.
+
+Each of Ultros' forms has different attacks and must be dealt with differently.  In the middle position, he will attack and use Tentacle.  Tentacle is the biggest danger here, so we set up Safe using the Mythril Glove to survive it.  I forgot to lower Cyan's HP against the rats before the fight, so we need to have Cyan lower his own HP at the start of the fight instead.  We end up never seeing Tentacle at all here, but better safe than sorry.
+
+In the top position, Ultros can use Fire, and in the bottom-left, Ultros can use Mega Volt.  Both of these can be survived without issue, so we don't need the Barrier Ring for this.  In the bottom-right, Ultros will use Drain, which we can't survive reliably even with Shell.  However, Drain can only heal the caster to full HP, so as long as we never damage the bottom-right Ultros, we are safe.  A humble Tonic can be used to force Ultros underwater so that we can avoid dealing damage.
+
+For the positions where we can deal damage, we Slow Ultros.  With Slow and Haste, we can get up to three turns per turn of his.  For the bottom-right position, it would just waste time.  Additionally, Regen is useful (for the first time I've seen in any challenge) since it means that we don't need to heal after regular physical attacks.  After our setup, it's easy to find turns to attack and heal as needed, and there's no danger of dying.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 2
+Shadow - 2
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 0
+Umaro - 0
+Gogo - 0

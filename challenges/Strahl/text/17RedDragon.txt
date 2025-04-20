@@ -1,0 +1,13 @@
+The Red Dragon is essentially the final boss of the "Poison and Wait" section of the game.  It doesn't really have a script, instead just using a random move each turn.  They are as follows:
+
+25% chance - Red Dragon Breath, 2HKOs even with Fire resistance
+25% chance - Tail Attack, its weakest move
+50% chance - Bite, nearly OHKOs us.
+
+At the start of the fight, we need to heal until it uses something other than Bite.  This gives us an opening to setup Barrier.  If we try to go for Poison right away, we'll probably die, so Barrier comes first.  Even then, there's a chance it goes for two Red Dragon Breaths at the start of the fight, which is a game over since it doesn't respect Barrier.  Playing passively and waiting for a Tail Attack to setup Barrier is safe in theory, but it isn't worth it because the dragon will eventually just crit us with Bite and OHKO.  Therefore, we take a risk at the start of the fight to get Poison up right away.
+
+There's a bit of tension between using Poison and Barrier in this game.  Playing on Active mode and at the highest battle speed will cause the ATB to run quickly all the time, which is great for racking up Poison damage, but awful for preserving our Barrier.  I think it would take slightly fewer attempts to win on the lowest battle speed, but in terms of the time spent on the fight, I think it's better to prioritize reset efficiency here.  Plus, it makes for a better video too.  This means that we basically only get one chance (IIRC, maybe it was two) to stick Poison each time we get Barrier up.  Fortunately, the status landed on the first attempt here.
+
+Once we get Poison up, we just heal and hope not to get crit with Bite.  If we do get a free turn (either from a miss or a Tail Attack), we can setup Barrier again and start Defending to dodge a couple crits for free.  If the Poison status whiffed at the start, we'd probably want to heal with Hi-Potions to conserve MP for Barrier, but there was no need here.
+
+My luck in this fight was abysmal.  The chance of getting crit with Bite is only 3.5% each turn (factoring in the chance to select a different attack), but I had it happen 5-7 times, on top of getting killed by two Red Dragon Breaths at the start of the fight 8-10 times as well.  Every time we die, we need to watch the long cutscene before the fight again, which got pretty irritating.  Pro tip: don't forget to set the field message speed to fastest in the menu; it would have saved me a ton of time.  Still, I'd rather the bad luck here than against Gi Nattak.

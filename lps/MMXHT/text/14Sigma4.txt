@@ -1,0 +1,31 @@
+Death Count:
+
+Intro Stage: 5
+Chill Penguin: 68
+Storm Eagle: 22
+Sting Chameleon: 73
+Armored Armadillo: 62
+Spark Mandrill: 28
+Flame Mammoth: 29
+Launch Octopus: 48
+Boomer Kuwanger: 14
+Item Search: 27
+Sigma 1: 26
+Sigma 2: 47
+Sigma 3: 56
+Final Boss: 8
+Total: 515
+
+Wait, another upload already? But shouldn't it have taken another week or two? Well, I've been fiddling with a lot of things related to making videos, particularly getting Windows Movie Maker (the old version that didn't suck) to work on my computer so that I don't have to deal with my old, slow, crashy editor anymore. I wanted to edit a video to actually try out everything that I'm messing with, and the blindfolded runs are light on editing. Lucky thing I still had one of these left!
+
+The final boss, (thankfully) was edited with a light hand for sure. Which is exactly what I was hoping for honestly. First of all, because I have to go through three bosses, attempts at this guy take quite a while. Every attempt takes about seven minutes, so despite the low death count I was recording for the length of time here as when I went through Armored Armadillo's stage. If the final boss's difficulty had been ramped into oblivion this would have gotten old fast. Recognizing that this boss didn't need to be edited to fit into the hack well was a fairly smooth move on Hart-Hunt's part. This ended up taking me less effort overall than vanilla actually, but I suspect that isn't the norm for most people (which is important because it is a Hard Type after all). Veterans would have to deal with the fact that R. Shield runs out of ammo before you win the fight, which I didn't have to worry about because I didn't know it was effective in the first place. Those who have never played before wouldn't have practiced the boss before, meaning that I had a leg up here; if I had done the games in reverse I would have probably found this more difficult than my vanilla experience. And the boosted damage of the boss was offset blow for blow by the larger amount of HP boosts and E. Tanks that I collected.
+
+The first boss is Velguarder. He's pretty much just a warm-up boss. What do you do to escape a dog? Climb up something of course, and that's exactly what I do here. From there, all I need to do is identify the parts of his pattern where it is safe to attack (or when I have to move to avoid his fire) and then take those opportunities. Now that I know how to dash-wall-jump, avoiding his attacks is a lot more reasonable and doesn't really require luck. The dash-wall-jump fits naturally into my strats here, as even when I didn't know it existed I still felt as though I was expected to cross the screen somehow. This guy almost always did some appreciable damage to me in vanilla, but now that I know how to deal with him he isn't too threatening on his own.
+
+Next is Jedi Sigma. My strat from vanilla almost literally just carries right over to Hard Type. The main difference is that now I need to use E. Spark and the Metal Blades for the majority of my damage, as my standard bullets do no damage and my pink shot makes me hover for an instant. It doesn't make much of a difference, but it's still enough to get me hit often. I don't need either of those things for the next fight anyways though. Now that I am doing two damage to him with E. Spark for most of his health bar, it's faster than in vanilla, which is pretty nice. It's too bad that I never experimented with Fire. W, as I thought it wouldn't have the range that I needed.
+
+And now for the main dish. Unfortunately, I somehow remembered less about this guy from my vanilla run than the other two bosses earlier, and end up starting out trying my original lousy strat for this fight thinking it was the correct one. Thankfully, I snap out of that after a couple runs. I want to stand in the very center of the stage when he's in a neutral position. If I'm a little bit off center, the fire can hit me without warning. If I'm a little further over, the hand on my side of the field can hit me with little warning. And if I'm at the edge, both the hand and his lightning balls can hit me. So I want to stay in the center to have the optimal amount of time to react to whatever he does. If the hands shoot lightning when I'm there, it has no effect. If they move towards me, I have an opportunity to attack. But I still have to react fast, because it's hard to tell the difference between when a hand wants to ram me and when it wants to shoot lightning. I don't find this super easy, and I get hit or lose my attack option sometimes. He can also shoot fire, which is rarely a big deal, but it forces me into a position where I can get hit by the hands' lightning more easily. Finally, he can shoot lightning balls, which come very quickly and I never figure out how to reliably dodge. Fortunately, on the final run I just get extremely lucky and he almost never uses it.
+
+As for offense, I could use R. Shield, but I didn't know about that. I also never worked out how to stand on his hands at the top of the field, so there was no possibility to get multiple hits in from that position. So essentially it came down to me getting one pink blast every time that the hands moved to ram me. Simple enough, but it's fairly slow. Thank goodness I didn't mess up with my E. Tanks this time!
+
+And that's the end! I hope that you enjoyed the LP, particularly if your screen name happens to be Hart-Hunt. I ramble about the hack at the end of the video, and it was (surprisingly) articulated well enough that I won't add anything here. This is my first LP (that doesn't suck) of a game (that doesn't suck), so feel free to throw in some feedback.

@@ -1,0 +1,12 @@
+This challenge was inspired by the <a href="https://www.fourjobfiesta.com/ff6/">FF6 "Four Job Fiesta"</a>.  This was a challenge with 100+ participants where four randomly chosen characters were distributed to each person participating and each player had to complete the game with only those four characters.  After some (sometimes erroneous) theorycrafting I realized that I'd be able to do a low level game with the characters I was assigned.  The rules are as follows:
+</p><ul class="standard-text-interrupt">
+    <li>It's a Low Level Game, so avoid EXP where possible and divide EXP in a way that reduces the level count as much as possible.  I couldn't use the standard LLG definition because the characters I was assigned had to eat the EXP as well, so my definition of LLG here was "most EXP wasted".</li>
+    <li>No Magic is allowed.  I cannot cast any spells from the Magic menu, equip Espers, or learn any spells from equipment.  Note that the rules specifically say that I cannot equip Espers. ;)</li>
+    <li>No Rod breaking is allowed.  Note that the rules specifically say not to break *rods*. ;)</li>
+    <li>A random party of four is chosen, and I may only use members of that foursome when possible.  The party I rolled is Locke, Edgar, Cyan, Gogo Only.  The game isn't structured nicely for this, and the rules more or less say "Do your best", so there's a bit of grey area on what's allowed and what isn't.</li>
+</ul><p class="standard-text">
+More details are in the description for the first video.
+
+It turns out that some of my theorycrafting was incorrect, as I wasn't able to acquire a WoB Flame Shield like I expected.  I was worried this would scuttle the entire run, but as it turns out, I was able to discover a technique (which I called "jumpcheese") that is so overpowered that it was able to save a run I had no business completing.  This is the first run I did where I wrote descriptions that are up to my modern standards.
+
+I probably shouldn't have been so picky about which videos I posted.  I crammed all the less interesting fights into one video at the end, but everything exists, so whatever.

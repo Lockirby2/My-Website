@@ -1,0 +1,24 @@
+In the Sephiroth fights, you'll notice that we're using some items like Vaccines and Hero Drinks.  While we're not allowed to scavenge these ourselves, it's allowed for our party members to scavenge them for us!  In the Northern Crater, we can choose each character's path to the bottom of the crater.  The ones that traverse a path different from ours will pick up items along the way and hand them to us at the bottom, which is perfectly legal.  The items they pick up depend on the path they take.  This gets us an extra Elixir, as well as a Megalixir, a Vaccine, and a Hero Drink.  I think two Vaccines would have been ideal, but if you send people left and go right yourself, characters will pick their path at the second fork randomly, giving us only a 1/8 chance of getting what we want.  The second Vaccine isn't too big a deal, so I didn't bother with the RNG or trying to find an alternative way to get it.
+
+Bizarro is probably the toughest of the three fights in this run.  On top of that, I'm not cheating to save between the fights, so any time that I messed up, I needed to fight Jenova Synthesis again.  Luckily, there's minimal (if any) luck involved.  Excluding the rigid attack scripts, the Sephiroth fights feel the most like FF6 bosses.  They have a variety of attacks that actually do different things instead of just having different animations.  There are three versions of the Bizarro fight, but the simplest one-party version is the only version that can be fought in an LLG since the others are only fought at high levels.
+
+To understand this fight, I think we should start with the attack script.  Bizarro is another boss where only the main body acts.  For clarity, Right Magic is the arm on the right from Bizarro's perspective (not the party's), and Left Magic is the other arm.
+
+Attack (Aurora Fence if Head is dead)
+Bolt 3 (Attack if Right Magic is dead)
+Quake 3 (Attack if Left Magic is dead)
+Stigma (Heartless Angel if Core is dead)
+Nothing
+Nothing
+Ice 3 (Attack if Right Magic is dead)
+Fire 3 (Attack if Left Magic is dead)
+
+Shockingly, Aurora Fence is the most dangerous move in the fight, as it'll revive our other characters, breaking the challenge rules.  This means that we can't kill the head, so we'll need to use single-target attacks here.  Contain will be our weapon of choice.  At level 28, with a Magic boosting weapon and the Circlet equipped, as well as a Hero Drink, we can deal over 4000 damage, enough to OHKO the arms.
+
+We could attack immediately if we didn't need the Hero Drink, but we need to go through an entire cycle to get the one turn to set it up.  Bizarro's spells nearly OHKO us by default, so if we toss the Hero Drink on turn one we're just going to die.  We need either M. Barrier or Reflect.  The former costs us turns healing, but the latter prevents us from casting Haste and doesn't protect against Stigma.  Reflect is still easier and faster, so we'll go with that.  This buys us plenty of time to toss the Hero Drink before Stigma.  Reflected spells will always hit the main body since the body is technically the one casting them, so there's no fear of the head dying.
+
+Stigma is the most threatening attack, dealing ~800 damage and setting Poison/Slow.  Slow is the main problem here, as it'll cost us turns if we're not careful.  We need to setup Haste to recover, but we can't do that with Reflect active.  With Slow up, Bizarro's attacks will come in quickly, so removing our own Reflect isn't an option.  Fortunately, it works out that if we just wait, Bizarro will remove our fourth use of Reflect right when his script starts over, which is the perfect time.  We can heal while we're waiting for this to happen.  When Bizarro's script starts over, we immediately setup Haste and go on the offensive.  We take out the Right Magic first since it's the first one to cast a spell, and then the Left Magic.
+
+We're not quite out of the woods yet.  We have the turns we need to recover before and after Stigma now, but we need to be aggressive still since Right Magic and Left Magic will eventually revive if the Core isn't defeated fast enough.  Barrier might buy us some extra time to attack and makes Bizarro's crits less impactful, so I considered it worth setting up.  The MP Absorb Materia and Elixirs make MP management less of a burden.  The Core dies in three hits, so we make it in time.
+
+After that, we really are out of the woods.  We just need to heal from Poison to avoid an embarrassing death from Heartless Angel.  When we kill Bizarro, we need to have enough MP to cast Reflect once and full HP.  It didn't seem like the number of Break casts to kill Bizarro is 100% consistent, so we toss an S-Mine to ensure that Bizarro dies on the intended Break cast.  The back half of the fight was a bit sloppy with unnecessary heals and Barrier casts, but it's only a bit slow.

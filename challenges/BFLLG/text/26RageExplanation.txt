@@ -1,0 +1,15 @@
+Here's a quick explanation of just how I get Blindfolded Rages.  Say I want to get Trillium:
+
+1) Look back through my earlier videos to determine which Trillium formations I have encountered.
+
+2) I keep Djibriel's wonderful Rage FAQ handy, and fight through a cycle of every "pack" that I have encountered a monster from (with my eyes open, I'm not actually getting the Rage yet).  I make a list of these packs.  If you do not understand how the packs/formations on the Veldt work, and you want to know more, you can Google the Rage FAQ for an explanation.  The tl;dr version is the Veldt encounters are organized into packs that each contain seven or so formations that will only show up if the player has encountered them.  Each time you fight a formation from a pack, the next encounter will essentially be a formation from the next pack.
+
+3) Use the FAQ to determine which packs contain Trillium formations that I have encountered.  Noted it down on my list.
+
+4) Now's the time to put my blindfold on.  I reload my save state (to erase everything that I did with my eyes open), save/reset (I do this because if I simply loaded a save state, I would know which formation I fight first, and that would be cheating), and put it on.  Now I have to fight encounters until I can determine (or at least have a reasonable guess at) which encounter I'm fighting.  The 2X Soldier, 2X Templar encounter is great for this, as it is very distinct and shows up every cycle due to being the only formation in its pack that I have encountered as of now.
+
+5) Continually moving through the list, I keep track of which pack I am currently fighting, until I get to a pack that may contain a Trillium.  Then I Leap Gau, and play until I get him back.  I  save the game and shut it off.
+
+6) Now by the rules that I'm playing with, I can check if I have the Trillium Rage in what would normally be "off camera" if I were recording my Veldt segments like everything else.  If I got Trillium, great!  If not, I have to repeat steps 4-6 again.
+
+This may seem complicated and time-consuming, but I estimate that it is far faster than guessing randomly, especially as the number of formations that I have to sort through increases.

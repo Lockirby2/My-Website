@@ -1,0 +1,25 @@
+Death Count:
+
+Intro Stage: 5
+Chill Penguin: 68
+Storm Eagle: 22
+Sting Chameleon: 73
+Armored Armadillo: 62
+Spark Mandrill: 28
+Flame Mammoth: 29
+Launch Octopus: 48
+Boomer Kuwanger: 14
+Item Search: 27
+Sigma 1: 26
+
+Wow, only 26 deaths here? It felt like a lot more. This video ended up being a little longer than intended, and I really should have cut out more of the platform part at the beginning, as looking back I left in some "meh" parts.  Still, with all that stuff related to Vile in the center, it's no wonder that it ended up being long.
+
+The first part was definitely the hardest part for me.  I didn't know about the dropped dash inputs on those platforms at the time, so I felt that it was my own mistakes at the time when I wasn't dashing.  Even when I wasn't directly killed by dropped dash inputs, I was paying a lot of attention to dashing properly, which kept causing me to slip [up].  I'd estimate that half of my deaths in this level were due to this.  The rest of the first area was easy; the enemies here are cannon fodder for my arsenal of weapons at this point.  Once I started getting through the moving platforms, the rest of the first part was okay.  The platforming segment was definitely made easier by the presence of R. Shield, which this area is practically tailored to.  Not having to dodge any of the enemies is a huge thing off my mind.
+
+I also check out the weapons in this segment.  I still don't like the Flamethrower that much, but I can see how it's a lot more useful just to throw out in short bursts, considering its high damage output.  I'd consider it useful in some boss fights at least, depending on what other options I have.
+
+Next part of this is the Vile fight.  It's a fast paced battle, but I do a lot of damage to him, so it's short.  This fight really didn't take me very long.  My HP/Armor powerups continue being worthless here, as I only take one hit on the run where I beat him.
+
+But boy am I glad that I had the HP for the next part.  The vertically oriented shaft here was probably the most difficult part of vanilla for me, although in Hard Type it's pretty much in line with the rest of the game.  I can't use C-Sting in this part because it's just so useful in that mess that comes beforehand, meaning that I can't just dash through here while invincible like my tactic was for vanilla.  So I do the logical thing and make use of the charge attack with Storm Tornado... actually wait, for some reason I dismiss Storm Tornado as being useless in vertical areas and use... E. Spark?  I guess I didn't think too hard about that one, but to be honest it works perfectly fine.  The downside is that E. Spark would have been more handy against Boomer Kuwanger at the top.  Boomer Kuwanger is a tough cookie now, as his boss area probably received the largest upgrade from before.  Now the hole in the centre is easier to fall into, the safety platform is gone, and the walls are cramped.  With my new upgrades though, he still goes down once for every two or three losses.  Homing Torpedoes still wreck him pretty badly.  However, I decide to catch the Idiot Ball before the jump to the next segment, causing me to lose a couple perfectly good runs here.
+
+I'm not sure where the last checkpoint is, so I'll just break it up here.  The last portion is really easy.  There's a bunch of enemies, but they really only serve to give me free stuff before the boss fight.  Bospider is, IMO, by far the easiest boss in this hack, going down in one attempt and only taking down half of my life bar.

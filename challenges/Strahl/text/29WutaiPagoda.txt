@@ -1,0 +1,11 @@
+The strongest single attack we have isn't actually any of our items.  We can use the Contain Materia (obtained from a Chocobo in Mideel) to fire off powerful spells.  It's not normally that useful since equipping the Materia costs us lots of HP and restoring our MP reduces the damage per turn, but it's useful for burst damage or in shorter fights where we don't need to restore our MP.  Freeze can also inflict Stop, which is effective against most of our foes here.  It may look like this isn't any more effective than the Dragon Scales, but these enemies have high magic defense.  We can also use the MP Absorb Materia to gain back a decent chunk of MP on these beefy hits; it buys us extra turns in a few fights.
+
+Gorkii and Shake are two of the more dangerous opponents offensively, but they both die in two hits and can't OHKO us.
+
+Chekhov takes less damage than the others since we use the Accessory slot to gain immunity to paralyze rather than equipping the Circlet to boost Magic.  It's not worth restoring our MP here since our Magic is low.
+
+Staniv is just weak.
+
+Godo isn't even worth a separate video here.  His AI is pretty complex and he can do a lot of things, but none of them matter IIRC.  Just spamming Freeze will knock him out quickly because he doesn't have the high Magic Defense that the others do.  Hitting harder with Freeze is even better with MP Absorb equipped because we'll run out of MP more slowly too.
+
+I have to say, it's pretty amusing to watch these people praise their own skill and strength in dialogue while knowing that they're about to get completely steamrolled like this.  These battles are optional, so I reloaded a save afterwards.

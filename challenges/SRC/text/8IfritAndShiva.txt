@@ -1,0 +1,32 @@
+Ifrit and Shiva are more spellcasting bosses, as you'd probably expect.  However, there are no Runic shenanigans this time around, as we have a much more powerful tool at our disposal now.  Wall Rings become available at this point in the game, and the Auto-Reflect they grant always lasts for the entire battle.  This is a timely upgrade, as Runic strats wouldn't be very consistent in this fight. 
+
+The main gimmick to this fight is that only one of the two Espers will be on the field at a given moment.  Every five times they are hit, the boss will switch from Ifrit to Shiva or vice-versa.  Their own reflected spells will eat up one of the five hits before they switch unless they are casting a spell as a counterattack.  While the Wall Rings protect us from most incoming attacks, we aren't entirely safe.  Both Ifrit and Shiva have a similar two-turn cycle that looks like the following:
+</p><ol class="standard-text-interrupt">
+<li>Will not kill you with a non-reflectable attack</li>
+<li>1/3 chance of killing you with a non-reflectable attack</li>
+</ol><p class="standard-text">
+Gau could deal with this pretty easily by Raging Bomb to absorb Ifrit's Fireballs and kill Shiva rapidly with Blaze, but once again, we can't use Gau here and there's a more reliable strategy that anybody can do.  At first glance, it seems like we're banking on a fair bit of luck to avoid dying on the second turn of their attack script.  The trick to consistently winning this fight is to ensure they never get a second turn.  And no, we aren't simply winning the fight in two turns.
+
+Instead, we'll abuse the fact that when their script is interrupted (say, when they switch out), they will reset back to the first turn on their next attack.  Their script is interrupted by more than switching out though.  When they are hit three times by Magic, they will teleport to the front of the screen and use a "super" move.  In Ifrit's case, this is a harmless Fire 3, and in Shiva's case, she will attempt to defend herself with a useless Reflect.
+
+So here's how this plays out.  Since anybody can perform this strat with a similar level of competence, we use Cyan simply to get another one of his turns out of the pool.  On the first round against each boss, we'll set up Slow and throw out an extra spell.  Between those spells and the reflected spell from the boss, we'll trigger the super move, buying us an extra turn to get Slow on the bosses safely.  Then we'll just attack to trigger the swap to the other boss.
+
+With Slow up, we just need to attack often enough to trigger the phase change regularly.  Shiva always casts a spell when she takes a free action, so two Dispatches and her reflected spell with trigger the phase change.  Ifrit will sometimes punch us, but we don't need to actually deal damage to him (only one of the bosses must be killed), so we can throw out Fight commands, which are faster, to ensure that we hit him five times before his second turn.  If Ifrit doesn't punch us, we get a free turn to heal from any previous punches.  With this strategy, there's very little that can go wrong.
+
+Near the end of the fight, Shiva will have hit herself with enough reflected spells to trigger a super move.  By delaying the fourth Dispatch until just after her turn, we can take two turns in a row to slip in an extra Dispatch and end the fight a cycle early.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 3
+Shadow - 2
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 0
+Umaro - 0
+Gogo - 0

@@ -1,0 +1,46 @@
+Sorry for the lack of uploads recently, but I've had to put in a fair bit of overtime at work to make the next release, so I haven't been able to devote time to these videos.
+
+This is another time that we need to bring out Gau, but the key moment is a bit later.  The first challenge is to get through the six Sky Armour and Spit Fire battles.  The first thing to note is that I found a way to manipulate the perfect IAF Sequence with the lowest number of enemies per fight for a previous challenge.  It's way too much to explain here, so I'll drop a link to the video I made about it <a href="https://lockirby2.neocities.org/resources/FF6/#iaf-manipulation">here</a>.  While fighting fewer enemies isn't needed for EXP distribution here, it still improves our odds of victory here.
+
+Normally, the biggest threat here is Absolute 0, which just wipes the party.  Since all fights are Pincers, the enemies typically get a chance to use it once before you can even move.  However, it's no threat here thanks to the Flame Shield's Ice nullification.  Propeller is the actual big threat here since we're forced into the front where it can just OHKO us.  Vanish is the ideal way to deal with it, but Absolute 0 and Tek Laser (which we can survive without fuss) will remove it, so we need to silence the enemies first.  Summoning Siren is the way to do this efficiently, and we still have the MP for Vanish afterwards.
+
+IIRC, we don't get quite enough time to setup Vanish and then throw out Siren before their next attack, so even if they remove Vanish, we should summon Siren first.  If we try to setup Vanish first, the enemies may just remove it again, and then we won't have enough MP left.  This means that the enemies do have an opening to win.  If they remove Vanish and use Propeller immediately before we can set Vanish back up, then we lose.  The first battle is the riskiest since we can't start that one with Vanish, but we at least face Gau towards the left so that he might evade the first Propeller.
+
+Other than that, we just equip Gau with the Ribbon to avoid getting Muted by Backlash and the Running Shoes (Auto-Haste) so that we can sometimes pre-empt one or both of the enemies.  Luckily, Gau is one of the fastest characters in the game, so he pre-empts fairly often... though not as often as it looks like; these enemies will often just choose to do nothing.  The Spit Fire can barely survive a Giga Volt from the Aspik Rage, so we'll hit it with whatever we have the MP for before Raging.  The first battle is a good demonstration of why Gau isn't Raging very much in this challenge.  Just look at how many coinflips we lost here!  If the enemies could do anything, we'd be dead for sure.
+
+Ultros' has had some pretty complicated scripts in the past, but he does a complete 180 here.  Every attack he has is physical, and sometimes he'll chat instead of attacking.  Vanish wins us the first phase, and his Magic Defense is so low that this barely feels like an LLG.
+
+After a while, Ultros will call upon Chupon, who will have a chance of using Fireball every other turn.  While this can't hurt us, it may give Ultros a chance to obliterate us with Tentacle.  Unfortunately, Chupon is so slow that it can be difficult to ensure that he always attacks after Ultros does.  In hindsight, maybe it would have been more consistent not to Slow him, but whatever.  I do my best to ensure that we always get a turn between Chupon's attack and Ultros' on Fireball turns, and he only gets a couple chances anyways, so it doesn't matter much.
+
+Obviously, that's not the fight that we need Gau for, so the next one must be it.  To beat Air Force, we'll need to take a look at its script:
+</p><ol class="standard-text-interrupt">
+<li>Tek Laser</li>
+<li>You're already dead</li>
+</ol><p class="standard-text">
+Well... shoot.  Normally that's a bit more helpful.  With two enemies using spells nearly every turn, we struggle to survive this fight through normal means.  Mog with Shell could actually get ideas about winning this fight, but we'd absolutely need to Missile Bay to attack after the other two enemies every turn.  While it does have the lowest speed stat, this is far from a guarantee, and I suspect that we'd need to give up all of the turns where we could attack to manipulate the enemy ATB afterwards.  This means that we'd be waiting for Missile Bay to run out of MP before we do anything, resulting in a fight that's not much faster than the one in this video.  Either that or we bank on god-tier RNG to get Slow up.  With the gauntlet of fights beforehand taking 10-15 minutes, we don't want to reset a bunch of times to use Mog here.
+
+However, Air Force does have one significant weakness, and that's the fact that most of its attacks are Thunder-element.  Unlike most bosses, it doesn't use any physical attacks at all.  We don't have any equipment that can bypass Thunder damage, but recall that Gau's Rages allow him to take on the defensive properties of enemies, so we can absorb Thunder by Raging any enemy that absorbs it, of which there are several.  Atomic Ray would normally be the thorn in the side of this strat, but this is absorbed by the Flame Shield.
+
+At first glance, Rhinotaur with its Mega Volt seems like the perfect counter to this boss, but it encounters a surprising problem.  Every attack from Missile Bay is percentage-based, but in this game percentage-based damage rounds up, so it can kill a character at 1 HP.  And once Missile Bay's HP drops below halfish, it will start using Launcher, an attack that will cut Gau's HP in half eight times.  Assuming I'm not making any mechanics mistakes, Gau can survive one Launcher at 1 HP with a Green Beret, but it's not enough.  Even with Auto-Regen, we don't reliably survive this with Rhinotaur.
+
+Therefore, we use Rhinox instead, as it's the only Rage available right now with both Thunder resistance and an instant-death immunity that prevents Launcher from working.  This makes us completely invincible, but the downside is that this is far from efficient.  Rhinox's secondary attack is Life 3, which is often great, but not useful for damage here.  This leaves us with Gau's physicals.  I decked him out in Strength-boosting gear (it's one of the few situations where it's genuinely worth it to boost Strength), gave him a Hero's Ring to boost damage, and placed him in the front row, but the damage is still quite lackluster.
+
+As an aside, the messages indicating that an enemy has run out of MP are coming from Laser Gun and not the main boss, whose MP has been boosted to last the entire fight as per the rules.
+
+At least the fight is automated, so we can use fast-forward to skip through it for the recording.  According to the in-game timer, this takes about an hour and ten minutes, which is obviously viable in real time if you just leave the game running and go to grab a burger or something.  This is... a bit painful on the eyes and the ears though, so you may want to skip actually watching it.  At least we get to see a 13-year old kid pretending he's a rhino punch a flying robot until it explodes while falling through the sky for over an hour.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 2
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 3
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 4
+Umaro - 0
+Gogo - 0

@@ -1,0 +1,11 @@
+In the Flame Eater video, I mentioned that I was concerned about this section.  However, between then and when I got here, I thought about it a bit more and realized that there was no way we'd be too slow here.  The main threat is the timer, which means that Jumpcheese does nothing notable for us.
+
+Instead, we go with dual-wielding Flame Sabres in the front row.  The Naughties are much weaker than Atma Weapon, so their regular physical attacks don't OHKO even in the front, and Locke can even survive their Hit special attack.  With the fast animations of our physical attacks, we can tear through them fairly fast.
+
+Cyan isn't dealing much damage, so he takes the Sprint Shoes and become our healer when we need one.  Edgar takes a Wall Ring in addition to his Genji Glove since an MT Ice 2 is nasty if it's killing two people.  Locke takes a Hero Ring instead since it buffs his already high damage output.
+
+We get lucky here, with the Naughties not using Cold Dust on anybody except for Celes, who wasn't doing anything anyways.  The backup plan was for Locke or Edgar to unequip their second weapon and unfreeze the other with a Flame Sabre if necessary, though it's a bit risky since a Fire proc will kill.  They didn't even kill Locke with Ice 2, and we got two side attacks, which were useful since we could hit the Naughties from behind for extra damage (even though my suboptimal party order meant we didn't do as much damage as possible).
+
+Nerapa is vulnerable to instant death, so we do some (rather sloppy) menuing to swap the Assassin onto Locke and try to OHKO him with that and Edgar's Chainsaw.  We get average luck, and it's enough.
+
+After that, we need to do two things.  Edgar needs to be placed in the back row in preparation for the Tentacles fight (we won't have another opportunity to do this), and we need to rescue Shadow.  Although we can't use Shadow, Gogo will lose access to the Throw command if we don't save him, so this is important.

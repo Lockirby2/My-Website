@@ -1,0 +1,7 @@
+Palmer is well known for being the most difficult boss to exist in any video game ever.  Fortunately, Palmer is a benevolent god, so he deigns to allow challenge runners to win sometimes.
+
+The biggest surprise here is probably that we're using Cait Sith for this fight.  Cait isn't needed here, but he needed a bit of extra EXP to defeat a tricky boss later, and Palmer happened to give the most appropriate amount.  It's better to feed Cait the EXP from a boss that Aerith would have fought.  By doing this, Cait will gain 900 extra EXP, and nobody else will gain anything extra.  If we fought 900 EXP worth of random encounters, our inactive party members would have gained 450 EXP each.  The drawback is that Aerith missed the intended level for Demon's Gate by a hair, so we had to fight a minor random encounter just before Bottomswell to make up the difference.
+
+Palmer's only attack is Mako Gun, which will take the form of either a Fire 2, Ice 2, or Bolt 2 spell.  We nullify Bolt with the Bolt Ring and resist Fire 2 with Elemental-Fire.  We should survive two Ice 2s even without resistance, but I forgot Sadness here, which awkwardly prevents us from attacking safely even after a resisted Fire 2.  Still, Poison stuck immediately and does most of the work, so it doesn't exactly make this fight a marathon.  Palmer even gives us free turns sometimes instead of shooting his gun.
+
+Dice is a pretty nice Limit Break for the early portion of LLGs, though it'll typically get outclassed by items in this run.

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lockirby2 - LPs</title>
+        <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+        <script src="/components/helpers.js" type="module"></script>
+        <script src="/components/top-bar.js" type="text/javascript" defer></script>
+        <script src="/components/main-body.js" type="module" defer></script>
+        <script src="/components/file-text.js" type="text/javascript" defer></script>
+        <script src="/components/video.js" type="text/javascript" defer></script>
+        <script src="/components/video-loader.js" type="text/javascript" defer></script>
+    </head>
+    <body>
+        <c-top-bar>
+            <a class="breadcrumb" href="https://lockirby2.neocities.org">Home</a>
+        </c-top-bar>
+        <div class="content">
+            <div class="left-margin"></div>
+            <c-main-body>
+                <h1>Full Playthroughs</h1>
+                <c-file-text filepath="text/Summary.txt"></c-file-text>
+                
+                <h1 id="facets"><a href="https://lockirby2.neocities.org/lps/Facets">Facets</a></h1>
+                <c-file-text filepath="Facets/text/Summary.txt"></c-file-text>
+                
+                <h1 id="kaizo">Kaizo Mario World</h1>
+                <c-file-text filepath="text/Kaizo.txt"></c-file-text>
+                <c-video video-id="LJXgLR78pzc"></c-video>
+                
+                <h1 id="mmx-ht"><a href="https://lockirby2.neocities.org/lps/MMXHT">Mega Man X Hard Type</a></h1>
+                <c-file-text filepath="MMXHT/text/Summary.txt"></c-file-text>
+            </c-main-body>
+            <div class="right-margin desktop-only">
+                <c-video-loader></c-video-loader>
+            </div>
+        </div>
+    </body>
+</html>

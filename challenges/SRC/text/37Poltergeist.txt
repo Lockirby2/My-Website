@@ -1,0 +1,40 @@
+We now go from the easiest to the hardest of the three statues.  Poltergeist's first phase consists of strong physical attacks and non-elemental spells that kill us, so we want high Magic Evasion and high Defense.  Meanwhile, her second phase has the unblockable Fire-elemental Flare Star and other elemental attacks, so we'd naturally want to play the elemental game there.  We can't do everything at once, so we'll need some compromises.
+
+The first phase is the trickier of the two, so let's start there.  Poltergeist's physical hits are pretty beefy for an LLG, and we'd normally need to invest almost entirely in defenses to survive.  But that would require that we sacrifice our Magic Evasion, which we also need to survive Shrapnel and Stop.  We can use Fenrir to an extent, but she spams enough physicals that Image is likely to get depleted before we win.  The solution is a Relic that I've never used in a challenge run before: the Muscle Belt (+50% HP).  Normally a Relic like this isn't worth much because we often either no-sell attacks or accept dying to them, but in this case, it gives us just the range we need to survive her physicals while still having perfect Magic Evasion.
+
+With this, our equipment looks like the following:
+
+Illumina
+Aegis Shield
+Mystery Veil
+Force Armour
+Muscle Belt
+Economizer
+
+We still have to worry about her special move (Psytrip) connecting.  If it does, we'll revive from Life 3, but we also won't have time to rebuff, so we pretty much need to push her into the second phase immediately.  It doesn't happen here.  On this run, Poltergeist knocks us to low HP at the end of phase 1, but I've been counting her HP, so we just push her to phase 2 where our HP no longer matters.
+
+With our equipment locked in, we don't have a lot of wiggle room for the second phase.  The cycle looks like this:
+
+Turn 1: Flare Star (Fire) or Southern Cross (Fire) or Nothing
+Turn 2: Meteo or Aero (Wind) or Nothing
+Turn 3: Aero or Flare Star or Nothing
+
+In addition, she'll counter with Fire 3 and use Wave Cannon (Bolt) every eight times we hit her.  We can't evade Flare Star, and she can use it twice in a row, so we can't accept lacking Fire-protection here.  This means we must swap our shield to the Flame Shield, which leaves us a bit vulnerable to the evadeable attacks.  However, it's still unlikely that she'll kill us through 107 Magic Evade.  Meteo has low accuracy by default, and the odds that she selects Aero twice and connects both times is also very low.  When she uses WaveCannon, she'll reset back to Turn 1, so we're guaranteed to be safe against the Fire-elemental attacks.
+
+I try to get a bit cute here and swap to the Thunder Shield to deal with Wave Cannon, but I mistime it.  On top of that, it's a bit silly to swap to the Thunder Shield when swapping back to the Aegis Shield for perfect Magic Evasion is objectively superior, blocking everything except Flare Star.  Swapping to the Aegis Shield for turn 2 of her script is also a good play and guarantees victory in the second phase, but I decided not to do that because I was worried about making a mistake.  When she decides to do nothing on her turn, it can throw you off on the turn cycle.  In hindsight, I still probably should have done it though...
+
+Character Uses:
+Terra - 3
+Locke - 4
+Cyan - 4
+Shadow - 4
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 4
+Setzer - 4
+Mog - 3
+Gau - 4
+Umaro - 4
+Gogo - 4

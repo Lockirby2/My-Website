@@ -1,0 +1,24 @@
+Demon's Gate is often one of the most difficult and fun bosses, and this run is no exception.  It was not, however, one of the scariest, as I remembered enough of GarlandTheGreat's Solo Rotating Character challenge to know that we had all the tools to beat it without needing a scary amount of luck.  I don't tend to look up solutions to fights from other challenge videos while I'm doing a challenge, but if the knowledge is already in my head, I can't exactly remove it (short of a lobotomy).
+
+Demon's Gate has four attacks.  Its standard attack is Rock Drop, a physical attack that nearly OHKOs us.  We generally need to heal from this.  It also has Petrif-Eye, which can inflict Slow-Numb, a status that will inflict Petrify after a countdown.  In practice, it's not much different from Rock Drop except that we need to use a Soft instead of a Hi-Potion to heal.  Cave-In is a weak Ice-element move, which we equip resistance to.  If we know it's coming, we can potentially skip a heal.  Finally, Demon Rush is its strongest attack (OHKOing us by default), but it needs a turn to charge this, and it's not much stronger than a single rock.
+
+It's actually a bit tough to convey Demon Gate's attack script with prose, so this will look a little more code-like than normal:
+</p><ol class="standard-text-interrupt">
+    <li>Drop one rock.  1/N chance of using Petrif-eye instead.</li>
+    <li>Drop one rock.  1/N chance of dropping another.</li>
+    <li>Drop one rock.  1/N chance of dropping another.</li>
+    <li>Use Cave-In.  Randomly go back to one of turns 1, 2, or 3.</li>
+</ol><p class="standard-text">
+If you're wondering what "N" is, it's a value that decreases as we deplete Demon's Gate's HP.  When it's above half health, N is 8, so it only has 1/8 chance of dropping two rocks.  When under 50%, N is 4, and when under 25%, N is 3.  Therefore, the fight gets more dangerous as it goes on.  Every time Demon's Gate loses 25% of its HP, it'll charge up a Demon Rush and return to its normal script after using it.  This is probably the best enemy AI in the game IMO.
+
+So what do we do with this info?  Well, at the start, we need to stall turns until we can setup Barrier.  Since two rocks will kill us, we need to wait until it uses Cave-In to get our opening.  Once it does, we put up Barrier and heal (the latter not being necessary here due to a lucky miss).  Now that we can move without dying, the next step is to gain the speed advantage.  We need both Haste and Slow to double-turn the boss, which is unfortunate because Haste will increase the speed at which our Barrier runs out.  Still, we have no reason not to use the lowest battle speed and Wait mode, so the Barrier is still more effective than against the Red Dragon.
+
+This process requires a little luck since a double Rock Drop or a crit will end us, but with only a 1/8 chance of a double Rock Drop to start, we have a pretty decent opening to buff.  With our buffs up, we're safer than we look.  When we get two turns to the boss' one, we have one turn to heal from any attacks and one free turn to deal damage, restore our Barrier, etc. If we have some HP and we know a Cave-In is coming (which is always the case when the boss has dropped three rocks in a row), we can get an extra attack in.  For damage, we'll use Molotovs here as usual.  We could always use Right Arms to cheese the fight with massive damage, but that would be lame.
+
+The main danger now is Demon's Gate dropping two rocks and critting one on turns 2 or 3 (surprisingly, this never happened).  It can also crit Demon's Rush, which ended three attempts.
+
+Another issue is Barrier running out at the wrong time and us dying from a critical hit or double Rock Drop.  I did my best to skip turns if I anticipated Barrier depleting at the wrong time, and was fairly successful on this attempt despite messing this up in the past.  I also used Healing Wind (with its long animation) once while trying to time the Barrier, but this was less successful and probably made things worse.  The third trick we can use is pushing Demon's gate below a 25% HP threshold when Barrier is about to deplete.  Since it wastes a turn charging Demon Rush, we have an easy opportunity to re-establish the Barrier.  You can see this in action on the first Demon Rush.
+
+The ending to this fight was a bit scary because I expected Barrier to run out at a bad time.  However, I realized that if we skipped healing, we'd have just enough damage to finish it off before it attacked again.  You can see me pause for a moment to do some mental math and double-check whether that last Molotov would kill.  I wasn't 100% sure, but I was confident enough to go for it, and it looks like it was the right call.  Thank goodness too, as we'd have been sitting ducks otherwise.
+
+Overall, this is a fun fight that relies more on good play than luck.

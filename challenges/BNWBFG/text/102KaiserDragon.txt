@@ -1,0 +1,13 @@
+The other two of my three deaths in Kefka's Tower happened in this fight (I didn't have any fails past this point). He never used Quake in my test runs, so I wasn't aware that he had it. He wiped me on the first run because I didn't apply Float (I restarted without bothering to try and recover), and on the second run he wiped Float with Purge and used Quake again (for some reason I didn't put two and two together to realize that Float was gone).
+
+Also note that on this run, I accidentally reflected Reraise onto Kaiser. The bug where a Reraised boss doesn't drop items was still around in the version I'm playing, so I lost the Excalibur. I don't like it when bugs ruin runs like that, so I counted the fight as a success and redid it off camera to get the Excalibur.
+
+Kaiser has a large variety of attacks, but few of his attacks cut through defenses. I can avoid his physical attacks with Golem/Image (and Edgar shrugs them off), so the most important thing is to maximize my magical defenses. I brought a team with high magical defenses for this very purpose. Because of this, I mostly just need to heal after his magical attacks and he has a hard time finishing me off. There are a couple things I need to react appropriately to though, such as poison from Virite, Bonebreak slipping through my defenses, reapplying Float, and running out of MP, so the fight kept me on my toes anyways. I don't want to play the elemental game obviously, so I use non-elemental attacks.
+
+Celes' role is to be the main damage dealer. I want to keep her defenses up, so I equipped her with a shield. Her boomerang hits for great damage from the back in this fight, and is honestly quite competitive even without dual-wielding it. Berserk doesn't hurt either, although I have to be careful to time it around using Refract (to avoid it reflecting off). I can set up Refract on Celes right away since she spends the first three turns using Seraph - Slow - Slow, so the reflect status will be gone by then.
+
+Edgar chips in with extra damage from Chainsaw. I don't even have to worry about Bonebreak much because his defenses are so high. Edgar's Golem also helps, and he is the most likely to have a free turn if I need him for utility.
+
+Relm is mostly a healer with RegenX. I can chip in with Flare occasionally, but I have to be very careful because Bonebreak counters rip right through her. I use RegenX instead of Cure 3 to avoid conflicting with the reflect status.
+
+Strago must spend enough turns using Refract to keep himself and Celes protected. Otherwise, he's free to hit for great damage with Black Omen.

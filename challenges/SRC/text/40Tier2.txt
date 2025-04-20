@@ -1,0 +1,31 @@
+Out of all the battles here, Tier 2 is the one where we don't really want to use Mog.  Most of the dangers here are evadable magical attacks, which an Illumina-wielder would really shine against.  However, it ends up being less luck-reliant than you'd probably expect.  Each of our opponents in Tier 2 has a major weakness.  Magic's weakness is Mute, Tools' weakness is instant-death, Tiger's weakness is Poison, and Hit's weakness is being absolutely terrible.
+
+Whenever we transition between tiers, the ATB of everything on the screen fills up.  The bad news is that this means that the enemies all attack immediately.  The good news is that they'll act in a predictable order.  Magic will go first, casting either Haste, Haste 2, or Imp.  Haste does literally nothing here because of stupid design.  Three of these enemies are immune to Haste, and the fourth is immune to Slow, which also indirectly makes it immune to Haste.  Imp is obviously the threat, and the Force Shield we ended Tier 1 with is the best choice to dodge it.  If we're hit with Imp, the fight actually isn't lost immediately, but we'll probably die due to losing perfect Defense and the opening turn.  Fortunately, it doesn't happen here.  I'd estimate that Imp has a 1/10 chance of ending the run.
+
+Next, Tools will move.  Fortunately, we can swap shields whenever we want, and Tools will only use Bolt-element attacks on the first turn.  The timing for the shield swap feels a bit off.  Damage is calculated as soon as the attack animation begins, so we want to swap to the Thunder Shield during Magic's spell animation.  With this, we're safe from Tools.  We swap to the Genji Shield to block Hit's attack (this is mostly for swag).  Mercifully, Tiger doesn't act on turn 1.
+
+Now it's our turn to respond.  We first need to switch to the Flame Shield since Tiger's attacks are Fire-element.  We no longer have perfect Defense to deal with Hit, but Hit's physical attacks just aren't that strong, and even with the Flame Shield equipped, our Defense is still close to perfect.  With Safe from Tier 1, we take... ~20 damage.  Wow.  With our actual turn, we dual-cast Mute and Doom to remove Magic and Tools from the fight.  Another point of failure is that Doom can miss, but this is a negligible risk since Tools won't always use its Bolt-element attack to kill us and we probably still have Life 3.
+
+We're safe for the moment, but similarly to Tier 1, once Tiger drops below an HP threshold, it will start using its special attack, Doom Tusk, which can Zombify us and end the run.  We can't use Fenrir to dodge Doom tusk since you can't summon with X-Magic, and we can't use Vanish because Tiger will wipe it with a magical attack before using Doom Tusk.  We also won't use the same tactic we used against Face since it's a pain to kill off Magic and Hit while leaving Tiger outside of Doom Tusk range.
+
+Instead, we'll Poison Tiger to make up the difference.  In this game, Poison builds in power over time, so we need to wait for it to build to maximum power before striking and use our Ultima animations to delay Tiger's turns.  With perfect timing on our Ultima casts, it's possible that Tiger will only get one chance to use Doom Tusk.  However, on this run, getting frozen scuttles my setup, so it doesn't work.  We actually get frozen twice here, which is pretty shocking; even a single freeze is pretty rare.  Swapping to the Graedus also gives us a +10 Evade bonus, so we may as well.  We probably have an ~1/6 chance of dying here normally, but it felt more like 50% because I lost a lot of runs here for some reason.
+
+After that, it's just cleanup.  We swap back to the Genji Shield to shut down Hit's 10-Hit Combo death counter.  We then swap to the Flame Shield for Tier 3, and finish off Magic, who will death counter with Dispel to remove our buffs (Mute is removed before the death counter fires).
+
+A couple small mistakes here: with the Evade bug patched, certain statuses will reduce your chance to evade, and Life 3 is one of them for some reason.  It's not much use after turn 1, so I should have Dispelled it myself and reinstated Haste.  Additionally, with fast menuing, I probably could have swapped to the Tortoise Shield (the Imp shield) in addition to the Graedus since it happens to have the maximum Evade out of the allowed shields.  You know, just in case using four different shields and two different weapons against the same tier wasn't enough already...
+
+Character Uses:
+Terra - 4
+Locke - 4
+Cyan - 4
+Shadow - 4
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 4
+Setzer - 4
+Mog - 3.5
+Gau - 4
+Umaro - 4
+Gogo - 4

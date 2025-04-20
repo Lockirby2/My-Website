@@ -1,0 +1,38 @@
+We have another new recruit in this video, and that is Gau.  Technically, he joined before Celes, but this is the first time he's present for a boss.  As usual, Gau is probably the most important character in this run, but his role is different than in most runs.  Gau's main attribute is normally Rage, which allows him to take on traits of various enemies.  Not only does this give him access to some incredibly powerful attacks (at the cost of just using a regular attack 50% of the time), but it also allows him to take on defensive traits like status immunities and elemental resistances.
+
+However, Rage doesn't really shine in this playthrough.  Without other characters to heal Gau, Raging requires a ton of luck to be viable in this challenge.  It's often the case that the easiest viable strategy to think of it simply selecting a Rage and winning, but this is rarely the most reliable option, and Gau can only be used for so many fights.  Plus, because this isn't a Natural Magic run, we'll end up with almost as much average damage simply by casting spells while still having the flexibility to heal.  Rage will get a chance to shine, but for the most part we won't be using it.
+
+Gau's true purpose in this part of the challenge is simply to act as a top-tier mage, as his Magic and MP stats approach or match even some of the dedicated mages.  He has a higher level than Terra or Celes, better Magic and MP than Cyan or the other guys, and better availability than Shadow or Strago.  This makes him very key for a couple fights in the earlygame.  Gau is the most in-demand character, so using him correctly is about distinguishing between the moments where he is absolutely needed and the ones where another character can still get the job done (unlike a lot of the other characters, who are often just used where they shine the most).
+
+After singing Gau's praises for several paragraphs, you might be surprised to learn that not only is he not be used for this fight, but he can't even get the job done.  Instead, Celes is used for Runic for the second and final time.  This fight is a serious war of attrition with no efficient strategy available.
+
+Kefka here spams a lot of spells, almost all of which are an instant OHKO.  We need to Runic every single one to win.  However, Kefka is faster than Tunnel Armour is.  IIRC, even with Auto-Haste, we don't quite get enough time to heal and Runic afterwards.  However, Kefka is also a bit less random than Tunnel Armour, and this is his downfall.  His AI follows a 4-turn cycle:
+</p><ol class="standard-text-interrupt">
+    <li>Attack</li>
+    <li>Attack or cast a spell</li>
+    <li>Attack or cast a spell</li>
+    <li>Cast a spell</li>
+</ol><p class="standard-text">
+In other words, if we can survive three attacks, we can heal every time that Kefka is guaranteed to use a physical attack.  To survive those attacks, we need to use the Mythril Glove, the counterpart to the Barrier Ring that provides SOS Safe instead of SOS Shell.  Since Kefka will always attack on the first turn, it's safest to let him do that (entering at just the right HP to get knocked low) and just bank on not getting a 1/3 Poison cast on the second turn.  After that, we enter the cycle.
+
+Of course, we still need a source of damage.  The only thing fast enough is Fight, so that's what we do.  Thank goodness for the Rune Edge, which auto-crits by using MP and also has some evasion to boot.  Fight's damage doesn't seem quite as pathetic when doubled.  Without Auto-Haste, we have a very tight window to attack and Runic before the next turn Kefka gets.  We essentially need to input the Fight command before Kefka's previous attack has ended or it won't work.
+
+The second Relic slot can be used to boost damage.  The Black Belt (counterattacks) isn't great because if we attack and counterattack on the same turn, we won't have time for Runic.  Auto-Haste would make the fight easier because we'd have a wider opening for attacks, but I decided against it on the rationale that we'd be taking a lot more swings that aren't critical hits (Celes' MP is limited by how much she Runics).  With that in mind, Celes is given an Atlas Armlet for a straight 25% damage upgrade, and she'll crit almost every time with this setup.
+
+We do have a small chance of dying from a critical hit if Kefka attacks three times in a row and doesn't miss.  This isn't even likely to happen once in an hour, so we're pretty safe despite the length of the battle.  The real danger is screwing up.  It's easy to zone out and forget where you are in his cycle or get greedy; the latter happened once near the end of this fight, but thankfully he didn't use the Poison (it had a 1/3 chance of occurring).
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 1
+Shadow - 1
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 0
+Umaro - 0
+Gogo - 0

@@ -1,0 +1,20 @@
+Cait Sith is used once again since we still need to get him some more EXP before the next boss.
+
+The Water Ring normally trivializes this fight by absorbing every single attack, but the one we'd normally get is scavenged from a chest and they can't be stolen until just after this fight.  The main threat here is Aqualung, which OHKOs us without any counterplay, and we need to end the fight without seeing it at all.  The other attacks hit for about 300 damage (there's nothing we can really do to prep for them).  Like Demon's Gate, JENOVA Life is intended to get scarier as her HP depletes.  Let's take a look at the script:
+
+Blue Light.  1/N chance of a second Blue Light.
+Blue Light.  1/N chance of a second Blue Light.
+Blue Flame
+1/N chance of Aqualung (if it's not used, this turn is skipped; she won't spend a turn doing nothing)
+
+N starts at 5 and decreases until it reaches 2 when JENOVA is under 25% health.
+
+Like the last JENOVA fight, we need to use Wait mode if we want to anticipate her double attacks.  We only get a free turn to attack safely on the Blue Flame turn, and only if she used a single Blue Light on the turn prior.  If we try to attack just before a Blue Light turn and she decides to use two, then we're done.  This means that if we just try to bum rush her with damage, our already low damage output will slow down more and more until she eventually nails us with an Aqualung.  We could cheese the fight by spamming the powerful Right Arm item, but even that's unlikely to work.  Playing fair and throwing Molotovs is simply unfeasible.
+
+With that in mind, our goal is to run JENOVA out of MP without dropping her below 75% HP.  This sounds like it would involve playing passively and waiting the fight out, but there's a trick we can use to deplete her MP faster.  Whenever JENOVA Life is hit by a spell, she'll counter with Reflect, a spell that drains a whipping 30 MP at a time.  We'll trigger this counter with Quake since it hits a weakness.  Of course, once Reflect is up, we can't hit her with another Quake until it's gone.
+
+In this game, Reflect status isn't on a timer; it lasts until it reflects four spells back.  Since we need to spend so many turns healing anyways, we can kill two birds with one stone by bouncing Cure off of her instead of healing ourselves directly.  That said, we can't always heal with Cure since she can outdamage our healing if she uses two Blue Lights in a turn.  Therefore, we toss Hi-Potions sometimes to avoid getting whittled down by Blue Light spam.  Between the Reflect counters we trigger and the Blue Light/Flame spam, it doesn't take too long to eliminate her MP.
+
+In this video, I end up miscounting the Cures and reflecting Quake onto myself, apparently dooming this attempt, but she somehow happens to run out of MP at that exact moment.  Wow.  After that, we may as well spam Right Arms since we've already won.  I forgot to fact-check how many Right Arms we needed to kill her, so I didn't grab enough, but Cait makes up for that with a lucky Dice roll anyways.
+
+I estimated a ~1/5 chance of this strat working.

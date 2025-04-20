@@ -1,0 +1,23 @@
+Time for another challenge!  This time I'll be playing a different FF game for once.  This is my first time playing an FF7 challenge and I don't have a ton of experience with the game, so I probably missed something or other that would have made my life a lot easier.  That said, I'm still pretty happy with how things came out.  This challenge was randomly generated and was intended to be played by multiple people in Strahl's Discord community.  However, people were busy with other things, so this is the first full completion of the run despite me being nearly a year late to the party.  Better late than never, I suppose!  Here are the rules:
+
+Low Level: In this game, the definition is relatively simple.  No character may reach or exceed level 29 by the end of the game.  There is no obligation to keep levels low for intermediate battles or even maintain as many level 27 characters as possible.
+
+Solo Character: We may only use one character in mandatory battles.  For non-mandatory battles, we may do whatever we want if we're just running through a dungeon or something, but if we're going to Steal or kill the enemies, we must use a single character.  In FF7 PC, I do not have the knowledge or tools to kill off characters when there's a mandatory heal before a fight, so I will just do my best to enforce the rule in this case.
+
+No Attack Command: We may not use Attack at all.  Although Limit Breaks overwrite the Attack command, they are legal.  Other grey areas like Counter Attack or Deathblow are banned by the other rules already.
+
+No Independent (Pink) Materia: Self-explanatory.
+
+No Non-Mandatory Inns: You may not rest at inns or use healing spots unless it is forced by the game.
+
+No Scavenging: The description that Strahl wrote for this rule is "You may not open treasure chests or pick up items off the ground. Prizes from enemies may also not be used."  There are a lot of grey areas here.  Generally speaking, I'm going to stick closely to the literal wording of this definition.  I consider enemy Steals to be different than enemy drops, so they're allowed.  Items obtained from NPCs are also allowed since they're not picked up off the ground.  Selling scavenged items is banned, as I consider this to be a "use" of the item.  The MP Absorb Materia from Yuffie's sidequest can be used for reasons I'll explain later.  If forced to pick up an illicit item, we'll dispose of it without gaining Gil from it.
+
+I want to say a few words about the run as a whole.  One big difference between FF7 and FF6 is that FF7 is a lot more focused on long-term planning.  In FF6, each boss is its own puzzle to solve.  In FF7, the entire game feels like one big puzzle where we need to bring the right character at the right level to the right fight.  There are a ton of subtle mistakes (mostly related to EXP management) that can force us to redo hours of progress or scuttle the run entirely.  Plus, you tend to lose access to things as you complete more of the story, so it's easier to miss something that you needed and have no chance to get it again.  This makes FF7 runs a bit more stressful to play, but thankfully I didn't make any mistakes in places where it really counted.
+
+Until late in the planning process, I was intending to play this run on the PS1 version, but for reasons I'll get into later, I needed to use the Steam release instead.
+
+In this run, I won't be combining multiple bosses into the same video, but I may combine the forced regular enemies that are worth showing with the bosses around them, as I'm doing in this video.  I also don't feel the need to speed up any footage in this run, so if that annoyed you last time, it won't be a concern here.  With that said, here are the battles in this video:
+
+MPs: We can't attack them, so we need to use Bolt.  Stat growths in FF7 are random, but there's no need to manipulate any after this fight, so we only need to watch the opening cutscene once.
+
+Guard Scorpion: We have more than enough Bolts for this fight, and it's not threatening enough to force us to use any items.  Attacking when the tail is up is a poor choice in this run.  We can't move our Materia yet, so Cloud is the only character that can cast Bolt, and this makes him our character of choice.

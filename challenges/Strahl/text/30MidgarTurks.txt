@@ -1,0 +1,9 @@
+Before this fight, we finally acquire the W-Item Materia.  We can't use this due to the No Scavenging rule, but it certainly allows me to save time farming any more items thanks to the W-Item glitch.  Obviously, I won't use it to duplicate anything that we can't farm.
+
+The Turks are a glass cannon battle.  They don't take that many hits, but they are a true test of our defenses.  In a casual playthrough, a poorly defended character in the front row could take several thousand damage in a turn if they get dogpiled.  However, with Sadness (-30%), Back Row (-50%), Barrier (-50%), the Ziedrich (-50%), and our raw defenses (~-30%), we resist almost 94% of the incoming physical damage, allowing us to weather this storm.
+
+In addition, the Bolt Ring nulls Electroprod, and Reno only uses Turk Light once every three turns, so we can play around it.  Rude's attacks hit pretty hard, but he'll only attack one third of the time.  Elena's most dangerous move is her Bewildered attack, which inflicts Confusion, causing us to attack ourselves and break the challenge rules.  However, Elena will not use this if we don't attack her, and we only need to beat one Turk to win the fight, so we attack Reno instead.
+
+With that in mind, the strat is similar to Demon's Gate.  First, we enter with the lowest Battle Speed and Wait ATB.  We setup Barrier and then use Haste and Slow to start double-turning.  As long as we keep an eye on Turk Light, there's a lot more leeway to this fight than Demon's Gate though.  We mostly just need to heal when we reach low HP or if Turk Light is incoming.  A bit hectic, but not too hard.
+
+For damage, I decided to use the 8-Inch Cannons here, though it's maybe a bit cheap since this is an optional battle and those Cannons aren't actually consumed.  Still, they allow us to take out Reno quickly without hitting Elena.  I'm sure Contain would have worked anyways.

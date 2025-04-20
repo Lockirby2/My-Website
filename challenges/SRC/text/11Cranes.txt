@@ -1,0 +1,44 @@
+When I started this challenge, this was the fight I was most worried about by far.  Since then, I added rules that made the final battle an even scarier prospect, but at this point in the playthrough I had my eyes entirely on this fight.  For most battles, I had at least one plan that I knew for sure would work, with other plans as backups if I needed to swap characters.  But for this fight in particular, I had to experiment a bit and see what would stick.  I really didn't want to remove the No Offensive Items rule to throw the Thunder Rod at the right Crane, so I didn't want to be blocked here.
+
+There are a few gimmicks to this fight.  First off, this fight is a pincer attack, so we don't receive the benefit of the back row.  Attacks from behind also do 1.5x damage and ignore evasion, making this even worse.  It's possible to switch rows manually during a pincer attack, but I consider this a glitch, so we won't be doing that.  In addition, the Cranes each absorb an element, with the right one absorbing Fire and the left absorbing Bolt.  After being hit with three attacks they absorb, each Crane will counter with a "super move".  Reflected attacks add to the total, which is the main danger here.
+
+Obviously, Gau is the choice for this fight.  If you've been around the community for a while, you may remember Moogleboss' solo character runs where he just Raged Anguiform for Aqua Rake and managed to win.  That will not work here.  Since Moogleboss didn't hack to enforce the rules, his Gau was one level higher, which nets earlier KOs in many scenarios and also gives more survivability.  Additionally, there's normally a full heal before this fight, so he entered with three extra characters standing; they didn't take actions, but they still tanked crucial attacks.  Without those boons, an Anguiform strat goes from being luck-reliant to unrealistic.
+
+Instead, we'll use a normal caster strat.  We'll equip the Green Beret for its HP boost and Evasion boost (though this battle was done before I patched the M. Evade glitch, which means the evasion boost is lost here).  With the Green Beret, we can survive an Iron Ball or an attack from behind maybe 50% of the time.  As for our Relics, if one of them isn't the Wall Ring (Auto-Reflect), we almost always die before we can even move.  For the second slot, I chose the Hero Ring for a damage boost.  The Cranes can counter with physical attacks that we don't want to see, so I figured that eliminating one potential counterattack was better than Auto-Haste here.
+
+One advantage we have here over a regular LLG is that we can fight battles before the Cranes to learn all the juicy spells from the Espers that we just received.  So stuff like Safe, Haste, and Float are on the table.
+
+Normally, the right Crane is the first target, mainly because its Bolt weakness allows it to be killed faster despite its higher HP.  However, that's not a good play here because the left Crane's "super move" is the Reflect-piercing Giga Volt, which will destroy us.  The right Crane's super move is only Fire 3, which will bounce off harmlessly like all the other spells.
+
+The Cranes' attack patterns follow this two-turn cycle:
+</p><ol class="standard-text-interrupt">
+    <li>Fight (1/3) or level one spell (2/3)</li>
+    <li>Fight (1/3) or level two spell (1/3) or Iron Ball (1/3)</li>
+</ol><p class="standard-text">
+Even on turn one, we're at danger of bad things happening.  Both Cranes may attack, the left Crane's casts may start charging its super move, or an attack from behind may OHKO us.  The direction that our character is facing depends on their position in the party order.  By putting Gau in slot two, it will face the left Crane, the one that we'd prefer not to charge its super move.  By doing so, we increase our win-conditions for this fight.
+
+On turn two, things get even worse.  One of them has to cast a spell, or we almost certainly die.  We need to risk this a couple times during the fight.  In order to stack things in our favour, we need a speed advantage so that we aren't stuck healing all the time, and we need it fast.  The Cranes will always attack first, but it turns out that we can just barely eek out two Slow spells against the Cranes before their second turn.  From what I was able to tell, there's pretty much only frames to spare to apply the second Slow under normal circumstances, so even menuing speed is a factor here.  In this particular battle, I noticed that the left Crane's reflected spell triggered the AI stall glitch (mentioned in the Ghost Train battle) on the right Crane, so we use Slow without waiting for the right Crane to move.
+
+Once Slow is up, the best option is to go on an immediate offensive.  It takes too long to buff here since our Reflect gets in the way.  However, we do need to find a turn to setup Float (which thankfully is non-reflectable) since the Cranes' third gimmick is that they'll eventually "shake the deck", using a Ground-element Magnitude 8 spell that will kill us.  We can't enter the fight with Float in this case due to the aforementioned full heal before the fight (why does this remove Float?).
+
+We have one last advantage up our sleeve.  When a Crane is attacked three times, it will burn its next turn to charge the other Crane with a level two spell.  This is typically much better than the Cranes having an extra chance to kill us.  To save on turns, we use Elixirs whenever we're missing both HP and MP.  You get tons of Elixirs in this game, and there's no other fights where they're very important in this run, so we can feel free to use as many as we need.
+
+Once the left Crane is dead, we can't lose the fight as long as we're cautious.  And we definitely want to be as cautious as possible now.  I take a moment to pause and run through the script in my head to double-check that there are no remaining threats.  After one Crane dies, the other will use TekBarrier, which is perfect for us.  Not only does it burn the last chance the right Crane had to kill us, but it also gives us a perfect way to setup our buffs.  We want to spend the next turn casting Safe on the right Crane.  This will turn us to face it (denying it the 1.5x damage boost) and apply Safe through our Reflect (Reflected spells won't Reflect again).  After that, critical physical attacks and Iron Ball (which can't crit) won't be able to kill us, and all other attacks will be Reflected.
+
+After Dispelling its Reflect, we need to Slow it again since Dispel removes Slow.  During the final phase of the fight, we play like complete cowards, only attacking right after it wastes a turn.  I wouldn't normally play around something as unlikely as a 1/3 counterattack into a critical hit, but I did not want to redo the first part of the fight again.  It only takes three hits to die, so it still doesn't take too long.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 2
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 2
+Umaro - 0
+Gogo - 0

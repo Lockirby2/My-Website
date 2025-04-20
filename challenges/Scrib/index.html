@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lockirby2 - Scrib</title>
+        <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+        <script src="/components/helpers.js" type="module"></script>
+        <script src="/components/top-bar.js" type="text/javascript" defer></script>
+        <script src="/components/breadcrumbs.js" type="text/javascript" defer></script>
+        <script src="/components/navigator.js" type="module" defer></script>
+        <script src="/components/navigator-toggle.js" type="module" defer></script>
+        <script src="/components/navigator-button.js" type="module" defer></script>
+        <script src="/components/main-body.js" type="text/javascript" defer></script>
+        <script src="/components/file-text.js" type="text/javascript" defer></script>
+        <script src="/components/video.js" type="text/javascript" defer></script>
+        <script src="/components/video-loader.js" type="text/javascript" defer></script>
+    </head>
+    <body>
+        <c-top-bar>
+            <a class="breadcrumb" href="https://lockirby2.neocities.org">Home</a>
+            <a class="breadcrumb" href="https://lockirby2.neocities.org/challenges">Challenges</a>
+        </c-top-bar>
+        <div class="content">
+            <div class="left-margin">
+                <c-navigator role="menu" aria-label="Navigator"></c-navigator>
+                <c-navigator-toggle></c-navigator-toggle>
+            </div>
+            <c-main-body>
+                <h1>Scribblenauts Fewest Items Challenge</h1>
+                <c-file-text filepath="text/Summary.txt"></c-file-text>
+                
+                <h1 id="gardens">World 1 - The Gardens</h1>
+                <c-file-text filepath="text/1.txt"></c-file-text>
+                <c-video video-id="XrKO2ijoIUw"></c-video>
+                
+                <h1 id="metro">World 2 - Metro</h1>
+                <c-file-text filepath="text/2.txt"></c-file-text>
+                <c-video video-id="JmvgecwRbKs"></c-video>
+                
+                <h1 id="peaks">World 3 - The Peaks</h1>
+                <c-video video-id="FVnifa9eie0"></c-video>
+                
+                <h1 id="ancient">World 4 - Ancient</h1>
+                <c-video video-id="25g8Zs472lo"></c-video>
+                
+                <h1 id="shoreline">World 5 - The Shoreline</h1>
+                <c-video video-id="7Y9yFrl8_Hw"></c-video>
+                
+                <h1 id="outer-wild">World 6 - The Outer Wild</h1>
+                <c-file-text filepath="text/6.txt"></c-file-text>
+                <c-video video-id="UBESAV9tW6k"></c-video>
+                
+                <h1 id="stunt-park">World 7 - Stunt Park</h1>
+                <c-file-text filepath="text/7.txt"></c-file-text>
+                <c-video video-id="uoqfc_v_HkY"></c-video>
+                
+                <h1 id="frontier">World 8 - Frontier</h1>
+                <c-file-text filepath="text/8.txt"></c-file-text>
+                <c-video video-id="OKtfI5Z9lF4"></c-video>
+                
+                <h1 id="dark-hollow">World 9 - Dark Hollow</h1>
+                <c-video video-id="fD3hOQy4uHU"></c-video>
+                
+                <h1 id="mish-mash">World 10 - Mish Mash</h1>
+                <c-file-text filepath="text/10.txt"></c-file-text>
+                <c-video video-id="VfgZ3JXfn1g"></c-video>
+            </c-main-body>
+            <div class="right-margin desktop-only">
+                <c-video-loader></c-video-loader>
+            </div>
+        </div>
+    </body>
+</html>

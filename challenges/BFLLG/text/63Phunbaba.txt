@@ -1,0 +1,8 @@
+It wasn't particularly hard to figure this out, but it was fun and easy to execute. No luck involved, meaning that a good execution is enough to win the fight. Of course, I did take some risks near the end which were unnecessary and unhelpful, but I didn't die, obviously.
+
+Basically:
+</p><ul class="standard-text-interrupt">
+    <li>Bolt 2 and Bolt 3 do nothing, so use this time to launch an offensive. Every second turn in a three turn cycle is one of these, so I can get reliable damage there.</li>
+    <li>Solar Plexus will kill somebody if it hits, which it probably will. But since I know this, and I only have two characters whom I can distinguish by controller noise, I can always revive easily with the remaining character. Blow Fish is the same deal.</li>
+    <li>If he does a physical attack, I have to heal with both characters. If somebody was just revived, I need to check if they died again before healing, so that I can revive them if necessary. It's not a run ender if I mess that up since he only uses physical attacks before Turn 2, my freebie turn.</li>
+</ul><p class="standard-text">

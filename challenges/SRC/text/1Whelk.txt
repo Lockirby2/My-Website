@@ -1,0 +1,55 @@
+This challenge was created by <a href="https://www.youtube.com/@GarlandTheGreat/videos">GarlandTheGreat</a>, but his version was in FF7.  I decided to see how this would go in FF6 instead.
+
+This is essentially an "Episode 0" where I'll mostly just be going over the rules.
+
+The main idea of this challenge is that every major battle will be done by a solo character.  The chosen character will "rotate" over the course of the game so that each character fights an equal number of major battles.  In FF6's case, each character will fight four major battles.  Of course, this would be trivial at regular levels, so I've also modified the game to remove EXP.  I decided that outside of major battles, character use is completely unrestricted because it would otherwise be a huge pain to deal with killing off characters at all times.
+
+To spice things up and make the run a bit cleaner, I've added a few additional rules:
+</p><ul class="standard-text-interrupt">
+    <li>Battle Message Speed 1 at all times</li>
+    <li>No Jump</li>
+    <li>No Step Mine</li>
+    <li>No Merit Award</li>
+    <li>No incapacitating status effects (i.e., statuses that will instantly win a fight, like Mute, Sleep, etc.) against bosses.  This includes instant death or using healing spells/items on undead enemies.  Enemies that come with bosses, parts of bosses like Number 128's arms, and the tiers before Kefka are fair game for status effects.  Weaker statuses like Poison/Slow and positive statuses like Reflect are also acceptable to inflict on bosses.</li>
+    <li>No MP milling bosses.  Again, milling non-bosses is acceptable.</li>
+    <li>If there's a gauntlet of fights, the same character must be used for all fights in a row.</li>
+</ul><p class="standard-text">
+In addition, some amount of hacking/cheating/whatever was used to enforce the rules and make the run cleaner:
+</p><ul class="standard-text-interrupt">
+    <li>Characters other than the solo character will be killed or removed from the party before combat, even in cases where they would normally have to be alive at the start of a battle.  With one notable exception, this just avoids the awkward scenario where you have characters you aren't allowed to use standing around and taking hits at the start of combat.</li>
+    <li>Bosses have been given more MP in cases where they'd normally run out naturally.</li>
+    <li>The Evade/M. Evade bug has been patched.  The goal is to reduce the number of bosses in the endgame that you instantly win against.  This does make the earlygame slightly easier because Evade values are typically higher at that point.  However, I actually did the early sections of the run before I decided to patch the bug, so it was done without that advantage anyways.  If it even smelled like I got an advantage from doing a fight before the patch, I redid the fight.</li>
+    <li>Save states were used before each boss fight (or gauntlet of fights if multiple happen in a row) to make resets faster.</li>
+    <li>EXP from enemies was removed.</li>
+</ul><p class="standard-text">
+Overall, I'm happy with how this ruleset turned out.  I think that if somebody else wants to do this challenge, they should also ban the Paladin Shield to make the WoR more interesting.  I think it should still be doable without the Paladin Shield.  But I didn't feel like redoing everything without the Paladin Shield at the point I realized that.
+
+Note from the future: I did, in fact, redo everything without the Paladin Shield
+
+It's worth noting that FF6 only has 52 major battles, which can't be evenly divided into 14 characters.  Therefore, I decided to add four "bonus bosses" that I thought would be interesting.  To avoid inadvertently making the challenge easier, each character can only fight a single bonus boss at most.  These fights were chosen to be interesting and memey rather than following any consistent pattern.
+
+Now, let's talk about this particular video.
+
+The first character to join the party is Terra.  She's not great in the earlygame, as her Fire spell isn't particularly exciting and her level is only three.  This means that she doesn't have as much power as you'd expect, she has no notable special abilities, and she's extremely frail.  We'll generally avoid using her for now.
+
+Terra will be an excellent lategame character though.  This is mainly due to her Illumina weapon, which provides 50 Evade and Magic Evade.  Combining that with the Paladin Shield, Green Beret, and Force Armour gives her 100+ Evade and nearly perfect Magic Evade without using a Relic slot, allowing her to avoid the vast majority of attacks.  A consistent theme of this run is that we'll want to save Illumina wielders for the endgame where possible.
+
+On top of that, her high Magic stat and Morph access also makes her one of the best damage dealers in the endgame.  This is pretty nice as well.
+
+As for this fight, it's the easiest decision in the game.  Terra is the only character available, so she's the character we must use.  Whelk's damage output is low enough that this is essentially unlosable unless we hit the shell by mistake (triggering a powerful Mega Volt counter).  We're lucky it didn't inflict Slow and drag the fight out another cycle.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 0
+Shadow - 0
+Edgar - 0
+Sabin - 0
+Celes - 0
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 0
+Gau - 0
+Umaro - 0
+Gogo - 0

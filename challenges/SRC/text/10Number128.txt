@@ -1,0 +1,44 @@
+It's finally time to bring Gau out.
+
+This strategy relies on a decent amount of luck, so we want to make sure we're putting our best foot forwards.  Cyan has barely enough MP to cast Phantom (with the Bard's Hat equipped for its MP boost), but is also barely shy of casting two Fire 2s.  With a lower Magic stat to boot, Cyan's damage per turn is roughly half that of Gau's, which isn't very good when we don't have a reliable means of survival.
+
+Edgar has better DPS than Cyan, but he lacks the MP to cast Phantom.  Maybe he could win with a Black Belt (counterattacks) and Drainer (weapon that absorbs HP) combo, but it would be sketchy.  And on top of that, we have the logistical hurdles of fitting Edgar on the team for this section of the game and Stealing the Drainer from the previous boss.  So Gau is the only good option here.
+
+As mentioned in his character bio, the main reason why we need Gau here is for his casting stats.  With three targets on the field, Gau's Rages suddenly have poor DPS against the boss itself, and we also can't kill both of the arms at the same time because it will cause the boss to do nasty things.  Therefore, the strategy is somewhat simple: set up Vanish, spam Fire 2 (the level 2 spell with the lowest MP cost), and pray that Vanish isn't removed.  But it's a bit easier said than done.
+
+While we just obtained a bonanza of new Espers, we don't have any random encounters to grind AP on before the Mine Cart Ride, and there aren't enough enemies on the Mine Cart Ride to learn anything useful from.  This means that we can't inflict Stop on the boss' arms, and we don't have any status effects available that will work on the enemies preceding the boss.  At least we have spells from Ifrit and Shiva, which we couldn't learn by this point in a regular LLG.  
+
+We can setup Vanish reliably by summoning Phantom itself, which is key here.  While the boss has a 1/3 chance of removing Vanish every turn and one of its arms can remove Vanish as well, any strategy that tries to win without Vanish is essentially just waiting to die when the boss casts Net to inflict Stop.  We'll want to setup Vanish on the way to the boss so that we can cast Phantom an extra time as backup during the boss fight itself.  That may seem difficult given that the enemies on the way there spam spells, but we can make it work with only a 1/3 chance of failure.
+
+One thing of note here is that the Bard's Hat actually outperforms the Green Beret here despite the Evade glitch being patched.  Normally the advantage of the Bard's Hat is to increase Magic Evasion to avoid physical attacks, but here we just really need the extra 5 MP.  With 45 MP, Gau hits a couple important benchmarks, and you'll see him at exactly 0 MP four times during this section.
+
+The enemies that you fight on the Mine Cart Ride aren't random; they depend on who's in the lead of your party.  We'll actually just fight the set of battles one would normally fight in an LLG since it's the easiest here anyways.  The only enemy here is the Purple Mag Roader, who has a 2-turn attack cycle:
+</p><ol class="standard-text-interrupt">
+    <li>Weak physical attack</li>
+    <li>2/3 chance of Fire, 1/3 chance of Fire 2</li>
+</ol><p class="standard-text">
+Going through the battles one-by-one, we start with one Mag Roader, who will die to Fire 2.  In the second battle, we face off against two Mag Roaders.  An MT Fire 2 is a range to kill, but it will kill more often than not.  Their physical attacks aren't threatening even if they both survive, and we can spare the MP for Fire to guarantee the kill on turn 2.
+
+The third fight is against one Mag Roader again, which gives us our best opportunity to restore our MP and setup Vanish for the first time.  With no status effects available to hit this thing with, the only way we can incapacitate it is to deplete its MP.  With only 100 MP, two Rasps will deplete it, but we don't have enough MP to use Rasp on the first turn.  Therefore, we use a spell that I didn't think we'd use in a playthrough where we have as many Tinctures as we need.  Osmose only costs 1 MP, absorbs enough MP to allow us to cast Rasp, and also depletes enough MP that we only need one Rasp follow-up to win.  It's the perfect niche here.  With that, we setup Vanish, restore our MP to full, and finish it off with Rage (after looking around the menu for half an hour) to avoid spending MP.
+
+The fourth battle is a repeat of the second, but we won't take damage from their physical attacks since we have Vanish now.  The final battle is where things get dicey since there are two Mag Roaders, but we also want full MP before entering the boss fight.  Unfortunately, we can't do this without taking a risk.  We can get off Fire 2 and Osmose to kill one and start depleting the second's MP, but it will always get a second turn to use a spell.  If that's Fire 2, we die.  The Green Beret's HP boost would give us a small chance to survive IIRC, but it isn't worth it.  This was actually my first attempt at this gauntlet, so I ended up making my odds worse here by trying to Rasp/Osmose first instead of just killing one.  I was hoping that I might get three turns before the spell, but this was futile.
+
+And finally, we reach the boss.  The main boss has a 1/3 chance of removing Vanish every turn, and one of the arms can hit us with Shock Wave too.  Ice and Shock Wave are survivable, so with good luck, we might have been able to survive any follow-up attacks and cast Phantom again (using an Elixir if necessary).  Net is an instant game-over though.  We Slow the main body on the first turn, waiting until after the first Tincture to Slow the less dangerous arm since we'll lose a Fire 2 cast otherwise.  In hindsight, since the body takes an odd number of Fire 2 casts to kill, it would probably have been safer just to give up a Fire 2 cast and Slow the arm right away.
+
+After all of that, we just spam Fire 2 and heal MP when necessary.  We end up getting absolutely perfect luck on the very first attempt with no close calls at all.  It's the best possible outcome for my sanity, but probably the worst possible outcome for the video.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 2
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 1
+Umaro - 0
+Gogo - 0

@@ -1,0 +1,29 @@
+This is the last video before we enter the final dungeon.  And if you've noticed, we haven't fought a single battle with Relm yet.  It's time to change that in a drastic way.  Relm is going from zero battles to all four in the span of five boss fights.
+
+Presenter and its shell can both do some dangerous things while the head is out, but we can force it into its shell by attacking it twice.  With the Gem Box (X-Magic), we can do this on turn one.  While in the shell, it only uses Magnitude 8 and Giga Volt, which can be defended by Float and the Thunder Shield respectively.  Oddly, the shell's HP isn't any higher than the head's, so we can just spam Ultima for another two turns and it will die before it becomes dangerous again.
+
+The White Dragon only uses Pearl (Holy), so Auto-Reflect wins the fight. The healing from the Reflected spells prevents Umaro from winning this, but does nothing to stop Relm.
+
+Brachiosaur is the closest thing to FF9's Ozma or FF7's Emerald/Ruby Weapons that this game has to offer, and it'll thus be the fourth and final bonus boss.  It uses powerful unblockable spells like Meteor and Ultima without any warning and can spam barrages of physical attacks that can kill us in a turn even while Life 3 is active.  And we're fighting it with Relm?
+
+Well, it turns out that this thing is vulnerable to Control.  By equipping the Fake Mustache Relic, Relm can use Control in the place of Sketch.  By equipping the Hypno Crown, our odds off a successful Control improve to ~13-14%.  Not exactly fantastic, but it'll do.  The issue is that the Brachiosaur can only use physical attacks while Controlled, which will immediately break our Control.  To get around this, we Poison the enemy before Controlling it so that it'll die without our help.  Then we'll count damage and finish off the Brachiosaur with its own attack when its HP is low enough.  This also requires it to use physical attacks for the first couple turns, so our odds of winning aren't great, but attempts are fast.
+
+But hang on, isn't Control a status effect?  Isn't it banned?  Well, if you look at the status immunity bits in the game data, you'll notice that Control is conspicuously missing.  There's actually a separate flag for Control immunity, similarly to immunity to Sabin's Suplex.  And we wouldn't ban Suplex, right?  And if that's not enough to satisfy you, the Brachiosaur isn't technically a boss either; I certainly don't see a boss death animation.  So status effects are perfectly legal here anyway! ;)
+
+Okay, real talk: Every other character naturally gets a chance for their unique traits to be shown in some way or another during this challenge.  I wanted to give Relm a chance to do something that is uniquely Relm in this challenge.  And if it wasn't this, what would it be?  Since the bonus bosses are optional memes anyways, I figured this was the perfect time for something like this.
+
+Character Uses:
+Terra - 1
+Locke - 4
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 3
+Setzer - 4
+Mog - 2
+Gau - 4
+Umaro - 3
+Gogo - 3

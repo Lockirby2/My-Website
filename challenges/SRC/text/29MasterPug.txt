@@ -1,0 +1,19 @@
+This one is fairly straightforward.  The biggest threat here are its Step Mine counterattacks, which will kill us.  We can deal with these via Life 3, but it means that we'll need to be able to survive all its other attacks reliably in order to attack safely.  On its first three turns the boss will attack physically, which we'll just wait out with the Vanish status.  Then it will begin its main script.
+
+Master Pug will begin randomizing its elemental weakness with Wall Change and using an attack based on which element it makes itself weak to.  Seven out of the eight can be avoided with perfect Magic Evasion, while the eighth (Quake) can be avoided by devoting our free Relic slot to the Cherub Down (Auto-Float).  When Master Pug reaches the front of the screen, it will attack with its special move (Cleaver), which is physical.  Therefore, we need to setup Vanish before Cleaver hits and then remove it on the next turn to get back our Magic Evasion.  We get very lucky with Step Mine here, so it dies on the second cycle.
+
+Character Uses:
+Terra - 1
+Locke - 3
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 0
+Setzer - 2
+Mog - 2
+Gau - 4
+Umaro - 3
+Gogo - 2

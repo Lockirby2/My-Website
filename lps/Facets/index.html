@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lockirby2 - Facets</title>
+        <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+        <script src="/components/helpers.js" type="module"></script>
+        <script src="/components/top-bar.js" type="text/javascript" defer></script>
+        <script src="/components/breadcrumbs.js" type="text/javascript" defer></script>
+        <script src="/components/navigator.js" type="module" defer></script>
+        <script src="/components/navigator-toggle.js" type="module" defer></script>
+        <script src="/components/navigator-button.js" type="module" defer></script>
+        <script src="/components/main-body.js" type="text/javascript" defer></script>
+        <script src="/components/file-text.js" type="text/javascript" defer></script>
+        <script src="/components/video.js" type="text/javascript" defer></script>
+        <script src="/components/video-loader.js" type="text/javascript" defer></script>
+    </head>
+    <body>
+        <c-top-bar>
+            <a class="breadcrumb" href="https://lockirby2.neocities.org">Home</a>
+            <a class="breadcrumb" href="https://lockirby2.neocities.org/lps">Full Playthroughs</a>
+        </c-top-bar>
+        <div class="content">
+            <div class="left-margin">
+                <c-navigator role="menu" aria-label="Navigator"></c-navigator>
+                <c-navigator-toggle></c-navigator-toggle>
+            </div>
+            <c-main-body>
+                <h1>Facets</h1>
+                <c-file-text filepath="text/Summary.txt"></c-file-text>
+                <c-file-text filepath="text/Intro.txt"></c-file-text>
+                
+                <h1 id="video">Video</h1>
+                <c-video video-id="_5fJxt0frdY"></c-video>
+                
+                <h1 id="mimic">Boss 1: Mimic</h1>
+                <c-file-text filepath="text/1Mimic.txt"></c-file-text>
+                
+                <h1 id="medusa">Boss 2: Medusa</h1>
+                <c-file-text filepath="text/2Medusa.txt"></c-file-text>
+                
+                <h1 id="giant-worm">Boss 3: Giant Worm</h1>
+                <c-file-text filepath="text/3GiantWorm.txt"></c-file-text>
+                
+                <h1 id="blood-bat">Boss 4: Blood Bat</h1>
+                <c-file-text filepath="text/4BloodBat.txt"></c-file-text>
+                
+                <h1 id="lamia">Boss 5: Lamia</h1>
+                <c-file-text filepath="text/5Lamia.txt"></c-file-text>
+                
+                <h1 id="carbuncle">Boss 6: Carbuncle</h1>
+                <c-file-text filepath="text/6Carbuncle.txt"></c-file-text>
+                
+                <h1 id="sylph">"Boss" 7: Sylph</h1>
+                <c-file-text filepath="text/7Sylph.txt"></c-file-text>
+                
+                <h1 id="bahamut">Boss 8: Bahamut</h1>
+                <c-file-text filepath="text/8Bahamut.txt"></c-file-text>
+                
+                <h1 id="slime">Boss 9: Slime</h1>
+                <c-file-text filepath="text/9Slime.txt"></c-file-text>
+                
+                <h1 id="phoenix">Boss 10: Phoenix</h1>
+                <c-file-text filepath="text/10Phoenix.txt"></c-file-text>
+                
+                <h1 id="story">Story</h1>
+                <c-file-text filepath="text/11Story.txt"></c-file-text>
+            </c-main-body>
+            <div class="right-margin desktop-only">
+                <c-video-loader></c-video-loader>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+This fight is the first in the final dungeon, and it's probably the hardest WoR fight outside the final boss.  We have three opponents on the field, and two of them will regularly use physical attacks that are hard to survive while the main boss will counterattack with them as well.  If physical attacks were the only problem, we could tank them with perfect Defense, but Shrapnel (non-elemental) will kill Mog and we'd have to deal with the awkward combination of Bolt and Fire elemental attacks, which Mog can't nullify/absorb at the same time.
+
+Therefore, for this one, we're bringing in the big guns.  With Imp equipment and a Force Shield, Shadow is able to attain 237 Magic Defense along with Auto-Shell and resistance to both Bolt and Fire.  For those counting, that's resisting ~98% of the damage coming from the elemental spells, and yet the damage they're dealing still isn't trivial.  Shrapnel is powerful and non-elemental, but the arm using it isn't as strong as the main body, so we can barely survive that as well.  Now Shadow can use Shadow Edges to deal with the incoming physicals, a Ribbon to deal with Petrification from the unblockable Delta Hit, and Life 3 to give us a saving throw in the event of bad luck.
+
+However, if the arm uses Shrapnel and the main body uses a magical attack back-to-back, we're still going to die, and then a physical hit is likely to finish us off after Life 3 procs.  To reduce the odds of this happening, we need to keep the arms out of play as much as possible.  Killing them is not advisable, as the main body will start throwing out Meteor when either is dead, killing us easily.  However, the arms are vulnerable to Stop, and with Slow applied as well, it will last a long time.  
+
+However, we have no indication of when Stop wears off, so we either have to play the timing game or let the arms take turns sometimes.  I opted for the latter, as our odds of dying are still low and this is a lot easier.  By staggering our Stop casts on the arms, we can prevent them both from recovering at the same time, which reduces the odds that we die.  I opted to heal every time I took damage in case a surprise Shrapnel occurred; it's possible to safely get away with fewer heals if you're confident about predicting when Stop will wear off though.
+
+For damage, we can't use Ultima since we don't want to kill the arms.  Bolt 3 hits a weakness, so it isn't terrible, but it isn't great either.  Luckily, Inferno doesn't have much HP for an endgame boss.  Everything goes smoothly on this attempt, so we never even need Life 3.
+
+Character Uses:
+Terra - 1
+Locke - 4
+Cyan - 4
+Shadow - 4
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 3
+Setzer - 4
+Mog - 2
+Gau - 4
+Umaro - 3
+Gogo - 3

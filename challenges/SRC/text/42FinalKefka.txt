@@ -1,0 +1,31 @@
+Out of all the battles in this gauntlet, Kefka himself is both the hardest and the easiest.  He's difficult to prep for, and we have the fewest options for defeating him.  But on the other hand, if we're prepared, this fight is a bit easier to execute than the tiers and requires no RNG.  In a sense, I beat the tiers while recording the video, but I beat Kefka before I even entered the fight.
+
+Kefka opens the fight with Fallen One, knocking us to 1HP.  We don't need our HP here, so it doesn't matter.  In phase 1, most of Kefka's attacks are physical, but on certain turns he'll use level 3 elemental spells.  You may think we should swap to the Fire/Thunder Shields when appropriate and heal to survive the physicals, but it's hard to overstate just how strong Havoc Wing is.  With a Thunder Shield equipped, we can get 248 Defense, Safe, and the back row on our side, which would reduce nearly every physical hit in the game to 50 damage or less.  However, Havoc Wing still easily OHKOs.
+
+Therefore, the solution here is using the Genji Shield full-time and casting Reflect.  We want to ensure that Reflect runs out long before we need to reapply it, so we cast Haste to ensure that it runs out faster.  On the turns where Kefka can cast Fire 3 or Bolt 3, we cast Reflect just beforehand.  Ice 3 is absorbed by the Snow Scarf, so we don't need to deal with that.  Kefka can also use Trine to Mute us, but he only does that on the same turns he casts his spells, so it won't interrupt our Reflect casts.
+
+When Kefka enters phase 2, he'll start charging up his signature move, Goner.  While it respects Magic Defense and is technically survivable, we're not tanking it with any reasonable equipment, so we need to accept dying to Goner.  Therefore, the turn after Goner has to be survivable, or we risk dying.  This, above all else, is why Mog is needed in this battle.  Kefka's accuracy with Havoc Wing is 190%, the highest out of anything in the game, and Goner will wipe out Image, so evading it simply isn't a viable option.
+
+Since Kefka always charges up before using Goner, we can always apply Life 3 beforehand.  Havoc Wing does nothing to Mog.  Trine will Mute us, but as long as we always use a Remedy right away, we'll always be able to use Life 3 when necessary.  His fourth move in phase 2, Revenger, will dispel Life 3, but as long as we don't forget to reapply it, we're fine.  The only other danger is the Hyperdrive/Ultima counterattacks Kefka uses in this phase.  We always need to use Life 3 before attacking to prevent them from wiping us.  There is one exception to this rule though: if Kefka is charging for Goner, he won't counterattack, so we're safe to fire off Ultima before a Goner.  Keep that in mind for a moment.
+
+Even though phase 2 isn't really that dangerous, it's still a bit nerve-wracking.  You know the fight is long when we need to heal our MP for a second time when the Economizer is equipped.  45 minutes into the fight, I really didn't want to forget to apply Life 3 or something.  I made that mistake against Rest once, so I was a bit paranoid. Heh.
+
+Kefka enters phase 3 when under 7681 HP, and it's deadly.  Kefka will now follow up Goner with Meteor, which will end the run.  The only option is to prevent him from using Goner in his third phase.  There are a couple ways to do this, but the easiest and safest is to abuse one last AI quirk.  If we knock Kefka below 7681 HP while he's charging Goner, he'll unleash Goner and then use one last Havoc Wing/Revenger/Trine as if he was still in phase 2.  Then he'll begin phase 3 and start charging Goner again.  Since Kefka doesn't counterattack while Goner is charging, and all four of our casts are performed while he's charging for Goner, we can guarantee that we deal ~10K damage to end the fight and the challenge.
+
+Thanks to everybody who watched this challenge through to the end!  I'm pretty happy with how this one turned out.  Surprisingly few of the strategies in this challenge banked on much luck outside of the first couple of turns of any given fight.  But at the same time, there weren't a lot of fights that felt entirely free, especially for an FF6 challenge.  A long time ago, when playing Low Level No Specials No Items, I remember the final battle feeling like a chaotic RNG-fest.  But this challenge is almost strictly harder (the only meaningful advantage here is that we can heal Mute with Remedies), and it was still much smoother overall.  Anyways, see you all next time!
+
+Character Uses:
+Terra - 4
+Locke - 4
+Cyan - 4
+Shadow - 4
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 4
+Setzer - 4
+Mog - 4
+Gau - 4
+Umaro - 4
+Gogo - 4

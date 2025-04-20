@@ -1,0 +1,29 @@
+In case I'm not sounding like a broken record enough yet, this is another fight where Gau is the most obvious solution, but not the best one.  However, unlike the previous two battles, the backup strategy isn't entirely reliable either.  Like against Ifrit & Shiva, the key to this battle is understanding its AI (or in this case, lack of AI).
+
+Number 024 will use WallChange on a regular basis.  This move will cause the boss to absorb one random element, become weak to another random element, and nullify the other six.  Normally, the attacks it'll use depend on which element it is weak to.  For example, if it's weak to fire, it will use ice-elemental spells.
+
+The juicy part is that, after using WallChange three times, Number 024 will enter its "System Error" phase.  In this phase, it will stop attacking entirely and will instead begin to heal every turn (occasionally casting Scan on itself).  The boss was intended to snap out of this phase after a few rounds of healing, but due to a bug in its AI, the boss will continue to do this indefinitely.
+
+Therefore, we essentially just need to be able to deal enough damage in this phase to overcome its healing.  With only one character, this is a pain since its counterattacks (just regular physical attacks) will force us to stop and heal regularly, which would drag the battle out.  Therefore, I decided that it would be best to enter the battle with Vanish status (obtained via Gau's Gabbledegak Rage) and preserve it until the last portion of the battle.
+
+The trouble is that, after its first WallChange, Number 024 will normally use elemental attacks.  While we can survive some of them, the issue is that they'll remove Vanish status, which we have no (reliable) way of reapplying mid-fight.  Therefore, it's best if the boss makes itself weak to Poison (which will cause it to heal itself instead of attacking) or Holy (which will make it use physical attacks most of the time).
+
+But we can stack the odds in our favour a little bit more.  If we hit Number 024 with a spell that it's weak to, it will use WallChange immediately, giving it one fewer chance to end the battle.  Unfortunately, we aren't fast enough (even with Haste) to Scan it to find its weakness and cast the appropriate spell afterwards.  Therefore, our best bet is just to randomly guess.  We can get off two spells as long as their animations are shorter than Scan, so we cast Ice and Bolt to trigger a WallChange if its weakness is ice or lightning.  This gives us decent  enough odds of making it through with Vanish.
+
+After that, we just need a solid, reliable attack that will outpace its healing.  Anything elemental is off the table, so Cyan's Dispatch is a perfect fit.  This marks Cyan's fourth battle, which means that Cyan is the first character to be retired in this challenge.  Glad we could use him up in the early-game where he's at his best.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 2
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 0
+Umaro - 0
+Gogo - 0

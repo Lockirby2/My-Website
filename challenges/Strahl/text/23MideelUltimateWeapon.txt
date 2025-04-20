@@ -1,0 +1,13 @@
+In Mideel, Ultimate Weapon does nothing but use three attacks and flee.  With our Protect Ring (Auto-Barrier and Auto-M. Barrier) acquired from Schizo, we can tank all three hits and heal.  Cid is used just to give him screentime since we don't get EXP here.  Theoretically, we can Steal a Cursed Ring here, but because the discrepancy between our level and Ultimate Weapon's is so large, the odds of a successful Steal are... 0%.  Oh well, I didn't really have a use case in mind for it anyways.
+
+It's not depicted in the video, but before the Train Sequence there's a mandatory battle with two Attack Squads.  They're easy, but we should remember to Steal 8-Inch Cannons from them since the opportunities to Steal these are limited.
+
+This battle also levels Cait Sith up, and we want to manipulate his HP again.  In principle, this seems annoying because we need to Steal the 8-Inch Cannons and wait out the entire train sequence timer to check his HP gains on every attempt.  However, remember how I said that expected HP for any set of ten levels grows linearly between two points?  Well, from my calculations, those points don't actually line up when you cross to the next set of ten levels.  At level 21, the expected HP jumps up, making the game think that Cait is well below the expected HP.  Because of this and the fact that the second-best HP growth is acceptable here, we have a 3/4 chance of getting enough HP IIRC.  Neat!
+
+The train battles themselves are optional and not too tough.  The Gas Ducters use Smog Alert to inflict statuses.  None of these statuses are debilitating, so we go with the Protect Ring to keep us safe from the raw damage.  It works nicely in these short fights where the barriers don't run out.  The Gas Ducters will attack twice per turn more often at low HP, so we deal chip damage with weaker attacks before going for the kill.
+
+The Wolfmeister looks bulky, but a Water weakness means that Dragon Scales eviscerate it.  It can use stronger attacks, but I don't think it can stall our barriers out without terrible luck.
+
+The Eagle Gun is immune to Water, but being vulnerable to Gravity and weak to Lightning means that we aren't hurting too much offensively.  It survives long enough to stall out out Barrier, but it's too weak to capitalize on this even with a crit from its strongest attack.
+
+The train driver definitely tried his best.

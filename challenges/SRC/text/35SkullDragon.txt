@@ -1,0 +1,25 @@
+The Green Dragon can be defeated by the same Io Rage strat that we used against the Ice Dragon.  Oddly, despite this dragon representing the Poison element, its magical attacks are all Fire-elemental, so they can be blocked easily with a Flame Shield.  Its Poison element is expressed mainly through its status effects, so we equip a Ribbon to deal with most of those.  While we can't be killed anyways thanks to perma-Vanish, if the dragon inflicts Stop (can't be protected against) I'll reset to avoid bloating the video.
+
+And now, at long last, Terra finally gets to be used again!
+
+Guardian's gimmick is that it will cycle through the scripts of the previous bosses.  The order is Ultros - Dadaluma - Air Force - Atma Weapon.  In theory, this means that the boss gets more dangerous as the fight goes along.  But in practice, the last two bosses use a ton of blockable magical attacks, which we can dodge easily with the Illumina.  This makes the most dangerous attacks Ultros' Tentacle and Dadaluma's throwing weapons, physical attacks which can't be blocked.  These can only be used on specific turns, so we apply Vanish at those moments to deal with it.  Removing Vanish is important if a blockable spell could be incoming the next turn since it makes spells impossible to evade.
+
+Other than that, we only really need to deal with its (reasonably common) physicals.  The Red Cap (+25% HP) and Safe are enough to barely tank a hit without sacrificing Magic Evade.  On top of that, we have Fenrir, high Evasion, and Life 3 to prevent losing the run to a counterattack followed by a physical attack on its turn (or a crit).  We get really lucky here, with Image status holding out the entire fight.  The Relic slot is devoted to a Magic Evade booster to make up for giving the headgear slot to the Red Cap, so we need to apply all the buffs manually and can't use the Gem Box.
+
+As for damage, you'd expect Morph + Ultima to be the play, but Morph doesn't work with moves that pierce defenses.  Therefore, our best damage output is with Morph + Bolt 3, which obviously hits a weakness here.  It's still not much better than Ultima; Ultima is just that strong.  Since Morph is limited, we save it for the part of the battle between Tentacle and the throwing weapons.  Image is probably still up at that point, and we have just enough time to fully utilize Morph for offense before needing to re-apply Vanish.
+
+Character Uses:
+Terra - 2
+Locke - 4
+Cyan - 4
+Shadow - 4
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 4
+Setzer - 4
+Mog - 2
+Gau - 4
+Umaro - 3
+Gogo - 4

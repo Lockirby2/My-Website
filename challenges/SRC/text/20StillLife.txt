@@ -1,0 +1,35 @@
+First, I should mention one thing that I skipped over in the previous video.  In this challenge, we're only obligated to remove all EXP from the enemies.  In other words, it's not mandatory for us to keep our levels as low as possible.  When characters are recruited in the WoR, the level they'll join at depends on the average level of all of the other characters.  If this average is higher than the level they were in the WoB, the character is bumped up to the level average.  By recruiting Mog before anybody else, we can bump up the level of any characters who were level 6 in the WoB (excluding Celes, Edgar, and Setzer, who join too early).  In addition, Gogo and Umaro will join a level higher.  This mainly just speeds up endgame fights and makes Umaro's battles less luck-reliant without making the challenge less interesting, so I'd rather take the sneaky extra level than ban it.
+
+Speaking of making Umaro's fights less luck-reliant, the first battle we're fighting is Umaro's bonus boss.  We don't have a lot of interesting options for a bonus boss for him, as Umaro either dies or wins trivially (e.g., because of Auto-Reflect) in most of the notableish encounters in the WoR.  However, Still Life, a miniboss in the dungeon where we recruit Relm, is at the perfect power and HP level to work.
+
+Still Life will counter every attack with Condemned, which applies a timer.  When the timer runs out, you die.  We can't win before the timer runs out, so we need instant-death protection to deal with this.  However, this leaves us with just one Relic slot, which is pretty limiting.  Here are the obvious options:
+</p><ul class="standard-text-interrupt">
+    <li>Safety Bit (ID immunity) and Marvel Shoes - We get poisoned and die due to our low damage output.  Doable if we get lucky with not getting poisoned, but it's not great.</li>
+    <li>Safety Bit and Ribbon - We can't be poisoned, but we have no defense or damage, so we'll get overwhelmed by physical attacks.</li>
+    <li>Safety Bit and Blizzard Orb - We have decent offense, but we're too frail, so we still die.</li>
+</ul><p class="standard-text">
+However, we can improve this significantly with a niche and gimmicky Relic - the Relic Ring.  The Relic Ring makes a character undead, which causes most forms of healing to invert and hurt you instead.  However, it also causes instant-death spells to heal you to full HP instead of killing you.  It's normally risky since it makes healing difficult and revival impossible (IIRC?), but we don't really care about that here.  By swapping the Safety Bit out for the Relic Ring, we now obtain a mid-battle heal and stymie Condemned with a single Relic slot.  Unfortunately, Condemned seems to fail for whatever reason if Still Life attempts to use it a second time, so we still only get one heal.
+
+We can't combo the Relic Ring with the Marvel Shoes since Auto-Regen will hurt us when we're undead.  Of the other two Relics, I was getting the best results from the Blizzard Orb, which gives Umaro a solid Ice-element magical attack.
+
+One "advantage" that Umaro has is that since we aren't inputting any commands, the battle will always play out the same way if it starts on the same frame.  I abused this slightly by save-stating before the fight and fast-forwarding through the fight to see if the attempt was successful.  If it wasn't, I loaded a slightly earlier state to enter the battle on a different frame.  Once I got a successful fight, I reloaded the state and recorded the fight.  It's a little cheaty, but it's a bonus boss and it's still not really luck-manipulation, so whatever.
+
+The second fight in this video is Magimaster, a battle that seems like it should be hard, but it isn't.  All of its normal attacks are Reflectable, and it won't counter with WallChange to change its weaknesses unless we hit it first, so we simply stand there with Auto-Reflect until it dies.  In essence, it's similar to Dullahan, but it takes a lot less time since Magimaster is ridiculously strong.  Setzer takes this fight instead of Relm since I'd rather save Relm for fights where her higher damage output will help.
+
+Magimaster also has an Ultima death counter, which does... a little more than our max HP.  However, we can use the fantastic Life 3 spell to auto-revive once from attacks that KO us.  With that in mind, Ultima essentially just means that Umaro can't get an easy win here.  With Magimaster defeated, we now get access to the Gem Box, which allows us to dual-cast spells.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 3
+Edgar - 3
+Sabin - 4
+Celes - 3
+Strago - 3
+Relm - 0
+Setzer - 2
+Mog - 1
+Gau - 4
+Umaro - 2
+Gogo - 0

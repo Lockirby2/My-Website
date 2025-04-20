@@ -1,0 +1,32 @@
+Safer is a boss that's clearly designed to show off Sephiroth's awesome power.  Most of his attacks are insanely strong single-target attacks that can sometimes off even normally leveled characters in a single hit.  However, ST attacks can't beat a party spamming Phoenix Downs no matter how strong they are, his ultimate attack deals gravity-based damage, and his fixed attack pattern means that anybody who has found a solution to the fight will probably never die (even if they don't see the pattern).  It's clear that the devs wanted the player to constantly be on the ropes without actually killing them.  Only the uncommon multi-target Deen and Confusion from Super Nova are loss conditions without an outright blunder from the player, and the latter can be prevented easily if you know it could be a problem.
+
+However, that goes out the window in a solo challenge.  With a single character, the big ST nukes can end the fight in a single turn, so we need to play around everything.  Fortunately, his fixed attack pattern can be abused if you know about it.  Here it is:
+
+Wall / DeSpell on self / Despell on party
+Shadow Flare / Deen
+Wing Attack
+Rise (start flying in the air)
+Pale Horse
+Super Nova
+Break / Heartless Angel
+Fall (stop flying in the air)
+
+There are some conditionals above.  On turn 1, Sephy will do the following:
+</p><ul class="standard-text-interrupt">
+    <li>DeSpell on self to remove Slow if you inflicted it on him</li>
+    <li>If not Slowed, Wall on odd cycles through his AI script</li>
+    <li>If not Slowed, DeSpell on party on even cycles</li>
+</ul><p class="standard-text">
+We want to Slow Sephiroth here (more on that later).  On turn 2, Safer will use Deen if he just used DeSpell on the party and Shadow Flare otherwise.  He'll start using Heartless Angel when low on HP.
+
+With that in mind, here's the strat.  Safer will open with Wall before we can act.  We must immediately setup Reflect to counter Shadow Flare.  This is extra handy since the reflected spell will deal more damage to Sephiroth than we could do ourselves.
+
+Next up is Wing Attack.  Our defensive setup with the Ziedrich has made most of the physical hits we've taken in the endgame look like a joke, but Safer's power is a league above that.  He can OHKO us (easily, even) with a single crit, and we can't setup Barrier through our Reflect.  Fortunately, since we always know when Wing Attack is coming, we can always Defend just before it to tank it no matter what.  On the initial cycle, this comes with a caveat since Wing Attack also inflicts Paralysis.  However, Paralysis doesn't last very long on the highest battle speed, and Sephiroth wastes the next turn, so we're safe to Defend even on the first cycle.  And thank goodness we took advantage of that; seeing the first cycle crit definitely validated that planning.
+
+Since we lost a turn, Pale Horse is coming next.  With the Ziedrich's high Magic Defense being useful on the Steam version and the Circlet on top of that, we can tank this strong hit.  Healing now would be a mistake.  We need to use the turn on our Vaccine to prevent Super Nova's Confusion since attacking ourselves would break the rules.  As a reminder, status immunities prevent you from removing statuses as well as inflicting them.  This means that we can never remove Frog or Mini from Pale Horse, but that doesn't matter beyond being amusing.  What does matter is that Reflect can't be removed either, so we don't need to worry about restoring it.  We'll never be able to Haste ourselves, which is a shame because double-turning Safer would make this fight a lot faster, but there was no opportunity to get it up.
+
+Finally, we need to Slow Safer.  Slow itself doesn't buy us turns and we don't care about what Safer does on the first turn of his script.  However, note that Sephy only uses Deen if he uses DeSpell *on the party*.  If we force him to use it on himself, he'll always use Shadow Flare.  While the reflected Shadow Flares speed up the fight, the real win is that we don't see Deen.  If Deen is used, we can't heal and Defend on the same turn, so we're not safe to crits from Wing Attack.  Break and Heartless Angel don't matter.
+
+From here, we simply heal after he rises and falls, Slow him when he removes it, and Defend before Wing Attack.  Wash, rinse, and repeat.  We can deviate slightly to kill him a bit faster, but I preferred to play like a robot rather than risk a mistake.  Tiny Kermit kills a god with a combination of 8-Inch Cannons and Dragon Scales.  The fight is long and tense, but not difficult.  With the Super Nova animations, this originally took ~10 minutes longer, bringing the final boss gauntlet to ~45 minutes.
+
+Clicking Omnislash doesn't conflict with our rules, so there's nothing stopping us from taking down the final Sephiroth and completing the challenge.  Thanks for watching my first FF7 challenge, it's been a blast!

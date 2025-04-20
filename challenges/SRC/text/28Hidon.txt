@@ -1,0 +1,27 @@
+The character we're using in this fight is... Strago!  Did the thumbnail fool you?  Truth is, for the first and only time in the WoR, we're actually very limited on our character selection, as this boss won't appear unless Strago is in the party.  Normally, we could just walk into the fight with a dead Strago and bring another character to fight the boss, but Hidon will actually target dead characters with Choke Smoke to revive them as Zombies.  Zombified allies are banned as per the rules, and if a dead Strago was given Zombie-protection, Hidon would do nothing but spam Choke Smoke the entire fight.  This is much more helpful than the dead characters are meant to be.  You can actually rematch Hidon without Strago after beating it once, but this feels wrong as well.  On top of that, I like to try and learn Strago's Grand Train Lore in this fight (regardless of whether it's useful) since it's the main goal of fighting Hidon.
+
+Fortunately, Strago actually matches up pretty well here.  Hidon can use Bio on its turn or Poison as a counterattack, but we can use Strago's unique fursuit armours to nullify it.  The Moogle Suit gives us an upgrade over the Tabby Suit we used against Kefka At Thamasa (while also making Strago look more cuddly than usual), but it's also pretty weak in terms of endgame defenses.  Unfortunately, the two suits with the highest defense don't retain the Poison immunity.  Still, Hidon and the Hidonites are pretty weak, so we can survive 1-2 physical hits here.
+
+Beyond that, all of the incoming attacks are physical.  All four of the Hidonites are slightly different, but they will all either use a regular attack or a special attack (also physical).  These can be avoided with Vanish, but we can still lose if Hidon removes our Vanish with its poison spells and then we eat a barrage of attacks or a nasty status.  Therefore, our initial goal is to shut down the Hidonites ASAP without attacking Hidon and provoking Poison counters.
+
+We open with Slow to reduce the odds of our loss condition occurring.  Then, we use the rare Graviga spell, which will miss Hidon and knock three Hidonites to low HP.  From there, Blow Fish (1000 Needles) will kill the two most immediately threatening Hidonites.  We could kill the third as well, but killing all the Hidonites will provoke Grand Train from Hidon, so we want to incapacitate one of the Hidonites.  The second Hidonite from the right is the best choice since its special move is Mega Claw, which only does damage instead of inflicting statuses.  The Discord Lore will cut its level in half, and since physical damage depends heavily on level, even one Discord will dumpster it.  Discord is normally trash since it only works on enemies vulnerable to instant death (in which case, why not just kill it?), but it's useful in a case like this where we want to incapacitate and not kill.
+
+From there, we use Sour Mouth (Bad Breath) to blind the fourth Hidonite.  At this point, we've essentially won.  After bypassing the leftmost Hidonite's Auto-Reflect with Blow Fish and using a couple more Discords for the lulz, it's time to get to work on the boss.  Since Ultima will kill the last Hidonite, it's not an option, so we use Fire 3 to hit Hidon's weakness instead.  Once Hidon is at low HP, we can learn Grand Train and finish the fight without worrying about any respawning Hidonites.
+
+I used the Marvel Shoes as the Relic to allow surviving an extra hit, but in hindsight, using the Ribbon probably would have been safer to avoid getting wrecked by an unlucky status effect.
+
+Character Uses:
+Terra - 1
+Locke - 2
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 0
+Setzer - 2
+Mog - 2
+Gau - 4
+Umaro - 3
+Gogo - 2

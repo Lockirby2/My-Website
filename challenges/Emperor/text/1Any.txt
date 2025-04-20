@@ -1,0 +1,19 @@
+Here is me fighting the emperor dragon made by LordEnvoy.  My goal was to beat him in under 6:00, and I was able to do it!  This also counts in the Level Average under 60 category, because having more party members would not make this go faster anyways.
+
+I have many comments in annotations, if you want to see them.
+
+Levels:
+Mog:  31
+Terra:  6
+Locke:  98
+Celes:  98
+
+Notes from the future:
+
+We can obtain two Atma Weapons in this hack because the Emperor Dragon itself drops them and it can be fought repeatedly.  The "Average Level Under 60" category was a bit exploitable because we don't get much advantage from the other two characters being alive.  Therefore, if we enter the battle with two underleveled petrified characters, they can absorb hits while still keeping the level average under 60.  Level 3 Muddle only connects against targets whose levels are multiples of 3, so we enter at level 98 to avoid it.  It was a mistake to bring Terra at exactly level 6 because this caused Level 3 Muddle to display extra text.
+
+It's critical to understand how the "life" system works.  Since enemies can't go above 65 535 HP, hackers get around this limit by giving enemies multiple "lives".  In reality, the dragon has 50K HP, but every time that depletes, the dragon is covertly revived with max HP and a variable is incremented by 1 to track how many lives the dragon has lost.  When that variable reaches 20 (in this case), the dragon is killed for real.  This gives the Emperor Dragon one million HP in theory, but any overflow damage done to each life isn't carried over to the next life.  Therefore, it's useless to hit over 50K damage in one turn.
+
+Physical attacks are far faster than attacks with longer animations, so we'll use those exclusively.  We only have access to one Offering (hits four times with Fight), so it only makes sense to use one attacker.  If we attacked with anybody else, they'd just deal chip damage, provoke a counterattack (which would cost time), and contribute nothing in practice since Celes' damage would deplete a "life" without that chip damage anyways.  Celes will never provoke a counterattack because the dragon can't counterattack when it loses a "life", and we're doing over 50K damage every turn.
+
+At one point, we skip Quick (which allows us to take two turns in a row) because the dragon will use physical attacks with quick animations on that turn.  These will happen while our ATB is queuing anyways, so it's better to skip the Quick animation.

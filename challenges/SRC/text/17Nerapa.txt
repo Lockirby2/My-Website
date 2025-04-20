@@ -1,0 +1,33 @@
+The first section of this video is the Floating Continent escape, which I've elected to show in its entirety since the timer is a big component.  Throughout this section we'll encounter Naughties, which would take a bit of time to defeat using regular means.  Fortunately, they have a bizarre AI quirk that is often helpful in challenge runs.  If you cast Imp on the Naughties, they'll respond by un-Imping themselves and running away.  This isn't as fast as OHKOing them with something, but it's more than enough and one of our fastest options here across any character.
+
+The danger from the Naughties is that they'll occasionally use Cold Dust before we can act, which will Freeze us.  It can't be dodged and the status can't be protected from, so our best bet it to try and pre-empt the Naughties as often as possible.  The Gale Hairpin (more frequent Pre-emptive strikes) and Auto-Haste give us the best odds here.  In hindsight, the Charm Bangle (cuts encounter rate) might have been better than Auto-Haste, but whatever.  We hardly need to shave off every last second here, so consistency is more important than Relics that would save time like the Sprint Shoes (allow you to run on the overworld).  In this challenge, I normally equip Sprint Shoes, etc., on dead characters off-camera for convenience, but dead characters aren't supposed to be helping in the important sections, so we're not doing that here.
+
+The boss here is Nerapa.  Its main threat is Fire 3, but the Flame Shield handles that, so it's not strong offensively.  However, we still have to kill the thing, and it sets a second countdown on us in case the first one wasn't enough, so we have to do it fast.  It's weak to Ice and Holy, but it has Auto-Reflect.  While we can bypass this by reflecting spells off our own party, reflected spells deal half damage, so this isn't effective.
+
+In other words, the only thing we need in this entire section is non-Reflectable, Holy-element damage.  Somebody sign Sabin up!  With two Earrings (Magic damage boosters) and Nerapa's low Magic Defense, Sabin hits for numbers far higher than what I'm used to seeing him do in an LLG.
+
+We skip the chest more to avoid seeing another Cold Dust than to preserve time.  If you're annoyed by me passing up an Elixir, just wait until you see the next fight. ;)
+
+The Tentacles are a four on one fight, but they're shut down more easily than you'd expect.  Their main gimmick is that they'll Seize any characters who have been Slowed, but if we have Auto-Haste, we can't be Slowed, so the Tentacles waste a ton of turns trying to Slow us and achieving nothing.  They also cast Poison/Bio spells, which are countered with Auto-Reflect.  In addition, three of them are vulnerable to the Poison status themselves, so we don't have to last for an eternity here.  The final Tentacle has no weaknesses and it's immune to Poison, but it also has the lowest HP, so it doesn't take too long to kill with brute-force spellcasting.
+
+The only real danger here are their physical attacks.  For the first stage of the fight, we open up with Golem to block a couple of them and give us time to cast our buffs.  Sabin doesn't have the MP to summon it even with the Bard's Hat, and our Relic slots are already locked in, so Celes is preferable here even before we factor in her higher Magic and Evade.  We have plenty of free fights later in the WoR to burn Sabin's last fight on.  Edgar isn't an option since we can't equip him with Relics before the fight.
+
+Golem buys us time to setup Safe so that we can survive two attacks, and from there the fight isn't likely to go south.  Using Elixirs when we're missing both HP and MP during the early phases helps too.  They don't have much value beyond this point, so there's no harm in using them even for minor benefits.  You'd still probably think that we need some luck to survive their physicals considering that there are four enemies on the field, but physical attacks just aren't all that common here.  They were actually really aggressive on this attempt, but it was still pretty easy.  Sabin probably would have died here though.
+
+As an aside, usually I try to do Phunbaba 1 before the Tentacles in all of my challenges, but we definitely need to save it for later in this challenge.  And it's certainly not because we can't beat it right now. ;)
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 3
+Edgar - 2
+Sabin - 3
+Celes - 3
+Strago - 3
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 4
+Umaro - 0
+Gogo - 0

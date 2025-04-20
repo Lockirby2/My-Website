@@ -1,0 +1,11 @@
+Scotch is notable since you wouldn't normally fight him in an LLG.  However, in this run we must fight him because getting Cloud chosen by Corneo requires staying at an inn AFAIK.  You'll also probably notice that our HP is much higher than it should normally be at this point.  When you see Scotch's damage ranges, it should be obvious that we couldn't have possibly beaten this fight without leveling up significantly.
+
+Real talk: You'll see the real reason why we fought so many random encounters after the second fight.  This will be explained more in the next video.  For now, just know that this extra EXP will not ruin the perfect level 28 finish that we're aiming for.  This fight only costs us seven Bolt spells we'd rather have used elsewhere.
+
+Aerith received none of the EXP that Cloud did since she was dead during the grind, so Aps is still a real fight.  To conserve resources, we'll abuse Aps' Sewer Tsunami attack.  Every time it's hit with a spell, it'll use two Sewer Tsunamis, one of which will hit it from behind, and one of which will hit us from behind.  We can Defend the latter to ensure that Aps takes big damage while we take little.
+
+We'll need to use Healing Wind once, giving Aps the chance to use a regular attack.  Its Lick attack will inflict Sadness, which denies us another Healing Wind, but also reduces damage by 30%, allowing us to survive the fight.  If it doesn't use Lick, we'll simply use Healing Wind again to survive the fight anyways.  We can only afford to miss one Bolt here though.
+
+After Healing Wind, I misplay by Defending since I hadn't gotten the hang of how Defend's priority works.  Normally I like to replay fights to clean up these little mistakes, but I don't have save states and redoing the fight would have required rewatching all the cutscenes in Corneo's mansion.
+
+I didn't realize until editing this video that I scavenged the Phoenix Down after the fight by mistake.  Thankfully, I never used any Phoenix Downs whatsoever before I was able to farm Gil, so this is of no consequence.

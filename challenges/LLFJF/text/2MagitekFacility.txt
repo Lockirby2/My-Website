@@ -1,0 +1,49 @@
+I'm not showing Ifrit and Shiva here because Wall Rings shut them down with Reflect.
+
+Number 024 is a bit of a weird fight.  We're not too concerned about dying to his attacks (although they are a problem as well).  The main issue is that he'll eventually start healing himself too much for us to realistically keep up with.  The healing moves he uses are Dance moves, so he'll never run out of MP.  He essentially has three phases:
+</p><ol class="standard-text-interrupt">
+    <li>Before his first WallChange, he'll use physical attacks and a move that confuses us.  This isn't too threatening, and he doesn't resist elemental attacks yet.</li>
+    <li>After his first WallChange, but before his third, he will use magical attacks based on what element that WallChange made him weak to.</li>
+    <li>After his third WallChange, he'll go into "System Error" mode, where he'll start spamming powerful healing spells forever due to an oversight.  He may use Scan on himself, perhaps buying us an extra turn if necessary, but on average I believe that he outheals us.</li>
+</ol><p class="standard-text">
+With this in mind, the goal is to take him down before he enters the third phase.  With our mediocre damage output (Gau normally does the heavy lifting in LLGs), this isn't exactly free.  During his first phase, we start summoning random Espers from Magicite that I've farmed from Flans just before the fight.  In this run, we get Bahamut on the first try, and press forwards hoping that we have enough damage output without taking extra risks.  This guess was correct.  It's possible that we had enough damage without summoning at all, but we would have been cutting it close.  In hindsight, I should have given Cyan the Hero Ring and not prepared to summon with Edgar at all, but I wasn't sure how the numbers would shake out since this was only my second attempt.
+
+In his second phase, Number 024 will only use attacks of a certain element.  They are as follows:
+
+Fire/Ice/Bolt - These are reflectable and generally give us free turns.
+Wind - Won't kill us, but we'll need to spend extra turns healing.
+Holy - He'll heal himself with Cure/Cure 2, delaying our victory.
+Poison - Oddly, he uses physical attacks instead.  Occasionally uses Reverse Polarity, forcing us to waste turns switching rows.
+Water/Earth - Generally just kills us outright.
+
+We get quite lucky here with the boss choosing Bolt and then Ice.
+
+WallChange is used on a timer, which has some effects on how we play this fight.  We want to make sure that Number 024 attacks twice between every WallChange, and we can stall the WallChange timer with the Wait Trick just like the ATBs.  Therefore, we turn the battle speed up to five and Wait Trick during some of his turns as well as ours.  In hindsight, leaving the battle speed on six like usual probably would have been optimal, but I wasn't sure yet.
+
+Number 024 has great defense, so Locke's damage output is trash, making him our healer whenever possible.  Edgar was using the Drill in this fight, but in hindsight I think the Chainsaw does more damage on average.  Although 25% of its turns are wasted with an instant death skill, it would also avoid counterattacks on those turns, which would also help.
+
+Overall, considering that this was my second attempt, my luck was just stellar here.
+
+The Mine Cart Ride is a bit different from a usual LLG.  At various points in the game, all party members' levels are adjusted to match the average level of the party (this is called re-averaging).  Locke always gains one level here since his level will be re-averaged to six at the end of this section of the game anyways.  Normally Gau would also be given a level here because his level is not counted towards re-averaging when he is leapt onto the Veldt, making him a perfect EXP sink.  That's not an option here though, so we need to decide who gets the extra level.
+
+During re-averaging, any characters who have gained EXP towards their next level will actually lose it.  So if Cyan has gained 490 out of the 496 EXP he needs to get to level eight, he will lose that 490 EXP during re-averaging.  This means that gaining the level with Locke or Edgar will be the better option; only 384 EXP will be gained permanently instead of 496, effectively wasting 112 EXP.  Out of all the characters, giving the EXP to Locke is the best option from a gameplay standpoint.  He is going to be soloing the entire Crescent Island section, and he will need every advantage he can get to win there.
+
+The Mag Roader fights can be manipulated to give the minimum EXP.  After crunching numbers for a while, I figured out an EXP route that makes it easy to revive people (KO'd characters can't enter with Reflect from the Wall Rings).
+
+Number 124 is actually pretty straightforward.  Killing both of the arms at the same time will cause the main boss to get much more dangerous, so we should avoid using Magicite or any randomly targeting moves like Dispatch.  Instead, we take the time to kill the left arm (it is named "Right Blade" since it is the right arm from the boss' perspective, but I will call it "left arm" because it's on the left) in order to reduce the number of attacks coming our way.  The left arm is our target because its special move hits harder and the right arm's percentage-based Shamshir attack isn't worrisome.  The Chainsaw is great here because its instant-death version *will*, in fact, work on the arms.  If it doesn't, even Cyan's chip damage can finish the arm off.
+
+We use Locke as an attacker and Cyan as a healer because Locke's damage is targetable, while Cyan has no options that are even somewhat viable.  With the Genji Glove and Boomerangs that can hit from the back row, Locke deals decent damage while also being safe enough.  That's about it for the strategy; attacking and healing is enough to win from here.
+
+The Cranes are pretty nasty, and I didn't play particularly well either, but through a combination of them being a bit easier than I expected and my (stereotypical at this point) amazing luck, I ended up winning on the first try.  The Cranes have a couple different timers to threaten us here.  First of all, when hit by an attack of their element (the Left Crane absorbs lightning and the Right Crane absorbs fire), they start charging a super-move.  The Right Crane will just unleash Firaga, which won't bypass our Reflect, but if the Left Crane gets charged it will kill us with Giga Volt.  Between this and the fact that the Left Crane has lower HP, we should target it first.  Normally the Cranes would charge each other very slowly, but spells bouncing off of our Wall Rings make this more of a threat.
+
+The second threat looming over our heads is Magnitude 8.  This is another timer-based move, and it goes off half as often as Number 024's WallChange.  I didn't think we'd be able to defeat them before Magnitude 8, which is why I did strange things like Jumping all over the place with Edgar.  The reason why we didn't die to Magnitude 8 is because the Crane has two elements in its script that take precedence over Magnitude 8.  The first turn when the Crane is alone, it will use the TekBarrier.  If the Crane has been attacked three times, it will use Bolt2 instead (the Left Crane will use Fire 2).  If you notice, the Right Crane only used those two moves late into the fight (excluding its counterattacks).  This made for an easy win.  If I had realized this before the fight, I would have given Edgar an Atlas Armlet and used Drill exclusively.
+
+Cyan is our primary healer early because of his untargetable damage again.  We also use the run trick at one point to separate the Cranes' turns from each other.  We don't want them to use physical attacks on somebody back-to-back and kill them before we can even heal.  Normally we want the Bard's Hat for its chance to evade attacks, but attacks from behind can't be evaded and the Green Beret will help Locke and Cyan to survive them.
+
+As for this attempt, as I mentioned, we get exceedingly lucky.  We chuck a hail mary Magicite at the start just to see if something cool happens, and it comes up with Bismarck.  Both Cranes are weak to water, making this the second strongest summon it could have chosen (behind only Bahamut).  After that, our completely undefended Setzer manages to survive everything until basically the last turn of the fight, giving us a free menu to use with the Wait Trick, even if he can't act.
+
+On the other hand, my play was pretty bad.  Aside from Jumping with Edgar, I also forgot to give Edgar and Locke the correct weapons before entering the fight, resulting in me being forced into attacking the Right Crane once with Locke without hitting his lightning weakness.  I also had a deer-in-the-headlights moment at one point early on, wasting ATB for no reason.  I should also have attacked the Right Crane with Locke and healed with Cyan since Locke has higher damage output.  Finally, my timing with Jump was way off; I was trying to abuse its priority (similar to Limit Breaks in FF7), but I used it too late to make use of the priority every time, only to not even need the priority to get extra turns in the first place. SMH
+
+FYI, I failed to record the audio for the first clip, so I just threw in something else instead.
+
+Further videos in this challenge are likely far away since there's some painful grinding that I'll need to do.

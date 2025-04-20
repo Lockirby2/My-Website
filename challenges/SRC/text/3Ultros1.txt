@@ -1,0 +1,67 @@
+First off, Sabin has joined the party now.  He's one of the worst characters in all honesty.  In the WoR, he gets some of the worst defensive options, with relatively low defense and no Evade/Magic Evade bonuses from his weapons.  Therefore, he'll be used up as early as possible in this challenge during the point where all characters are pretty similar defensively.  You may think his ultimate Blitz, Bum Rush, would be useful in the endgame, but we can teach Ultima to everybody at the same time that he can learn it, so he doesn't really get much of an advantage there.
+
+As for the WoB, Sabin's main attribute is being able to throw out a moderately powerful Holy-element attack at no cost.  His physical Blitzes are almost never stronger at levels this low, and most of his Blitzes are tied to his level, so he'll never learn them.  In truth, Sabin has already peaked in this very video.
+
+This is a series of fights against Ultros.  As promised at the start, any time a character cannot be killed off through conventional means before the start of a fight, they are removed from the party or killed via hacking, and Banon is no exception.
+
+However, this battle is notable in that it's the only time where this hack is actually helpful to us.  Usually the extra targets actually help in some way, even if the only thing we do at the start of the fight is killing them off.  However, removing Banon is essential here, as it's not realistic to keep him alive with only one character, and as soon as Banon dies we get a Game Over.  It's an interesting parallel to Garland's run that eliminating a character through hacks is mandatory for a fight at about this point in the playthrough.
+
+However, I realize that removing Banon may feel a bit unsatisfying, so I played with the rules a bit and included some bonus fights against Ultros.  The first fight is the "canon" one though, as it's the one that follows the rules.
+
+Anyways, here's some info about Ultros' script that's needed to understand the fights.  On his first three turns, he'll do the following:
+</p><ul class="standard-text-interrupt">
+-Regular attack
+-Tentacle Terra (will retarget to hit the whole party since Terra is dead)
+-Tentacle Sabin
+</ul><p class="standard-text">
+After that, he'll enter a three-turn cycle:
+</p><ul class="standard-text-interrupt">
+-MT Tentacle plus 1/3 chance of ST Tentacle
+-1/3 chance of ST Tentacle plus weak physical
+-Tentacle Banon
+</ul><p class="standard-text">
+For the canon fight, we can get two turns in a row with Sabin by using the Running Shoes for Auto-Haste, allowing us to heal and get one additional action for every turn that Ultros takes.  This makes the fight mostly straightforward, but we do have to watch out for the first turn in the cycle once Ultros starts looping.  On this turn, we need to have full health and Defend to ensure that we don't get killed by two Tentacles in a row.  On the second turn of his cycle, running away helps to stall the ATB to ensure that we take two turns in a row every time.  All in all, it's a pretty simple fight.
+
+For the second fight, I decided to allow Banon to stand up and act, on the rationale that if he's mandatory, we may as well get to use him.  This doesn't feel much like a solo challenge though.  Still, this is a tad harder than the first fight, as Banon needs to defend on any turn where Tentacle is used.  Defending allows him to survive MT Tentacles reliably, and makes it possible to survive ST Tentacles at all.
+
+To enable this to work, we need Sabin to have the Running Shoes again, and Banon needs to heal first.  If Sabin opens the menu during Banon's animations, and then uses Aurabolt after Banon has moved, then both Sabin and Banon can take two turns to Ultros' one.  This allows for Banon to heal and Defend while still allowing Sabin to attack more.  We need to stall the ATB by running to take full advantage of this.
+
+This fight is a tad sloppy since I missed a Blitz input (I blame my controller's wobbly D-pad) and threw out a useless heal at the end that wouldn't have saved Banon from the upcoming turn anyways.  Still, I had counted the damage correctly (not that it's hard in this case), so Ultros goes down without a hitch.
+
+However, what if Banon has to stand up, but isn't allowed to move at all?  In this case, the fight becomes a whole different beast.  Banon can no longer survive the ST Tentacle aimed at him, so we're on a strict timer here.  In addition, Sabin has to do all the healing by himself, so it's only possible to attack at certain times.  The amount of luck required would be extremely painful to get, so this fight is being TASed.
+
+Normally, FF6 challenge TASes aren't remotely interesting since you can manipulate almost every attack to be a physical attack that just misses.  However, Tentacle cannot miss, so it's not even obvious that this fight is possible in this case.  To actually win, we need a couple tricks.
+
+First off, we need to bust out a Desparation Attack.  They're essentially a precursor to a Limit Break, but they're implemented quite differently.  If a character is at low HP and a ~26 second timer has passed in the fight, a character has a 1/16 chance of executing a DA when you select the Fight command.  DAs are absurdly powerful, and using one can help to bridge the damage gap to defeat Ultros in time.  The catch is that we can only use it once.
+
+With that alone, we end up exactly one turn short of defeating Ultros.  To buy that extra turn, it helps to equip an unexpected Relic: the Genji Glove.  The main purpose of the Genji Glove is to dual-wield, but we certainly aren't doing that here.  The real benefit in this fight is the Genji Glove's paltry 5 Defense, which normally wouldn't do much at all, but in this case is just enough to make it somewhat realistic to survive an MT Tentacle and an ST Tentacle back-to-back.  Technically, this isn't needed for the TAS, but it gives us the best odds of winning in theory.  Note that in all fights, the White Cape is also equipped for its Defense bonus too.
+
+Finally, we now need to enter Banon's menu during Sabin's attack animations to stall the ATB since he no longer has the Running Shoes.  I thought that this, at least, was fair.
+
+With that said, we need the following to happen:
+
+Turn 1: Ultros needs to miss (~1/4 chance).
+Turn 2: Ultros needs to get a low roll on Sabin with Tentacle (~1/3 chance*) and a low roll on Banon (~4/7 chance).
+Turn 3: Ultros needs to get a low roll on Sabin (~1/3 chance*).  Since Sabin is now low on HP, it's the perfect time for a DA. (1/16 chance)
+Turn 4: Ultros needs to get a low roll on Banon (~4/7 chance) and decide not to use a second Tentacle (2/3 chance).  Then his physical attack must hit Sabin or miss Banon (~5/8 chance)
+Turn 5: Ultros cannot use Tentacle (2/3 chance).  Both physical attacks must hit Sabin or miss Banon (~5/8 chance each)
+
+(* the odds of Sabin surviving two Tentacles can't be calculated exactly by 1/3 * 1/3; I believe the odds are actually ~22% of Sabin living both of them)
+
+With all that said, the final odds of winning the fight this way are about 0.0553%, or about 1 in 1806.  At maybe 30-60s per attempt, that's somewhat plausible if starting at a save state just before the fight, but if you were to do it on console, you'd pretty much need to avoid both fights on the Lete River, which reduces the odds by a factor of 4 while also lengthening the reset time.  Meanwhile, if you wanted to ban entering the menu with Banon to stall the ATB, you'd need to use the Running Shoes instead of the Genji Glove, which would mean that you'd pretty much need the absolute minimum rolls on both Tentacles for Sabin to survive.  So the harshest possible version of this fight probably isn't humanly viable at all.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 0
+Shadow - 0
+Edgar - 2
+Sabin - 1
+Celes - 0
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 0
+Umaro - 0
+Gogo - 0

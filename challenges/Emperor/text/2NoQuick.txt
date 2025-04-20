@@ -1,0 +1,7 @@
+I beat the Emperor Dragon without Quick!  If you want more detailed annotations, watch my video done for the Gold Medal.
+
+I was surprised that this was only slightly slower than my no holds barred run, but then I realized the discrepancy came from not having to go through 50s of Quick animations.  The healing and extra dragon attacks apparently only ate up 1:20 total, for a difference of about 30s.
+
+Note from the future:
+
+The Atma Weapon does decreased damage when at lower HP, so we need to heal when Celes' HP is low.  There's no option to risk it and hope Celes doesn't die when she'd only be doing a couple thousand per hit anyways.

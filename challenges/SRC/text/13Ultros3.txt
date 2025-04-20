@@ -1,0 +1,43 @@
+First things first: Relm would normally join in the middle of this fight, but I've hacked it so that she won't appear.  This scene is normally triggered as a counterattack once Ultros drops below a certain HP threshold, so removing it doesn't have much impact other than removing a chance for the AI stall glitch to occur.  Unlike against Vargas, Sketching Ultros to end the fight immediately isn't essentially mandatory, so we just deplete his HP like usual.
+
+Let's start by going over the attack script
+</p><ol class="standard-text-interrupt">
+    <li>1/3 chance of Tentacle</li>
+    <li>1/3 chance of Stone</li>
+    <li>Lode Stone*</li>
+</ol><p class="standard-text">
+*while Lode Stone goes off based on a timer, it usually happens consistently on turn 3.
+
+On turn 1 of his cycle, Ultros may use Tentacle.  Unlike before, cute strategies with Safe, etc., aren't going to save us here because Ultros has simply gotten too strong.  However, a great thing about the Vanish status is that it even avoids attacks that are typically unevadable.  So as long as we have Vanish set up on turn 1, we're safe.
+
+Stone is also a huge threat.  It's not the strongest move, but we're at the point where surviving even a weak spell is starting to strain our defenses.  We need Strago's large HP pool, Shell, a shield, and an HP boost from the Green Beret to tank this hit, plus a Ribbon to deal with the Confusion status it inflicts.  The Flame Shield's relatively good Magic Defense for this point in the game is chipping in a bit too; remember that this is normally endgameish equipment.  I believe that tanking this hit is consistent (or very close), though the Stone you see in this video that leaves us with 17 HP is actually a lowish damage roll IIRC.
+
+Lode Stone deals percentage-based damage, so it doesn't threaten us directly.  But it's still a bit of a hassle since it will always remove Vanish and drop us to low HP, requiring us to spend 2-3 turns healing HP/MP and reapplying Vanish.
+
+Ultros will throw us for a loop at one point in the battle by casting Safe and Haste on himself.  We need to remove that Haste immediately to avoid losing the turn advantage, so we cast Dispel and Slow (in that order) to eliminate his buffs.  I didn't prepare for that properly here because I ran out of MP for Vanish right before he has a chance to use Tentacle.  Thankfully, he didn't, so we live to tell the tale.
+
+Ultros has a couple more gimmicks that we need to watch out for though.  On turn one of his attack cycle, he'll inch forwards a little, and when he gets to the front of the screen, he'll unleash either Magnitude 8 or Aqua Rake.  Magnitude 8 will be absorbed by the recently purchased Gaia Gear, but Aqua Rake is death.  Thankfully, we don't have to risk it.  Both Fight and Magic will drive Ultros backwards again, so as long as we keep attacking and kill him fast enough, we'll win long before he gets a chance to kill us.
+
+The last danger of this fight is Ultros "altering his body composition" to reply to elemental attacks with level 3 spells.  He would normally do this after we use four spells on him, but thankfully our gameplan to use Slow, Dispel, and Slow (again) is unaffected.  This isn't technically dangerous since we can absorb Fire 3, but he would normally run out of MP casting that and I'd rather not hack to increase his MP if it's not necessary.
+
+With that, Magic is off the table for offense, and Lore isn't much better here.  Strago's signature Aqua Rake is absorbed, Stone is weak, and Exploder is... umm... a bad idea.  Plus, Lores won't drive Ultros backwards to avoid Aqua Rake.  Therefore, we'll be using Fight for this battle.
+
+Thankfully, it's not a repeat of the Kefka fight since we have much better damage output.  First off, level 8 Strago is stronger than level 5 Celes.  The Genji Glove Relic also allows us to dual-wield, which doubles our damage output.  By wielding Thunder Rods, we can hit Ulty's weakness, and the rods will also proc Bolt 2 to deal out solid damage.  Fight won't drive Ultros backwards very often by itself, but it's enough.
+
+But don't we need a shield to survive Stone?  How exactly are we dual-wielding here?  Well, we can have our cake and eat it too because FF6 allows us to swap out weapons and shields in the Item menu completely for free.  In this case, we can swap out the Thunder Rod for the Flame Shield in preparation for Stone, and then after Ultros' turn 2 has gone by, we switch back to the Thunder Rod and go on the offense, repeating until he's dead.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 2
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 2
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 2
+Umaro - 0
+Gogo - 0

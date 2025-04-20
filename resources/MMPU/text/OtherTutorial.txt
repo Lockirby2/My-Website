@@ -1,0 +1,205 @@
+The following comes from a Discord chat where I helped somebody else (GreninjaMan) with his own damageless runs.  Maybe it'll be useful to somebody else too?
+
+On Easy/Normal you can just kill Big Eye, as I'm assuming you're already doing.
+
+On Hard, the first two jumps will always be a low jump and then a high jump, or a high jump and then a low jump.  After that it's random AFAIK.  If it's going to do a low jump, it'll pause for slightly longer, but I find it hard to react to this.
+
+In Elecman's stage, the best way to deal with it is to hope it does a low jump 1st and run under it for the next jump.  If it does a high jump 1st, exit the room and try again.
+
+You can avoid it easily in Gutsman's stage by waiting on the blocks (I'd assume you're already doing that).
+
+In Cutman's stage, you should have time to kill it with most characters since the stage is so long.  With a character like Oilman, you may want to retreat to the previous room though.
+
+Fireman's stage is the hardest since there isn't much room.  Oilman and Cutman can retreat to the previous room with the wall jump and Oil Slider respectively.  Most other characters can just kill it.  With Elecman, you'll want to shoot your shots directly in its face since I believe you'll hit it with the vertical parts of the shot as well and kill it faster.  Fireman wants to stay close to hit multiple times with the spinny shield.  Iceman can freeze it and jump over.  Bombman is the trickiest here.  I'm sure it's possible to kill it every time with perfect play, but I wasn't able to get consistent at that, so I elected to just get lucky.  There's a 50% chance it does a low jump first, in which case the second jump will be high and you can run under.  If it jumps high first, I waited until the third jump and just prayed it was a high jump.  This gives a 75% chance of success, which is good enough odds to do with one character.
+
+In Wily 1, I just pray the first Big Eye jumps low first and luck through it since it's right at the start.  The next two will always jump next to the block structures.  Stand about half a block from the edge and you can jump over it when it lands. 
+
+The obstacle near the end of Wily 1 is trickiest with Roll/Mega.  As a setup, when first entering the room, I'd climb up and down the ladder three times  (making sure to buffer the down input during the screen scroll to exit the room immediately).  This allows the pendulum to move forwards a specific amount.  When you re-enter the room, the turret's cycle should be reset, so it'll be lined up with the pendulum.  You may want to experiment with the number of times you re-enter the screen since I'm not confident three times is the right number.
+
+Then, when the turret is about to stop firing, you'll want to wait until the pendulum is close to the right side.  Then you want to do the following:
+</p><ol class="standard-text-interrupt">
+    <li>Jump to the left of the pendulum and land on the platform</li>
+    <li>Jump over the pendulum (you'll land on its right side)</li>
+    <li>Jump back over the pendulum.  The turret should pause its attacks at that exact moment and give you an opening to reach it and kill it.  Do an aerial attack since Roll/Mega will stop moving during their attacks otherwise.</li>
+</ol><p class="standard-text">
+With Oilman, it's similar, but a bit easier.  You'll want to shoot as you're jumping over the pendulum and ride the skateboard into the turret to OHKO it.
+
+Everyone else can kill the turret with a ranged attack and then just dodge the pendulum if necessary.
+
+Practicing in softcore is advised.
+
+Specific annoying parts?  The main thing that comes to mind are the two screws on one-tile wide blocks with Mega.  You'll want to kill them from above, as the hitbox of Mega's kicks extend slightly downwards.  Start from the top of the ladder on the left.  Jump over the missile after it starts angling towards you.  Then jump over the next missile and the turret's first bullet in the same jump.  Then you can dodge the second bullet from the turret.
+
+I use the background to time the kick.  First, do a full-height jump.  There's a trapezoid of some kind in the background, and if you kick right as Mega's feet pass the top of the trapezoid, it should give you the correct timing to kill the screw from above.  This is the nastiest stage obstacle in the entire game IMO. 
+
+CPU is a tricky fight.  Let's start with the red phase since it's the most important.  It's key that dealing damage to CPU makes its hitbox smaller.  You can't hide in the corners until you hit it a couple times (twice with most characters), so usually it's best to only finish off the yellow/orange phases when blocks are on the field.
+
+You also need to find a way to hit red-phase CPU a couple times (twice with most characters) before the blocks fall.  This is because if blocks fall close to the center, you won't have enough room to get on top without smacking CPU.
+
+Now for the tricky part.  There are four components to dodging the laser.  First, you have to be right at the dead center of the screen before moving.  Second, you have to know which way to run.  CPU will always fire the laser towards your side of the screen, so you need to run towards the side of the screen you're not on when it begins firing.  If you just try to walk to the center of the screen, you may have trouble determining whether you're barely to the left of center or barely to the right.  For this reason, I recommend standing a bit left of center and budgeting about half a second for the water suction to pull you towards the center.  This will ensure that you're always at  the center while still guaranteeing that you're on the left side.
+
+The rest is just precision.  Obviously, you need to start walking at the perfect moment.  I used the orange light coming from the CPU to time this.  I aimed for a specific frame of the orange light.  You'll just need to practice in softcore to figure out when to go.
+
+Finally, the last step depends on where the blocks fall.  If they fall close to the center, you need to react and pause your movement a bit to make it onto the block.  Otherwise the game does a weird thing where you hit your head on the block while it's falling and it kills your upwards momentum.
+If the blocks fall near the edge, this gets a lot harder.  You need to land on the very left edge of the block so that you can jump sooner.  This essentially requires perfection.
+
+I practiced nothing but dodging red lasers in softcore for about 1.5 hours and only got ~40% consistent at it, so don't expect to get this one every time.  Nobody except Cutman needs to dodge the red laser twice, so make sure you know how to defeat CPU quickly enough to avoid a second.
+
+Paper Joe has damageless videos on the CPU fight for all characters, so you can hopefully watch his videos to understand anything else you're missing.  I'll go over some character-specific strats though.
+
+Mega Man: Save Elecman's weapon for the red phase.  You want enough ammo to end the red phase without dodging the laser.  I found Oilman's weapon good for the rest of the fight.  It does massive damage and has tons of ammo.
+
+Cutman: In the red phase, stay near the wall as it's going to fire the laser.  Do a full-height jump right as CPU begins to fire the first laser (the one that sweeps the top of the screen).  Then wall-jump at the peak of the jump to go over the second laser.  Keep an eye on the debris at the top indicating where the blocks will fall so that you can avoid getting crushed by them.  This is pretty easy and well worth learning because you don't want to dodge the red laser twice.
+
+Gutsman: When the CPU is transitioning between phases, use that time to build two blocks and grab one.  Then you can throw the first block at the CPU as it's descending and use the second block to get over it.  There's a brief window between the lasers where you can hit the CPU.  I elected to toss a second block at it during that window to avoid needing to dodge the red laser.
+
+Iceman: Standard.
+
+Elecman: At the start of a phase, the CPU always descends on your side of the screen.  Stand under it and use a couple vertical shots to stun-lock it and buy extra time.  CPU should never fire any lasers here.
+
+Bombman: You can get extra damage while it's descending by throwing bombs upwards.  A neat trick is that the bombs will actually bounce upwards if they're descending when they hit one of the side walls, which can be handy for some extra damage.
+
+Fireman: If you accidentally defeat the orange phase when there aren't any blocks, you can jump upwards to hit the CPU a couple times when it's descending and then camp in the corner.
+
+Timeman: It's viable to make use of Time Slow here.  You generally want to use it during phase transitions.  You can dodge the red laser more easily or even kill the CPU before it uses it if you spam enough.
+
+Oilman: It's possible to ride the Oil Slick to get over the red laser, but I didn't notice this when I did this, so I don't know exactly how.
+
+Roll: Similarly to Fireman, you can jump up and hit CPU from below once and then hit it once more while standing in the corner.  It's precise, but can be a handy backup strat if you accidentally kill the orange phase when blocks are on the field.
+
+Mega: The hardest version of the fight, though I'm skeptical it's worth 100 points.  Don't defeat the orange phase when the blocks are at the edges of the screen since you won't have time to hit the red phase twice before the laser.  Instead, wait until the blocks are in the center before defeating the orange phase.  This means dodging the orange laser many times, but I did Mega last and had about 90% consistency dodging the orange laser by that point, so I felt it was the best approach.
+
+Protoman: Spam the crud out of the CPU and it should never fire a laser.
+
+That's all I have to say.  Hopefully it's helpful. 
+
+Easiest to hardest:
+</p><ol class="standard-text-interrupt">
+    <li>Protoman</li>
+    <li>Mega Man</li>
+    <li>Timeman</li>
+    <li>Iceman</li>
+    <li>Elecman</li>
+    <li>Fireman</li>
+    <li>Cutman</li>
+    <li>Bombman</li>
+    <li>Roll</li>
+    <li>Mega</li>
+    <li>Oilman</li>
+</ol><p class="standard-text">
+Note that Timeman to Fireman are all more or less the same difficulty for the most part.
+Good luck with your runs. 🙂
+
+I'm not sure there's much more I can say about dealing with Fireman or Bombman than I did in my video.  If you're able to post some videos of attempts at Bombman, I might be able to give more advice about how you could improve.  Videos of you attempting to dodge Fireman's opening move could help as well.
+
+For Wily, the best way to deal with phase 2 is to cover all the possibilities rather than react to the phase change.  With most characters, I like to wait with about half of my character on the leftmost green tile and half hanging off the right side of it.  Right as Wily is about to fire, I jump up and to the left.  Here are all the outcomes:
+
+Rolling Cutter: The first shot will be fired over your head if you jumped at the right moment (sometimes he won't fire this one).  This is the attack the jump is meant to avoid, so if you're getting hit by this you need to jump a bit earlier or later.  Before the next shot, I may attack Wily once if he's low.  Then go to the left edge of the screen and jump again when Wily's cannon starts to pass the green tile.  Before the third shot, you may have another opportunity to hit Wily.  Then jump again when the cannon passes the third line from the green tile to lure the third shot away.
+
+Oil Slick: Since you're moving left, you should dodge the first shot for free and then you can react to the rest.  Best to just jump away from each shot and then turn around to land where you started your jump from.  This will limit how much the oil spreads.  I don't usually attack during this move.  It's easier to dodge than on Normal mode. 
+
+Ice Slasher: It's always possible to dodge, but sometimes extremely difficult.  When he begins Ice Slasher, he'll fire up to three shots before he reaches the bottom of his arc.  When he reaches the bottom, he'll instantly begin the next set of shots regardless of how long it's been since the first set.  Therefore, be careful when Wily reaches the bottom of his arc for the first time; you don't want to jump slightly over one shot just to land one that's just behind.  After he reaches the bottom, his pattern becomes more predictable and that's your opening to attack.  When dodging his first set of shots, he may shoot two bullets near the ground with a small gap in the middle.  You won't be able to clear both, so this is extremely tough to dodge.  You have to land in between, and this typically requires moving slightly to the left to keep pace with his shots as you land in between.  Best not to rely on luck to never see this pattern, but it isn't terribly common, so if you can't dodge it at all it won't be too significant of a hindrance.
+
+Thunder Beam: The fact that you're already moving left makes this much easier to dodge, but you'll need to react extremely fast if you start dodging from the position I recommended.  Usually you don't want to jump over it, but if it's fired at the very bottom of Wily's arc you do need to jump.  As hard as it is to dodge, it's not hard to counterattack.  He doesn't always fire the first shot, so don't panic and jump randomly in this scenario.
+
+Hyper Bomb: He'll tilt his cannon before doing this, so you can react easily.  I'm assuming this one isn't giving you trouble to dodge?  It's the best opportunity to get hits too.
+
+Fire Storm: Only counters, obviously no need to react.  Try to attack at the very bottom or near the top of his arc to make avoiding counters easier. 
+
+Super Arm: Lol, just don't get greedy.  If you hit him right before the phase transition, he'll be flashing long into his next phase and this can cause confusion if you get certain patterns.
+
+Curvy shot: You have plenty of time to react.  Move back towards Wily instead of hanging out at the left wall.  Use sounds cues as he charges it to time this one.  When you hear the "charging" sound five times, jump and it'll fly over your head.  It's easy to get a shot in with most characters, but it's hard to react fast enough to hit Wily if your character is short-ranged.
+
+When playing Bombman, I prefer to stand a bit closer to Wily during the phase change.  It makes it harder to react to his attacks (especially Thunder Beam), but it allows you to get a lot more hits.
+
+Oilman, Roll, and Mega all have short range, so you'll get fewer opportunities to attack.  Be patient rather than trying to hit Wily at all the opportunities you normally would.  All of these characters deal extra damage to Wily, so you'll still finish the fight just as fast.
+
+With Mega Man, don't attack right after a phase transition.  When Wily does the special ramming attack, he'll have I-frames the entire time if you shoot him right after the phase transition, and this will prevent you from staggering him, so you'll take guaranteed damage.  Wait until you know what Wily's next move is and then decide which weapon to use.  I'd recommend only using his weakness when he's close to reaching the rightmost side of the stage.  If you do anything else he'll remain in place as you stagger him and this will throw off your dodging.  Otherwise, shoot Wily with charged Mega Buster shots (clear Normal mode with Mega Man to unlock).
+
+If you want to be cheesy, if Wily is onscreen when he transitions phases, you can repeatedly pause to react to his next weapon more easily.
+
+[Firemakers in Oilman's stage]
+
+The first two are mostly just tedious.  The video you linked above has a good strat for the third one (same one I used).  With Oilman, you can also jump off the skateboard in midair to get to the top platform where it can't hit you.  That way you don't have to risk shooting it ten times.  With Mega that one isn't an issue.
+
+The fourth one is easily the toughest.  If you position yourself close to the edge of the starting platform, you can get the fire maker to burn away the oil.  Wait for it to fully burn.  Then climb down the ladder and back up to reset the cycles.  After that, wait for the second time the turret takes a break.  IIRC, that corresponds perfectly with when the fire maker takes a break.  Mega can just run forward and kick the turret before running back.  Oil Man must use the skateboard and jump into the turret to OHKO.  Then just be patient, as reset efficiency isn't important right next to the end of the level.  Start at the right edge, and inch forward until the flames are barely hitting the ceiling.  This should be your starting position.  When the fire maker gives you a break, run forward and attack.  With Oilman, I shoot it twice before running back to the right.  With Mega, I kick it once and then hide below the fire maker. 
+
+[Cutman and Elecman's stages]
+
+For Cutman's stage, mostly just the Super Cutters.  You want to hold right and jump when the first Super Cutter hits its peak.  Then just keep running.
+
+For Elecman, there's a certain Met that will be lined up with you right after you climb to the next screen.  You can't climb past it since there's an electical current that will stop you.  To deal with it with Gutsman, you'll need to climb back down the ladder right after it pokes its head out.  If you do this twice, the electical current will be done and you can just climb past the screen.  This strat isn't strictly necessary with everybody else, but it's still an easy way to do this screen.
+
+[Fireman's stage]
+
+Oops, forgot about this message.
+
+Here are the parts I'd watch out for:
+
+Once you climb to the top of the first set of ladders, there's a horizontal fire pillar pointing at a Fire Maker.  Having a protracted battle with this thing is not advised.  Instead, wait far enough to the left that the Fire Maker doesn't spawn, but far enough right that you can see the fire pillar.  You want to time it so that you can run to the right and jump to the next platform without stopping.  You may have to shoot a fireball as you jump to the platform (I don't remember).  Then keep walking and jump over the Fire Maker as well.  It's a tight jump and it's later than you'd expect; you need to be touching its hand when you jump.  Oilman can skip this by jumping off the skateboard onto the big square block to the left and shooting the Fire Maker from there.  Mega Man and Protoman OHKO the Fire Maker and don't need to do the jump.  Freezing the Fire Maker with Iceman makes the jump free.
+
+Once you hit the checkpoint, there's another Fire Maker blocking your path.  Standing under it is safe, so you can go there if you're in danger.  It's especially useful with Roll since her sword hitbox extends upwards.  With Oilman, you can jump over this one with the skateboard to avoid a long fight.
+
+At the end of that section, there's a spot where you need to time a fire pillar and a fireball together.  I'll try to illustrate this.
+</p><pre class="standard-text-interrupt">
+    _____________        |          _ = Platform; L = Lava Pillar; o = Fireball; | = Ladder 
+    |             L      |
+X   |             L      |
+____|            __  o
+</pre><p class="standard-text">
+Wait where the X is.  The lava pillar should be just within sight, but the fireball should not spawn yet.  This area isn't safe to stand, so you'll need to defend yourself from the fireball from the left while you wait.  When the fire pillar is just about to reach its maximum height, jump to the top of the ladder and run to the right.  When you reach the edge of the long platform, jump and quickly kill the fireball.  Then land on the short platform and jump to the final ladder.
+
+<b>Credit goes to GreninjaMan for this strategy: "oh yeah, the part where you illustrate, i found a more easier way to do that part, i just make the fireball on the right spawn then get back into position, then do the same way how you said when getting pasted that part, cause doing that makes the fireball will spawn when you reached to the ladders"</b>
+
+With Oilman, it's easier to use Oil Slick to jump over the entire gap from the long platform.
+
+The room at the top of the ladder is the hardest room of any stage in the game IMO.  Most characters don't have too much trouble with the pair of screws on thin platforms.  Stay out of their range and shoot them from there so that they don't return fire.  Even Oilman can do this IIRC.  When you need to dodge a missile, wait until the last second and jump straight up to avoid accidentally aggroing the screws.  Mega has issues here, but I described them in an earlier post.
+
+With Roll, you want to use a similar strategy to Mega.  Wait at the top of the ladder and then wait for the missile.  When it turns towards you, jump over it and onto the next platform, landing in the screw's range.  If your timing is correct, you can jump over the next missile and the first screw bullet.  Then jump over the second screw bullet and attack it.  Don't jump over the hole to attack.  Roll's range is barely large enough to hit the screw from the edge of the platform.  The second screw can be dealt with similarly.
+
+You might want to experiment with the next section.  I think there's a better strat, but never worked it out.  You'll eventually come to a fire pillar followed by a gap with fireballs coming out.  Land just before the pillar and tap left on the D-pad to inch as far left as possible without falling off.  Then tap right to turn around.  Now hold your ground for a while by shooting each fireball as it drifts towards you.  Be careful since the fire pillar can eat your shots if you shoot too early.  Then wait until the timing lines up.  What you want to do is jump under an incoming fireball when it's at its peak height.  Unfortunately, you need to wait for a while since the timing of the fire pillar and the fireballs doesn't line up well naturally.  This is a pain with Oilman and Iceman since they need to shoot the fireballs twice to kill.
+
+The last Fire Maker is only a pain for Mega and Roll.  Tap left to reach the edge of the platform and defend yourself from incoming fireballs with grounded attacks.  When the fire pillar lines up, jump to the left just after killing a fireball and get a single attack in before running back to safety.  Doesn't sound complicated, but it's pretty tricky.  Be patient since this is so close to the end of the stage.
+
+Then there's the Big Eye and Fireman, but I've already gone over them.  Overall, there's a ton of pain points, but at least Fireman is pretty easy to execute once you've practiced him.  Make sure that you're confident about beating him before taking attempts at the stage.  I can make a video for him if you think it would be helpful.
+
+[What ordering of characters should you use to beat Copy Robot]
+
+Timeman should be last IMO.  The different layout of the Copy Robot stage throws off his regular pattern, so you need to memorize a longer and more difficult sequence of dodges.  When you play the other characters, you'll be fighting Timeman near the end and infrequently, and you do not want to start mixing up the regular Timeman with the Copy Robot Timeman deep into their runs.  So learning the Copy Robot Timeman after you've done all the others is best IMO.
+
+Protoman, Mega Man, and Gutsman should be the first three, in that order.  None of them will give you much practice at the robot masters, but you may as well get them out of the way immediately regardless.  For Mega Man, the fight against Copy Robot is pretty tricky though.
+
+The rest I'd just do in order from easiest to hardest.  Here is my order for Normal:
+
+Fireman
+Elecman
+Bombman
+Roll
+Cutman
+Iceman
+Mega
+Oilman 
+
+[Hard Mode Copy Robot]
+
+Not really.  Copy Mega Man and Copy Protoman are free now.  Copy Mega is still free.  Iceman is harder now, but I went over that in detail in my Copy Robot video description and don't have much else to say.  Plus you've already beaten Hard Iceman many times by now with an icy floor to boot.
+
+Copy Roll is the only thing that might give you pause.  You can copy Paper Joe's video for that fight; I did some experimenting and I couldn't find any better strats.  For the moment where you need to jump over her, I don't remember my visual cue unfortunately.  Try to defeat her before she corners you again on the right side of the stage. 
+Oh, I guess there's one other thing I could say for Copy Roll.  If you let her approach you, she'll attack when she's still too far away to hit you.  So when you're lining up to jump over her, stand still and let her approach you rather than walking towards her.
+
+You're already prepared for everything else in this stage.
+
+I think I remember my visual cue now.  Copy Roll attacks with a two-hit combo.  You want to jump over her between the first and second hit of the combo, not between combos.  The latter intuitively seems better, but I spent a long time trying to learn it this way and it just isn't.
+
+As I mentioned earlier, you want to let Copy Roll approach you rather than approaching her since she'll stop so far away that she won't hit you.  Let her do one full combo before acting.  On the second combo, wait for the frame I screenshotted from Paper Joe's video (it's near the end of the first swing) and then press right.  If you time it right, it looks like you'll run into the broom, but it'll disappear just before you hit it.  I'd guess that this right press is a 2-3 frame window, so you'll need to practice it with save states.  You may have to start pressing right a bit earlier or later depending on how much input lag you have on your setup.
+
+<b>Credit goes to GreninjaMan for this strategy:
+"ah ok"
+"and found out that it takes her five combos to actually hit you with the broom"
+"which i can be able to hit her twice before she hits me"</b>
+
+After pressing right, cross about three quarters of the distance to Roll and do a full hop over (the jump timing is more lenient, but I don't have a visual cue for it).
+
+Then do everything you can to kill her before she corners you on the right side.  It's hard enough to jump over her left-to-right even if you practice it, and you won't have as much practice jumping right-to-left, so you really don't want to do that unless forced to.
+
+</p><div class="standard-text-interrupt centered"><img class="body-image" src="/resources/MMPU/images/CopyRollVisualCue.png" alt="Copy Roll Visual Cue"></div><p class="standard-text">

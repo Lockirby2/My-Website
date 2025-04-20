@@ -1,0 +1,1 @@
+I uploaded the tool for finding the salt <a href="https://github.com/Lockirby2/ff6-iaf-manipulation">here<a/>.  Click on the green "Code" button at the top-right of the list of files and then click "Download ZIP".

@@ -1,0 +1,35 @@
+First off, I forgot to mention in the last video that the Quick spell is also being banned in this challenge.
+
+In this episode, three new characters make their debut.  The first is Locke.  Locke is a lot like Terra in that he's an Illumina-wielder, making him an excellent candidate for the endgame with high evasive stats.  His World of Balance (WoB) utility is even worse than Terra though, as he can pretty much just use Fight and Steal in a game where Fight is simply atrocious most of the time.  And Steal isn't relevant because there's nothing important to Steal from any boss that Locke can actually beat.  His magical stats are also pretty poor.  So despite the fact that the game will attempt to force Locke into our party every ten minutes, we'll be leaving him on the floor all the way until the World of Ruin (WoR).
+
+The second character to join (or rather, make an early cameo for this one fight) is Mog.  Mog is an excellent character.  His Dances give him quite some power in the early game, and his high level makes him pretty tanky too.  However, Mog actually isn't around for any fights in the WoB where he would excel, so we'll be ditching him for a Gold Hairpin and using him in the WoR instead.  There, he will continue to be a tank, with his ultimate armour (the Snow Scarf) giving him perfect defense, and therefore immunity to physical attacks.  The fact that he'll join five levels above the average is also an enormous boon to his offense, making him the strongest caster in the entire roster.
+
+The third character to join is Edgar.  Although another Illumina-wielder, unlike Locke and Terra, he actually excels for the whole game.  His starting Tools give him great power in the early-game, he'll get timely upgrades for the second half of the WoB and the early WoR, and he'll be an excellent Evade-tank for the endgame.  So when do we use him?  Well, it's all over the place, but two of his four fights will be in this very video because Locke and Terra are too weak at this point and they'll be just as good as Edgar later.
+
+Marshal is surprisingly dangerous in a solo run, given that he's the second boss.  While the dogs are alive, he'll use Net to inflict Stop, which is an instant game over in this scenario.  After the dogs are dead, he'll start hitting us with a reasonably powerful Charge attack, which will kill us pretty quickly.  Locke could theoretically win if we had infinite healing items, but we can't buy them until we escape Narshe, so Mog is strongly preferred here.
+
+Unfortunately, we can't choose what Mog's Dusk Requiem Dance will actually do, and two of the options will deal either fractional damage or instant death, both violating the rules and forcing a reset.  We need to see the rarer Elf Fire or Poison Frog here to win.  Killing the dogs first is recommended to avoid targeting them with Dance moves or getting hit by Net.  Elf Fire isn't quite strong enough to kill Marshal either, so we throw in a regular attack before Dancing and praying.  In this case, we got the 1/16 chance to use Poison Frog, which would have killed Marshal instantly anyways.  Sure beats the 20 damage Locke would have done...
+
+Not only is Edgar's Autocrossbow nice against the Magitek Armours, but his extra HP makes a difference too.  He's able to take one Magitek Laser and three of their weak physical attacks, which is pretty nice because we can just spam the Autocrossbow until they die.  It would have been more reliable to heal after getting hit by Magitek Laser, but it's a three turn fight, so who cares?
+
+Vargas, in some ways, is the first real fight in the game.  While we have access to the Hyper Wrist at this point (+50% Strength/Vigour), Vigour is basically a dump stat in this game, so we ignore it.  The Atlas Armlet (+25% physical damage) is the real deal, and I'm pretty sure the Running Shoes (Auto-Haste) buy us extra turns in this fight, so they're both more valuable.
+
+Vargas' bears defend him from attacks.  While their own attacks are pretty weak, they will add up.  Vargas himself has a three turn pattern: Fight -- Gale Cut -- 2x Fight.  His punches aren't much stronger than the bears', but his Gale Cut really hurts, so we need to make sure to heal both before and after it.  As long as we mind his pattern and our HP, we'll take out the bears pretty quickly.  A couple moments look like close calls, but our odds of survival are pretty good.  A more conservative approach could have gotten the job done too though.  Once the bears are dead, we switch to the Bio Blaster since Vargas has a poison weakness.  The battle is as good as won at that point.  The fact that the fourth boss can already hit for 75% of our HP is intimidating.  We'll need to take advantage of every improvement to our setup from here on out.
+
+I debated what to do about the part where Sabin shows up at the end, but ultimately decided to just ignore it.  Hacking the fight to avoid this scene doesn't work because Vargas has 10K HP (probably doable, but I don't want to do that and you don't want to watch that), and the back half of the fight is just a glorified cutscene anyways.  And I thought the challenge was more interesting if I didn't also count this fight towards Sabin's total.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 0
+Shadow - 0
+Edgar - 2
+Sabin - 0
+Celes - 0
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 0
+Umaro - 0
+Gogo - 0

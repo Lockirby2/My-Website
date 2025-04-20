@@ -1,0 +1,3 @@
+Strategy for Inferno: Spam Cure 2/Slots.
+
+I guess that isn't a very deep strategy, is it? But when you have three berserkers in the party, that's generally how things roll. Setzer can keep up with the healing just fine though. I balanced my defenses so that his attacks don't do too much to anybody. He can kill me if he inflicts Stop on Setzer and manages to kill him, or if he spams single target Shrapnels on Setzer, or if Setzer uses attacking Slots too many times at the end of the battle. But none of these things are all that likely to happen.

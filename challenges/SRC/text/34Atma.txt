@@ -1,0 +1,25 @@
+You may expect that our only hope against a boss that uses Meteor randomly in the second phase is to pick a god and pray.  However, Atma has an Achilles' Heel.  Atma is vulnerable to Slow, and when it's applied Atma isn't fast enough to take a second turn after we get revived by Life 3.  Therefore, we can always put Life 3 up again before Atma takes another turn.  As long as we take care not to get killed by Atma's physical counterattacks, this solves the fight.
+
+Of course, we still don't want to be dying every single turn, so we should be as prepared for its other attacks as possible.  The Illumina seems like a good pick here, but weirdly, every setup I came up with came just shy of working nicely.  Tanking Atma's physical counters is tough and mandatory (requiring Safe), Quake requires Float, Meteor wipes all our buffs, and we need to maintain high enough Magic Evade to dodge the spells reliably.
+
+In the end, I decided to play the elemental game instead and use Vanish before attacking to deal with the physicals.  We need the Gem Box to cast Vanish and Ultima on the same turn, so we can't use Auto-Float.  The Gaia Gear absorbs Quake in its stead, the Flame Shield deals with the Fire/Ice attacks, and the Titanium (the Imp Helmet) absorbs Tsunami.  With that, our only misses are Bolt 3, Northern Cross, and Meteor, the last of which can't be dealt with anyways.  Good enough.  With that in mind, we choose Relm as our character here for her high damage output; she can play the elemental game as well as anyone else.
+
+At the start, we apply Float to the boss to prevent its Quake from healing it.  Then we start spamming Vanish and Ultima to attack it safely.  I won't bore you with the details, but whenever Atma can't kill us on its turn, we can skip out on Vanish since it's okay if we die to the counterattack.  Some spellcasts are wasted on extra Life 3/Float casts when we don't have Vanish and can't attack safely.  I decided to just risk it against Northern Cross (which inflicts freeze status), treating it as if it's safe to attack into.  It doesn't hit all the often anyways, and Atma may decide to defrost us instead of killing us even if it does connect.  Obviously, we could play around this too if we really wanted to guarantee a win.
+
+Our pool of usable characters is really dwindling now.
+
+Character Uses:
+Terra - 1
+Locke - 4
+Cyan - 4
+Shadow - 4
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 4
+Setzer - 4
+Mog - 2
+Gau - 4
+Umaro - 3
+Gogo - 3

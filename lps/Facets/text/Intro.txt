@@ -1,0 +1,34 @@
+Timestamps for key moments, in case you don't want to watch me running around in the field:
+
+Mimic: 10:46
+Medusa: 15:34
+Giant Worm: 19:09
+First Flashback: 23:22
+First Blood Bat attempt: 27:41
+Successful Blood Bat attempt: 33:15
+Lamia: 38:54
+Carbuncle: 43:23
+Second Flashback: 50:22
+Sylph 1: 54:49
+Sylph 2: 56:56
+Sylph 3: 58:55
+First Bahamut Attempt: 1:00:43
+Successful Bahamut Attempt: 1:04:23
+Third Flashback: 1:11:04
+Slime: 1:17:34
+Phoenix: 1:23:08
+Final Cutscene: 1:45:13
+Good Ending: 1:54:32
+Hatred Ending: 1:56:09
+Phoenix 5 Without Dream Catcher: 1:57:25
+All Game Overs: 1:59:15
+
+Let's get into the playthrough.  I'll focus on the gameplay first to avoid any spoilers for people who want to read this part of the text before watching the video.  This will be different from the challenge runs on this channel.  Usually, I know everything about the fights, have a clear plan in place, and reset the fights until I get something I'm happy with.  However, this playthrough is blind, so I'm trying to figure out what the best approach is on-the-fly and make educated guesses about what long-term decisions to make.  This means that the run won't be that polished, but obviously that comes with the territory.
+
+I chose Classic mode since I figured the game would be at its best when pushing me to conserve resources as much as possible.  Looking at the Prepared mode right now, it seems that you start with ~one extra copy of most items you'd normally find in the game, and you get a ridiculous number of extra Bombs on top of that, which would all but trivialize the game.  I also chose Wait mode since I wanted time to process the mechanics and make better decisions.  This didn't stop me from choosing attacks too quickly on a few occasions though.
+
+Looking in our menu, we can immediately see that we don't have all the "RPG standard fare".  There's no equipment, no status menu, and nothing fancy like a job system.  We don't even have any items right now.  However, we can infer a few things from our characters' spell lists and HP/MP stats.  Claire has the highest HP, lowest MP, and a spell that buffs her attack power, so she's our fighter.  Rory has the opposite HP/MP stats and an extra attacking spell, so he's clearly our mage.  Ellis is somewhere in the middle, though after playing for some time, I came to the conclusion that he's a better utility caster and healer than a fighter.
+
+You may want to read each boss' section one at a time either just before or just after watching that section of the video.  There's a lot of info here.
+
+The first order of business is to explore for items.  The grassy area outside is empty, but I didn't know exactly what to look for, so I searched some places anyway.  Turns out all items are hidden in chests AFAIK, which becomes apparent once we go inside.  The first floor is cluttered, but it has a logical layout with no screen wrapping and an abundance of items.  I skipped over the obvious first boss to gather more items before fighting her, but when I found a different boss deeper in the maze I decided to fight her immediately so that I wouldn't need to navigate back to that spot.

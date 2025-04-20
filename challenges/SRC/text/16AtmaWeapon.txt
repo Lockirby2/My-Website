@@ -1,0 +1,32 @@
+FYI, if you're confused about why the Number 024 video released when it did, I forgot to make the video public after uploading it.  Sorry about that!
+
+Atma Weapon is one of the most complicated bosses in the game, boasting maybe the largest array of moves of any boss.  This is one of its strengths, but in a way it's also one of its greatest weaknesses, as Atma Weapon will spend time using so many dud attacks that the most dangerous ones will be few and far between.  Let's look at its list of moves and cross off the ones that we can deal with easily:
+</p><ul class="standard-text-interrupt">
+    <li>Graviga, W. Wind, Rasp - These generally can't kill us</li>
+    <li>Flare, Fire 2, Bio - Auto-Reflect handles these</li>
+    <li>Quake - Float or Gaia Gear protects us</li>
+    <li>Blaze (the usual LLG bane), Flare Star - The Flame Shield deals with these</li>
+</ul><p class="standard-text">
+This leaves us with just a few threats.  Its physical attacks are both common and dangerous, and we can't use Vanish here since we need Reflect more.  However, Shadow once again shows up at a convenient time to bail us out from something that could otherwise be nasty.  With Image, we have no problems here.
+
+There's not too much else to deal with.  Atma Weapon will invisibly buff itself when it flashes for the first time, but we have Dispel to handle that.  Meteo will easily OHKO us, but it's only used rarely and it has low accuracy, so we're reasonably likely to dodge it.  Mind Blast, which inflicts random status effects, is mostly protected against with a Ribbon.  However, there's no way to gain Stop immunity, so if Stop is inflicted then we're hosed.  Thanks to Shadow's high damage output, Atma Weapon will only get one 1/3 chance to go for Meteo and one chance to use Mind Blast, so our odds of winning are decent enough.
+
+At the end of this fight, we need to unequip the Flame Shield since Shadow will leave the party immediately afterwards.  I did this a little bit too early since I wasn't counting damage, but it turned out alright.
+
+Amusing that Atma Weapon gets probably the shortest description so far in this series, given its hype.  But in this challenge, Atma has more bark than bite.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 3
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 3
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 4
+Umaro - 0
+Gogo - 0

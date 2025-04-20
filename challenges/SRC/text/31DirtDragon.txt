@@ -1,0 +1,23 @@
+I saved a lot of the chump bosses for the end of the WoR, so this video and the next are pretty straightforward.
+
+The Dirt Dragon is beaten with the same strategy as the Blue Dragon, except that we need to devote our Relic slot to Auto-Float to avoid its Earth-element attacks.  Since the Imp gear grants Setzer perfect Defense while Imped, we can't lose here.
+
+The Red Dragon's spells are shut down by the combo of Auto-Reflect and Flame Shield.  It still has physical attacks, but with Safe we can survive them.  Its special (Eraser) is a timed attack used in an attempt to attempt to remove Reflect, but it's ineffective against Auto-Reflect.  It's also used on the first turn of the fight, so we go into the fight with a Genji Shield to survive the first one and setup Safe.  The dragon's physical attacks are all counterattacks.  We have a good chance of evading here, so as long as we don't get too greedy attacking it, the odds of us dying are pretty low.  That said, they aren't zero, so it was dumb not to setup Reraise or Fenrir.
+
+Going into the fight without Vanish was also a misplay.  It would have made more sense to dodge the first Eraser guaranteed and then use Vanish to bypass Auto-Reflect to setup Safe faster.  This was actually the very last battle recorded, so I was rushing to finish the series a bit too much.  Casting Haste on the boss wasn't a misplay though; that was to increase the damage from Poison.
+
+Character Uses:
+Terra - 1
+Locke - 4
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 0
+Setzer - 4
+Mog - 2
+Gau - 4
+Umaro - 3
+Gogo - 3

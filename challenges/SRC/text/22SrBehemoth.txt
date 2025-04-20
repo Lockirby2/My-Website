@@ -1,0 +1,21 @@
+Locke's debut battle (finally!) is very much an easy one.  The standard WoR strategy blocks all of its magical attacks like Pearl/Meteo/Doom, and its physical attacks are weak enough that we survive them without much fuss.  It's unlikely that we get KO'd here, let alone die.  We summon Fenrir going into the second phase since the second phase does more damage IIRC and can put us to sleep.  I can't remember why I didn't equip a Ribbon here; that might have been a misplay.
+
+It's worth noting that with the Evade bug patched, several status effects will increase/decrease evasion.  For example, Life 3 will decrease evasion, while Haste will increase it.  This makes Haste useful even when it otherwise wouldn't be.  I'm not sure exactly how they interact with each other though.
+
+Another mechanical note is that you don't actually switch rows when going into the second phase of this battle.  It just looks like you do.
+
+Character Uses:
+Terra - 1
+Locke - 1
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 3
+Strago - 3
+Relm - 0
+Setzer - 2
+Mog - 1
+Gau - 4
+Umaro - 2
+Gogo - 0

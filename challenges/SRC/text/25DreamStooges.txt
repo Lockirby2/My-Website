@@ -1,0 +1,33 @@
+First off, let's clarify which Stooge is which.  Curley is the red one at the top, Larry is the blue one on the left, and Moe is the yellow one on the right.
+
+The Dream Stooges are a surprisingly technical fight.  Offensively, they're nothing to write home about when we use the standard WoR strat.  Most of their attacks are handled by our Magic Evade and the unevadable Delta Hit is dealt with via a Ribbon.  Only Larry can attack physically, and his attacks are nothing to write home about.
+
+Where this fight becomes nasty is Curley's healing.  Curley has the ability to use Pearl Wind, which will heal all the Stooges by an amount equal to his current HP.  With us only being able to deal ~800 damage a turn, an 8000 damage heal halfway through the fight is worth a reset.  We could make it through with spamming Ultima and getting good luck, but there's a way to make the fight more consistent.
+
+If a Stooge has Reflect, his script will change so that he start reflecting spells off himself.  This shuts down both Curley's healing and Larry's physical attacks.  The tricky part is that we can't tell when Reflect wears off, so it's easy to cast Reflect a turn early, have it fail, and then invite a potential Pearl Wind.  This fight is too chaotic to easily count the number of turns.  Helping matters somewhat is the fact that the Stooges will cast Reflect on themselves after taking four hits from the Magic command.  However, only one Stooge will cast Reflect, so it's possible for Larry or Moe to "eat" the Reflect and give Curley an opportunity to use Pearl Wind anyways.
+
+With that background, our strat becomes the following.  We start with our buffs since it doesn't matter if Curley heals before we deal damage.  Then, we'll cast Reflect on Curley.  We wait one turn before casting Reflect on Larry and Moe to ensure that Curley's Reflect runs out first.  Normally we'd just fire off an Ultima, but in this case it's critical to Dispel Larry's Haste.  Now, we can just spam Ultima to increment the Magic counter so that the next time Curley gets a turn without Reflect, he'll spend the turn casting Reflect on himself and restarting the cycle.  This works perfectly on the first cycle of the battle.
+
+Unfortunately, things went off the rails after that, but in a way that could be worked around.  On the second cycle, a combination of Delta Hit overriding the Reflect spell and the AI stall glitch meant that Curley lost both turns where he could use it, allowing Larry to eat the Reflect instead.  Fortunately, this meant that Curley didn't get a chance to use Pearl Wind either, so we just reapplied Reflect ourselves.  We need to Dispel Larry's Reflect in this case to ensure that it doesn't expire before Curley's, but we only lose a couple of turns.
+
+On the third cycle, I predicted that Curley's Delta Hit probably skipped Reflect again, so we wait a bit for the others to move to confirm.  Sure enough, Moe ate the Reflect, which means that saving our turn prevented Pearl Wind here.  On the fourth cycle, things go well.
+
+At the end, things start to change a bit.  Pearl Wind isn't very scary when it's maybe healing 2K every third turn, but once Larry and Moe start dying, Curley will revive them with 9999 HP using Life 2.  It doesn't matter if Larry gets revived since he'll actually run away if he's the only Stooge left, but we really don't want Moe to be revived.  Fortunately, when Moe died, I was pretty sure that Curley was going to cast Reflect on himself instead, so we just continue to fire off Ultima and things work out just fine.  In hindsight, throwing an X-Potion at Moe after dealing about 2K damage would have been the safer play to ensure that Curley and Moe die at the same time.
+
+This is a bit of an inversion of most LLG fights in this game.  Usually, damage dealing is straightforward and defense is more complicated, but in this case it's the other way around.  In hindsight, it probably would have been better to use Terra here for her higher damage output, but whatever.
+
+Character Uses:
+Terra - 1
+Locke - 2
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 3
+Relm - 0
+Setzer - 2
+Mog - 1
+Gau - 4
+Umaro - 3
+Gogo - 0

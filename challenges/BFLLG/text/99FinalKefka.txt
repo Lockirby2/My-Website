@@ -1,0 +1,22 @@
+Well, it's the final battle. Parts of it are luck-reliant, but there's usually things I can do to increase my odds of winning. I use status effects against the first two tiers because they make my preparations faster without really increasing my odds of winning. It would just be tedious to keep reviving the characters and applying Life 3 as they die.
+
+First tier: They mostly use physical attacks, which are not very threatening. I'm not even using True Knight strats here. Celes' Magic Evasion is perfect, Gogo's is nearly perfect, Gau's Defense is perfect, and Mog's is nearly perfect, so they're all protected. The head can death counter with Quake, but I applied Float, so this isn't a big deal. At least, it isn't in theory. I was unlucky enough here to have an attack slip through Gogo's Magic Evasion, which meant that Quake eliminated his Life 3 before the next phase. It wasn't a huge deal though.
+
+Second Tier: This tier has four opponents, but that isn't as scary as it could be:
+
+Magic can be Muted.
+Tools is vulnerable to Doom.
+Tiger can be Poisoned.
+Hit just punches me. That's it.
+
+However, Tiger can still be threatening. He has Flare Star, which can kill Mog and Gogo. Far worse is Doom Tusk, which is hard to hear and inflicts Zombie. If Gau is zombified, I may not notice right away and things can get nasty from there. I feel like very little can harm Celes though, even if Magic and Tools could do whatever they wanted.
+
+Third Tier: I elected not to use Stop here to make it more interesting (honestly, I didn't even know he was vulnerable to Stop before checking it out for this challenge). I'm more likely to die here, or have this fight make Kefka more difficult. Meteo and Calmness can kill Gau right near the end of this fight, which is something I want to avoid at all costs. I want to keep Life 3 on Gau for certain to make sure this doesn't happen. Merton is also bad, as it kills Gogo/Gau and leaves me vulnerable. Sleep has trouble killing Celes/Gogo, but if I lose my momentum and Mog/Gau are both lying on the floor I might lose Gau before the fight ends.
+
+Kefka: Kefka can use a few things that are akin to party wipes:
+</p><ul class="standard-text-interrupt">
+    <li>Meteor: He'll use it if I deplete him below 7K HP and leave him there for a while. However, this is unlikely to happen since after throwing my Ice Shield my Step Mines will likely deplete him from 9K+ HP to 0HP in one fell swoop. Even with Gogo using his Desperation Attack, there was no chance of Meteor on this run.</li>
+    <li>Goner: I could survive this with Mog if I stacked him for high Magic Defense, but I didn't think it was worth the trouble. Kefka gives me some time to attack without fear of counterattacks while he's charging this. I don't want him using this more than once, which is why it's important that he dies as quickly as possible after the first three Step Mines.</li>
+    <li>Ultima: The second last Step Mine I use can provoke this (the last will kill him), as can any punches that Gau/Gogo use after he drops to this HP. Thankfully I can Runic this, so Celes may save me if the circumstances are right.</li>
+</ul><p class="standard-text">
+That's all folks!

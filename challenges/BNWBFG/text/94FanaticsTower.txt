@@ -1,0 +1,37 @@
+There isn't one particular thing about the Fanatics Tower that is really all that difficult. However, its sheer length, and the large number of different battles that I need to be prepared for become very difficult when taken as a whole. This is especially true because I have to constantly be managing my MP, which is something I've avoided until now because it is a pain while blindfolded. The battles also make it very difficult to remember where I am on the staircase; usually I remember my position visually, but here I can only remember a number and where I am in the cycle of my movements. Also, I made the mistake of making this attempt directly after my previous fail, which meant that I had already been playing for about half an hour by the start of this segment. Playing so long caused me to get mentally fatigued about halfway through the segment. I'm fine until Magimaster; at that point, I basically just spend the next twenty minutes slowly losing it, and then stay discombobulated for the rest of the segment. This comes very, very close to getting me killed by a random encounter at 1:34:40. As an aside, that single random encounter took me about as long to defeat as Isis, showing how messed up I was by that point.
+
+This is one of the few dungeons that I chose my party for, since it's also one of the few areas in BNW that is heavily geared towards certain characters. Celes/Terra can achieve great magical defenses and have great spells, and Strago/Relm are my two Osmose users. I don't think there was much question which team I would use. I know some people like characters like Shadow or Locke to hit Magimaster hard (given a Fire weakness for Locke), but I really couldn't care less because Magimaster basically can't hurt this team.
+
+In order, what I need to deal with:
+</p><ul class="standard-text-interrupt">
+    <li>Encounters on floors 1-3 - Not very difficult, usually Meteor + Black Omen does a number on everything, and the Level 70 Magics are weak to the Ice 3 spells that I sling around. If I identify a Level 80 Magic, I can hit it with a single target Fire 3 spell to destroy it easily. However, these encounters contribute to the MP management issues by consuming MP. Also, Level 10 Magics are undead, and tend to come in swarms on the first floor. On the way up this is no issue as I shouldn't need to Osmose yet, but on the way down this makes it hard to restore MP. These encounters aren't threatening, but they are time-consuming and make the logistics of the dungeon more difficult, which makes the rest of the dungeon a lot harder. If none of these encounters existed, this segment would have only taken an hour, which would have helped a great deal.</li>
+    
+    <li>Magic Pots - These guys will sometimes heal me with Elixirs, but sometimes they will attack with HFBs. This is awful for me, as my version of the game still has no animations for HFBs. Therefore, at any moment, any number of my characters can die without giving me any indication whatsoever of what is happening! Black Omen will end the fight, and Flare/Holy can kill one of them, but I was worried about Strago/Celes/Relm dying before they act, leaving me searching for a dead character in the menus, and dying in the meantime. Instead, I decided to bring my own HFBs for a big happy fun party. These also do a great job of piercing the Pots' defenses, and since all my characters can use them there's no chance of me getting lost in the menus.</li>
+    
+    <li>White Dragon -> This boss isn't hard, but he's very punishing if I make a mistake or move too slowly in the menus. Which as you may guess, is not very kind to me in this challenge. I died to him on my first attempt because I got lost in figuring out where my cursors were. On this attempt, my main strategy change was just using the Magic menu itself to figure out whose turn has come up. This gives me infinite time to play with, as I don't need to exit the Magic menu and let the ATBs run while I'm figuring things out. Overall, there are two main ways this fight can go: either you can use auto-Reflect and risk Quasar/Starlight, or you can avoid using it and risk Flare/Holy. If you remember my comparison of Hidon and Atma Weapon, you'll remember that I much preferred Hidon's multi-target attacks that didn't kill anybody over Atma Weapons single target attacks that did kill people. Therefore, you can probably guess that I'll take Starlight/Quasar here. Note that my characters have better magical defenses than physical defenses, so I want to hit his weakness all the time in order to avoid White Claw. Holy Wind makes no difference to me as Poison/Raze pretty much counter its healing, and it gives me time to heal Relm's MP. Finally, note that I made everybody immune to Poison, since otherwise Virite is a lot more dangerous. With all that in place, all I need to do is follow this basic strategy.</li>
+    
+    <ul>
+        <li>Terra: Use Poison.</li>
+        <li>Strago: Use Raze.</li>
+        <li>Relm: If the dragon uses Holy Wind, use a Tincture. Otherwise use RegenX.</li>
+        <li>Celes: If the dragon uses Starlight, use a Dried Meat on Relm (yes, this is both useful and sufficient). If the dragon uses Quasar, use a Tonic on Relm. Otherwise, use a Tincture on Relm.</li>
+    </ul>
+    
+    <li>Fourth floor encounters -> The main issue here is the Level 90 Magic. With Meteor, Cyclonic and Aero he manages to be dangerous, unlike the other random enemies in this tower. In theory he's still easy to deal with; on Imp status he's a tame cat. But I had issues identifying him, since I thought Cyclonic was Aero for some reason (they sound different, so that shouldn't have happened), and other enemies have Break. Once he's on Imp, he takes a while to kill, but I can still restore Strago/Relm's MP quite easily, so it doesn't waste resources.</li>
+    
+    <li>Magimaster -> Unlike Number 024, he forces me to play with his gimmick, which might sound like a major obstacle at first, since I can't Scan him to figure out his weakness. However, the moves he uses reveal his element, as follows:
+    
+    <ul>
+        <li>What he uses -- Weakness</li>
+        <li>Poison -- Poison</li>
+        <li>Holy -- Holy</li>
+        <li>Fire -- Ice</li>
+        <li>Ice -- Fire</li>
+        <li>Water -- Thunder</li>
+        <li>Thunder -- Water</li>
+        <li>Wind -- Earth</li>
+        <li>Earth -- Wind</li>
+    </ul>
+    
+    With that in mind, I can easily do damage. Since he barely does any damage in return, this fight is basically won from there. The only caveat is that I should remove Terra's Force Shield here, as otherwise he may use Meteor/Quasar, which are actually dangerous and don't tell me anything about his weakness.</li>
+</ul><p class="standard-text">

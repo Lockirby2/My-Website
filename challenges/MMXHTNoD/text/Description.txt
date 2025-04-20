@@ -1,0 +1,105 @@
+Some notes:
+
+Obviously I didn't play through the whole game in one go. Nor did I attempt to do entire stages; I likely could have done some of the mavericks' stages and the intro stage in one go with a lot more attempts (and Sigma 4 is that way by default), but Sigma 3 would have been pretty ridiculous, what with having Launch Octopus redux and D-Rex in the same segment, as well as not messing up anything else. So I let myself use the standard checkpoints in each level that Hart-Hunt placed down. I was supposed to add fade-ins between these parts, but I forgot and I'm not spending another 2.5 hours letting this video encode again. I also only counted things that actually damaged me; sometimes you can get hit by spikes and not take damage (although that never happened here anyways), and hits in the mech suits don't count either.
+
+On the other hand, I also take the time to 100% each stage (except for the Hadouken). I thought I'd grab the Hadouken and just not use it, but according to Ludo I'd need to beat Armored Armadillo and then come back, which I didn't want to do for something that I'm not using anyways. Also, I tried to move at a pretty decent speed (I was aiming to get the video time below an hour), though that shows more in the platforming segments than the boss fights. There I mostly just attempted to survive, especially in the harder ones.
+
+Most of the bosses fell nicely into place in terms of order, but some decisions were tricky. Armored Armadillo had to be last, because I thought I was going to get the Hadouken. Launch Octopus is an obviously a good candidate for second last; I wanted as many upgrades as possible to take that stage on. On the other end of the scale, Storm Eagle is an easy choice for first. Weapons don't really do anything in the stage that the blaster couldn't, and that Storm Tornado is really nice to have. The helmet is also important to get before Flame Mammoth, which I also want to tackle early. Boomer Kuwanger is an easy second choice. I require the Metal Blades before tackling Spark Mandrill or Flame Mammoth, if I want to do them in one go, and the metal blades are helpful (to varying degrees) in Chill Penguin, Launch Octopus, and Sting Chameleon. I was worried about the boss, but thankfully I managed to figure it out. I'd like the Homing Torpedoes before Boomer Kuwanger, but Launch Octopus and Boomer Kuwanger are a catch-22, as both of their weapons are incredibly helpful against the other. Ironically, despite the boss weakness, the Metal Blades are far more important for Launch Octopus than the Homing Torpedos are here. No need to do this before Storm Eagle though, as the Storm Tornado helps here and the Metal Blades do nothing for me in that stage. So that places half the mavericks nicely.
+
+Here's where it gets tricky. I want to do Flame Mammoth as early as possible, for the charge shot. With the armor being worthless for obvious reasons, and the Dash Boots being handed out like candy, the charge shot is the only useful capsule powerup left, and the Fire W. is helpful for boss killing as well. But the catch is that getting the E. Tank in this level requires either the charge shot of the Ice Shotgun or the C. Sting, as these are the only ways to cross the lava to get there, at least that I know of. I got the Ice shot first, which has a lot of pros and cons to it:
+
++Easier to kill the robots on the way through Flame Mammoth
++Since I have neon jumps in Sting Chameleon, I can skip a tricky jump and save some time getting to the green guy
++I have the Fire W. and the charge shot for the tanky green guy in Sting Chameleon's stage, which helps a great deal
++Fire W. is also marginally helpful against Sting Chameleon
+-I have to destroy the HP tank's container in Chill Penguin with the mech suit, which necessitates another trip
+-I have to go the long way around for the E. Tank in Flame Mammoth
+-I have to fight Chill Penguin without his weakness.
+
+And probably a dozen other things that I missed. I chose the route I did because I gauged the Fire W. to be more helpful against the green guy than Chill Penguin (yet again giving the middle finger to the "boss weakness" concept), and I figured redoing the mech suit thing in Chill Penguin would be a lot better than making extra jumps in the first segment of Sting Chameleon, which was already long enough.
+
+And Spark Mandrill is there too!
+
+Extended Notes on each stage:
+
+Intro 1: This segment is fairly sloppy, but it's my first segment and probably the most luck-reliant in the game to boot. If those gunships don't stop shooting at the right moments, I'll slam into a wall of bullets.
+
+Intro 2: Fairly easy after the first one, but there are a couple of tricky jumps in here, considering that I don't have my dash. Obviously I have to take damage on Vile or I can't progress. :P
+
+Storm Eagle 1: This was probably the sloppiest segment in the run. However, the flamethrower portion is a pain to get right, and that goes decently well here.
+
+Storm Eagle 2: This segment is short and sweet.
+
+Storm Eagle 3: The thing about this boss is that half of his attacks are pretty much instant death for somebody playing normally anyways (if you mess up), if they do this stage first (which I highly recommend). So unless I run into him like an idiot or get hit by those guys in eggs, this is practically a normal run of this boss fight, except that his dive attack is less forgiving. When he is diving at me, I charge up my blaster to the blue shot. I still get one damage per dive overall, but it's easier to hit him.
+
+Boomer Kuwanger 1: I actually remembered some parts of this route from the TAS, despite not intending to actively remember any of its routes when I watched it. Careful platforming is more important than weapons here, which is great because I barely have any! Storm Tornado helps a lot with the tanks though.
+
+Boomer Kuwanger 2: This is one of the few "second halves" that actually has meat to it. Again, my blaster is mostly all that is required. The HP tanks necessitates me climbing a portion of the tower again, but that part was fairly consistent anyways. There is "That One Jump" after all this, but with the ability to practice with save states I was able to practice this more easily and get fairly consistent.
+
+Boomer Kuwanger 3: This segment almost seemed unrealistic to do at first glance (since I have no helpful weapons, this is practically a buster only run as well), but I managed to figure out how to cheese the second half of the fight. The first half was fairly reasonable, so when I figured out how to beat his seemingly ridiculous second phase his days were numbered.
+
+Chill Penguin 1: Nothing in particular was hard here, but there are a lot of slightly difficult jumps to make. Creative use of the Storm Tornado helps out a bit, but I mess it up once.
+
+Chill Penguin 2: I hate mech suits.
+
+Chill Penguin 3: Ironically, despite how long this took in my LP, this only took a few shots here. Having Metal Blades to do two damage (as if they didn't do enough against bosses already :P ) helps a little, which I forgot about in the refight. More importantly though, I already knew his attack pattern going in this time.
+
+Flame Mammoth 1: This segment was probably the hardest, and I ended up making a couple mistakes. I didn't force myself to get lucky on the parts where you need to have the right things spawn in order to progress (this isn't really a speedrun after all), and indeed, that went poorly here. The neon jump (the first in the run) was fairly nasty because I didn't realize that it helps a lot to stop moving right just before I actually make the neon jump. I don't know if the difference is psychological or mechanical here. When I realize that, future neon jumps become a lot easier.
+
+Flame Mammoth 2: This one isn't as bad as the last one, but fairly tricky, and I'm not sure how to predict those green rotating guys. It's much shorter than the last segment though.
+
+Flame Mammoth 3: :lol: @ Flame Mammoth.
+
+Sting Chameleon 1: Another long segment here. This is probably the longest one before the final boss, but as I spend a lot of time waiting here it's not as dangerous as it could be. The green guy is a lot faster if I can hit him twice with the Fire W.'s charge shot, which is fairly precise, but I get it here. I can't help but think that I could have used the Metal Blades to grab the HP tank more easily.
+
+Sting Chameleon 2: And now for one of the shortest segments in the game. There's one jump that was fairly tricky, but I spend the whole time in the mech suit pretty much, so I can't really take damage.
+
+Sting Chameleon 3: This guy is as luck-reliant as ever, but having his weakness and Fire W. actually makes it less so than my original run.
+
+Spark Mandrill 1: The first part here require precise applications of many weapons and some tricky jum- oh yeah, I have C. Sting now, never mind. However, C. Sting doesn't help with the part that I need Ice Shotgun for, because I need to have that charged instead. After that, I have to go through the platforming portion with the Fireflies, which isn't the sort of "memorize and destroy" thing that I thought it would be. It's still pretty precise. The mini-boss goes down fairly easily to a charged Storm Tornado. Things don't go to plan here, but I manage to squeak through.
+
+Spark Mandrill 2: This segment actually went really well, with only one derp just before that tank guy. The screen seems to go dark in this portion of the level at all the wrong moments.
+
+Spark Mandrill 3: :lol: @ Spark Mandrill. Fun fact: This footage got corrupted the first time. Thank goodness it wasn't something else!
+
+Launch Octopus 1: Not very difficult, since C. Sting and Storm Tornado easily carry me through the stage, and I have enough firepower to wreck the mini-boss.
+
+Launch Octopus 2: This segment contains three mini-bosses (four if you count the ship). C. Sting does enough damage to wreck the first by itself (C. Sting for damage? Who'd a thunk it?), and since I don't actually need as much ammo as the charge shot consumes to use it, I still have it later when I need it. A charge shot of E. Spark right on the head of the other two mini-bosses is almost enough to destroy them immediately. I can't just shoot the head of the first one to death, because if I do I won't have time to jump off before I fall on the spikes.
+
+Launch Octopus 3: This was, as expected, fairly brutal. It's really important to cut off his arms; I can't imagine fighting this guy with no damage while he is spamming fish. This also gets rid of his tornado attack, which is essentially free hits but takes a while. Once that is done, I can use E. Spark for damage and easy hits when he is near a wall. C. Sting and Ice Shotgun are handy when he is in a position where I cannot hit him with my blaster. My blaster is helpful when I can hit, to conserve ammo. And finally, Storm Tornado is necessary to parry his missiles. In other words, I am switching weapons a lot, and there's no way I'm doing that with the quick switch option. Definitely not trying for speed here. It's important to be able to predict what he'll do so that I can counter it. I had a lot of battles where I took one hit, and a couple times I took that hit when he was one hit from death. The worst fail though, was probably the one where he had three hits left, and I would have probably beaten him, but I hit the load state button by mistake. What a bummer.
+
+Armored Armadillo 1: Similarly to the Storm Eagle boss fight, this stage is relatively easy to avoid damage on, but punishing if you don't. In this challenge, that's a blessing.
+
+Armored Armadillo 2: I had to redo this because I forgot to grab the HP tank with the Metal Blades the first time.
+
+Armored Armadillo 3: This fight is luck-reliant, but only because of how I chose to do it. He can sometimes shoot too quickly for me to jump over, no matter how fast I am. It doesn't seem to happen often though.
+
+Sigma 1 1: One of only two segment without a boss fight left. It's pretty much two neon jumps and then a tricky jump through some bullets.
+
+Sigma 1 2: Vile is hard to avoid, but he dies fast. Even the lowly C. Sting does good damage, allowing me to capitalize on invincibility.
+
+Sigma 1 3: Thankfully C. Sting carries me through most of the platforming before Boomer Kuwanger here. In fact, that's something of a recurring pattern, with C. Sting carrying me through the short platforming segments in the Sigma stages before bosses. I can't use the trick that I used on Boomer Kuwanger before, but the Homing Torpedoes carry me through his second phase just as well. And I have E. Spark for his first phase, so despite the less forgiving stage design, it's actually slightly easier. I play the part after this boss fairly slowly and carefully.
+
+Sigma 1 4: Most of the time Bospider is predictable and he doesn't shoot enough spider guys to kill you if you are maxed out. So beating him normally is easy - but beating him damageless is still painful, because the times where he is is hard to avoid will be enough to ruin the run. His spider guys are really threatening, because they can land on your head or distract you from the boss' movements. On this run, I got terrible luck with how often he dropped spiders, but great luck with his actual movements, because they were usually dead easy to work out, or he just moved out of my way anyways.
+
+Sigma 2 1: Surprisingly, there seems to be no good way to utilize neon jumps in the first area. But R. Shield helps with some otherwise dangerous bats. Even C. Sting wouldn't work nicely here. Chill Penguin is easy with Fire W.
+
+Sigma 2 2: This mech suit is weird because often when I climb in I lose half my health for no reason, prompting a restart here. The mech suit and C. Sting do a lot of the legwork after that. Storm Eagle is Storm Eagle. Perhaps I should have stuck to the same strat?
+
+Sigma 2 3: This happened.
+
+Sigma 2 4: Killing all of the parts at around the same time is helpful. The nose should be the last one killed though.
+
+Sigma 3 1: :lol: @ Armored Armadillo.
+
+Sigma 3 2: Sting Chameleon is a little better this time because the stage is easier and I have E. Spark. Getting back to him doesn't take very long if I die either.
+
+Sigma 3 3: :lol: @ Spark Mandrill again.
+
+Sigma 3 4: Launch Octopus again, and unfortunately he has the only level segment before him that isn't "C. Sting guarantees victory". I use similar tactics to before, but now that I have R. Shield I can incorporate that into my strat. It helps a great deal, since I now have enough two damage shots to kill him, even if I hit with nothing else. I could go into more detail, but I'll leave it there. Modelling this battle as a finite state machine seems like something that I could have done as practice for Digital Circuits. :P
+
+Sigma 3 5: This strat is fairly slow, but seems to be totally reliable if I don't mess up.
+
+Sigma 3 6: This fight was where I really noticed a huge improvement from how well I was playing in my LP. I took quite a while to even beat him once there, but here I at least won the fight on nearly every attempt, usually with only one or two hits. I expected this to take hours, but it only took 15 minutes! I'll admit, knowing that you can dash under his lighting balls helps a lot. Not only does it allow me to avoid damage, I can also set up for a lot of free hits when I get behind him there.
+
+Sigma 4: Velguarder and Jedi Sigma are fairly easy. I don't try for speed here at all. As for final Sigma, it's much safer for me to try and jump on his hands every time, playing the battle how I assume the developers intended. Otherwise I always seem to get hit somewhere. After I won, I thought about neon jumping with a charged R. Shield and ramming his face, but I'm too lazy to try it. I practiced the visual cues to dodge his lightning attack to dodge it consistently. It turns out that if I stand at the edge of the door and press Dash right when a lightning ball crosses the circle in the centre of the doorway, I go straight through every time. So yes, Sigma just got defeated by his door. :poker:

@@ -1,0 +1,23 @@
+Team 1 makes a lot of progress in this video. This team has decent magical defenses, but Strago/Relm have much poorer physical defenses. My damage output is very high though. Edgar is almost the inverse of the rest of the team; he's very tanky, but he has far less damage output.
+
+The Vectagoyles are less of a problem for this team because I have Black Omen, Flare, and Holy procs to finish them off. I could even switch Edgar to use Chainsaw if he lands fast enough to get a second turn. Diablos are far more threatening because their counterattacks nearly kill anybody they hit, and their Meteo spells do substantial damage when they hit, since this team has low HP (fortunately, my Magic Evasion here is a lot better). That being said, Diablos die quickly to Celes' attacks (and Flare/Black Omen do great damage). Also, Edgar is less fazed by their counterattacks, so he could probably last quite a while just jumping on them if it came down to it. The Evil Oscars and the Vectaurs die quickly, so they aren't too dangerous.
+
+The indoor junkyard areas aren't as nice for this team as for other teams. The Prometheus has auto-Reflect, meaning that I can't use Flare safely (even though it would be very appropriate otherwise) without identifying the battle first. Black Omen is still great, but it is much better at killing swarms of enemies than single enemies with a lot of HP. Celes/Edgar are always single target damage, but a lot of these enemies have high defense.
+
+The Palace battles with this team gave me one of only three game overs in this dungeon. The fight was against 1x Dark Force, 2x Assassin. I used Flare by mistake instead of Meteor, which was only a minor mistake in itself, but because I was in a Side Attack my targeting was changed. I hit the Dark Force (which had Reflect), killing Strago before he could use Black Omen. The Assassins then went nuts killing people with Instant Death specials.
+
+Despite this, the Palace is probably friendlier to this team than the others. A Meteor/Black Omen combo takes out the Assassins nicely, and Black Omen does great damage to the 2x Ahriman 2x Madam battle (who are otherwise tanky against multi-target attacks).
+
+In the machine area, there is little to worry about except for Androids, as usual. Thankfully Black Omen kills Androids in one hit, so if Strago gets a turn they're dead. It's hardly a guarantee, but Relm/Celes/Edgar are no slouches on damage either, so it's likely that I'll win.
+
+Guardian is a boss that could give me trouble, in theory, because he switches between a large variety of forms (often without warning) as his HP depletes. However, his attacks are really, really weak. Regen takes care of most of my needs. I use HFBs with Celes because they aren't much weaker than her attacks and they don't require a less defensive setup. I just need to be careful not to use them when he jumps in his Dadaluma phase or the game will softlock. I'm not really a fan of using HFBs in this challenge overall since I can't hear them and therefore have no idea that I'm using them correctly.
+
+Ultros' Tentacles are not nice because they cut through Golem, and this party has mediocre physical defenses. His Entwine forces a recast of RegenX as well.
+
+I'm protected from status effects, so Soul Train has nothing.
+
+The Cranes just have magical attacks that are really weak now.
+
+Doom Gaze's instant death never connected somehow. Other than that, he doesn't have much.
+
+Hidon is really weak compared to the actual Hidon, and without the Hidonites all the challenge is gone. I just zerg rush him to make things easy.

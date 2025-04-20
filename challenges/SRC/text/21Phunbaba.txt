@@ -1,0 +1,45 @@
+Now it's time to see how a real character takes on Phunbaba.  This will be the first fight where I'm using what I'll call the "standard strategy" for the WoR.
+
+Let's give a brief overview of how evasive stats work in this game.  If an enemy is using a physical evadable move with standard accuracy, then having an Evade of 82 will give an 82/128 chance to evade it (recall that the M. Evade glitch is patched for this run).  If your Evade is 128/128, you have a 100% chance to evade the move.  Accuracy makes things more complicated, but as a rule of thumb, boosted accuracy will have little to no effect on high/perfect evasions while mitigating or ignoring medium/low evasions.  Most physical attacks have standard accuracy, while most magical attacks have boosted accuracy.
+
+With a setup like the following, Edgar/Locke/Terra/Celes can get over 120 Magic Evasion without investing the helmet/Relic slots, with over 70 Evade to boot:
+</p><ul class="standard-text-interrupt">
+    <li>Illumina (50 Evade/50 Magic Evade)</li>
+    <li>Aegis Shield (20 Evade/40 Magic Evade)</li>
+    <li>Force Armour (0 Evade/30 Magic Evade)</li>
+</ul><p class="standard-text">
+If we invest the helmet slot or the one Relic slot that remains after equipping the Economizer, this can get even higher.  So the plan for many WoR fights will look like the following:
+</p><ul class="standard-text-interrupt">
+    <li>Evade almost all magical attacks with over 120 M. Evade</li>
+    <li>Find some way of dealing with physical attacks</li>
+    <li>Recover from unblockable attacks with Life 3</li>
+    <li>Ultima is used for damage</li>
+</ul><p class="standard-text">
+We have four Illumina users, who can be compared as follows:
+</p><ul class="standard-text-interrupt">
+    <li>Edgar is the worst at everything, and his Tools are no longer useful</li>
+    <li>Celes has high M. Evade</li>
+    <li>Locke has high Evade and HP</li>
+    <li>Terra has high damage, high M. Evade, and decent HP</li>
+</ul><p class="standard-text">
+For Phunbaba, we don't even really need an Illumina user, but there are more Illumina uses than fights that require them, so we'll burn Edgar's last fight here.  Since Phunbaba only uses lightning-element attacks, we'll use the Thunder Shield and prioritize defenses over M. Evade in this fight.  The Illumina does help a lot in evading the physical attacks though.
+
+Phunbaba hasn't gotten much stronger, but with a greater HP pool and added Solar Plexus counters in the first phase, there's no shot that Umaro wins this anymore.  Other than that, the fight hasn't changed much.  Normally Baba Breath removes two characters from battle, but it will fail when you only have one character.  Terra normally joins the fight before the second half, but she has been hacked away.
+
+We choose the Marvel Shoes (Auto-Regen, Auto-Haste, Auto-Safe, Auto-Shell) as the Relic here.  IIRC Edgar doesn't have time to be revived by Life 3 and get in a dual-cast (which has a long delay) before Phunbaba's next turn, and we'd otherwise forgo buffs entirely since they get wiped every time Blow Fish kills us.  Our luck here is pretty terrible, as Phunbaba spams Blow Fish nearly every chance he gets.  Still, there's no real danger of dying here, as Blow Fish can't be used twice in a row and we get a chance to heal after being revived.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 3
+Strago - 3
+Relm - 0
+Setzer - 2
+Mog - 1
+Gau - 4
+Umaro - 2
+Gogo - 0

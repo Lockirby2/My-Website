@@ -1,0 +1,33 @@
+First off, don't mind the Strahl corpses everywhere.  That's... uhh... perfectly normal.
+
+It's time for the final battle!  Or part of it, anyways.  The whole thing is too long to fit into a single video, and each of the parts happens to be around my 10-minute target for video length, so it works out perfectly.  Keep in mind that this is all one contiguous fight though.  No save states were used between tiers, so we need our strats to be as consistent as possible.  In addition, this only counts as one character use, as you'd probably expect from the fact that we only have character use left.  I may have made this count as four uses if it rounded out the numbers perfectly, but it's exactly one short, which is why I introduced the bonus bosses instead.
+
+With that in mind, the fight is no anti-climax.  It's a brutal gauntlet of ten bosses, with each one having multiple phases to contend with.  You'd think an Illumina-wielder would be the most flexible option to deal with the varied attacks coming at us.  If the Magic Evade bug wasn't patched, you'd be right.  A character with perfect Magic Evade would be nearly invincible here, and any holes can be patched up with Life 3.  But with the patch, it turns out that Terra runs into hard walls against Tier 3 and Kefka.  We'll need both Mog's damage output and his perfect Defense to survive.  Though let's not get ahead of ourselves too much here.  I'll save that commentary for when the time comes.
+
+We have to make some decisions when it comes to our equipment as well.  The Snow Scarf is a given for the armour slot since it's what enables perfect Defense, and we'll need the Economizer (as always) to cast the important spells.  The weapon and shield slots aren't as important since we can swap them out during battle, but we'll typically be using the Aura Lance for its +3 Magic bonus.
+
+The second Relic slot is trickier.  A Ribbon would solve a lot of problems from status effects, but we can't fit it in, so they'll be the bane of our existence against the three Tiers.  A White Cape to boost Magic Evade and protect against Imp would also be nice, but we can't do that either.  What we absolutely need is the Gem Box for X-Magic.  Without it, we pretty much have to MP-mill Tier 3, a process which takes over an hour, can't be automated, and is easy to screw up.  Oh, and we'd have to risk a 1/3 chance of death after doing that.  This is pretty much unacceptable, even if it's technically the most reliable strat (odds of winning are almost 2/3).
+
+Then there's the Helmet slot.  Our choices here are the Circlet for the +4 Magic bonus, the Genji Helmet to attain perfect Defense while wearing elemental shields, the Green Beret for Evasion, and the Bard's Hat for Magic Evasion.  Unintuitively (to me at least), the Circlet wins out easily here.  We somehow simply never need perfect Defense and elemental protection on the same turn (with one minor workaround).  Additionally, the Circlet allows us to hit important damage ranges that give the bosses fewer dangerous turns.  You'll see what I mean against Tier 1 here.
+
+Although Mog wasn't chosen for Tier 1, he stacks up nicely here.  Tier 1 likes physical attacks, so we enter with the Genji Shield for perfect Defense.  We're vulnerable to Shock Wave (magical) from Long Arm, but  Long Arm is thankfully vulnerable to Petrify, so we'll dual-cast Break immediately to ensure its demise.  For the moment, we're perfectly safe since all they'll do is use physical attacks and inflict Seizure.  We take a moment to setup some buffs for Tier 2 before prepping for the end of Tier 1.
+
+While the Short Arm never does anything dangerous, once Face gets low on HP, it'll start using Dread to Petrify us.  Life 3 doesn't revive Petrified characters, so this is a Game Over.  Since Ultima's damage is split when mutli-target, we want to defeat Short Arm before entering the final phase, ideally with Face just outside outside of Dread range.  Seven Flares on Short Arm and one Cure 3 on Face typically line things up perfectly.  This is where the Circlet comes in.  We don't hit the damage range without it, so we'd have to dodge Dread twice.  We can further stack the odds in our favour by swapping in the Force Shield for maximum Magic Evasion, leaving us with about a 1/6 chance of failure here.
+
+Of course, we get unlucky with Ultima's damage ranges in this attempt, and Face dies a turn later than intended.  IIRC, this was literally the only attempt where this happened.
+
+Character Uses:
+Terra - 4
+Locke - 4
+Cyan - 4
+Shadow - 4
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 4
+Setzer - 4
+Mog - 3.25
+Gau - 4
+Umaro - 4
+Gogo - 4

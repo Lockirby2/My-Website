@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lockirby2 - Home</title>
+        <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+        <script src="/components/helpers.js" type="module"></script>
+        <script src="/components/top-bar.js" type="text/javascript" defer></script>
+        <script src="/components/main-body.js" type="module" defer></script>
+        <script src="/components/file-text.js" type="text/javascript" defer></script>
+    </head>
+    <body>
+        <c-top-bar></c-top-bar>
+        <div class="content">
+            <div class="left-margin"></div>
+            <c-main-body>
+                <h1>Hello There</h1>
+                <c-file-text filepath="text/Summary.txt"></c-file-text>
+                
+                <h1 id="challenges"><a href="https://lockirby2.neocities.org/challenges">Challenges</a></h1>
+                <c-file-text filepath="text/Challenges.txt"></c-file-text>
+                
+                <h1 id="lps"><a href="https://lockirby2.neocities.org/lps">Full Playthroughs</a></h1>
+                <c-file-text filepath="lps/text/Summary.txt"></c-file-text>
+                
+                <h1 id="resources"><a href="https://lockirby2.neocities.org/resources">Resources</a></h1>
+                <c-file-text filepath="resources/text/Summary.txt"></c-file-text>
+                
+                <h1 id="software"><a href="https://lockirby2.neocities.org/software">Software Projects</a></h1>
+                <c-file-text filepath="software/text/Summary.txt"></c-file-text>
+                
+                <h1 id="contact-info">Contact Info</h1>
+                <c-file-text filepath="text/Contact.txt"></c-file-text>
+            </c-main-body>
+            <div class="right-margin desktop-only"></div>
+        </div>
+    </body>
+</html>

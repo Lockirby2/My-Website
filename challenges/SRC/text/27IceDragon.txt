@@ -1,0 +1,33 @@
+It's time to introduce the final character: Gogo!  Gogo is a weird one, being able to use the skills of any of the characters in the game.  However, this comes at a cost.  Gogo doesn't learn Magic like the other characters.  Instead, their Magic selection is based on the other characters in the party.  While this technically means that Gogo can use the Magic from dead sidekicks, I prefer not to let the other characters have an impact on the battle, so Gogo will be going without the Magic command in this run.  Most notably, this means no Life 3, which cuts Gogo's consistency considerably.  Therefore, Gogo shouldn't really fight anything that can use a deadly attack unless we're banking on some luck to begin with.
+
+As for the skills we choose, Rage is typically the most powerful, so Gogo will essentially just be acting as a discount Gau in the WoR.  With us being unable to use Gau in the WoR at all, it's nice to get a chance to show what he would have been able to do.  However, Gogo will be going full mime for one specific fight.
+
+The Ice Dragon only does two things: physical attacks and Ice-elemental attacks.  There are many ways to shut this down, but the slickest way is to use the Io Rage.  Defensively, this Rage is great because it has Vanish immunity.  Status immunities work both ways in this game.  They prevent statuses from being applied, but they also prevent statuses from being *removed*.  This means that if we enter the battle with Vanish and Rage Io, we now have permanent Vanish and immunity to all physical attacks.  With an Ice Shield as well, our defense is set so long as we move before the boss removes Vanish.
+
+On top of that, Io is great because of its special move, Flare Star.  This move, like Yuffie's Conformer, deals damage based on the enemy's level.  In the case of Flare Star, this damage is entirely fixed with no way to boost it unless it hits a Fire weakness.  The dragons all have high levels and the Ice Dragon obviously has a Fire weakness, so Flare Star hits the damage cap here.  The fight doesn't last long.
+
+Against the Storm Dragon, we'll use a similar strat, but with an added wrinkle.  Io is immune to Wind naturally, so we don't need to worry about Wind-protection.  However, the Storm Dragon has an attack named Rage, which is typically the bane of LLGs since it deals unblockable non-elemental damage to the entire party.  Fitting that the dragon's Rage is the only thing it has to deal with our Rage, but we have a way to shut this down anyways.
+
+Imp gear, which can be obtained around the WoR overworld, has some interesting properties.  It's meant to be used while under the effects of Imp status, and while doing so, it will have extremely high attack and defense.  The weapon is nothing special since max attack power isn't anything to write home about in FF6 (especially at low levels), but the armour is very useful.  The downside is that, while Imped, we can't use any specials or use any Magic besides the Imp spell.  With Fight usually being trash and offensive items banned, it seems like using Imp gear would lead to a tedious stallfest where we can't survive any mishaps.  Maybe an Imp Dragoon could put in okay numbers somewhere, but I never used this set.
+
+However, the good news is that only the Defense of the Imp gear depends on being Imped.  The Magic Defense of the Imp gear will be high no matter what.  So if we can accept being OHKO'd by any physical attack that connects, we can use the Magic Defense to our advantage.  With the way Magic Defense works in this game, only extremely high levels of Magic Defense will help us tank much of anything, and Imp gear is really the only way to achieve these numbers.  In other words, the Imp gear is situational, but still useful.
+
+That said, the Shield slot is still better devoted to the Force Shield that we just acquired from the Ice Dragon, which is min-maxed so much toward magical defenses that it outdoes even the Imp's Tortoise Shield.  The Force Shield gives higher Magic Defense/Evade, Auto-Shell, and resistance to a bunch of elements, so it's a must-have.  With this setup, Rage deals pitiful damage and the only threat in this fight is eliminated.
+
+With these last three monologues out of the way, you now know every major mechanic at play in this run!  Now all we need to do is put the pieces together for the last bosses.
+
+Character Uses:
+Terra - 1
+Locke - 2
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 3
+Relm - 0
+Setzer - 2
+Mog - 2
+Gau - 4
+Umaro - 3
+Gogo - 2

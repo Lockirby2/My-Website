@@ -1,0 +1,23 @@
+Goddess is easier than you'd probably expect.  Her main gimmick is Overcast, which inflicts Condemned (Doom) status and also causes party members to turn into Zombies upon death.  This prevents Life 3 from working, so it's mandatory that we devote our Relic slot to the Safety Bit (Instant Death protection) to shut it down entirely.
+
+Beyond that, high Magic Evade shuts her down pretty hard.  In her first phase, she occasionally uses physical attacks.  These can be survived unreliably with the right setup, but they're rare enough and her first phase is short enough that I figured it would be better to just push damage here.  It's vanishingly unlikely that she breaks through Image and then connects two physicals in a row to end the fight.
+
+Once in her second phase, Goddess has no hope.  We switch to the Force Shield since she stops using physical attacks and our Magic Evade is otherwise one point off perfection.  The only threat now is Quasar, but she can only use it once every four turns at most, so Life 3 solves our problems here.
+
+As an aside, I mentioned earlier that I should have used Terra against the Dream Stooges.  This is the fight where I would have used Locke instead.  His higher base HP allows him to survive Goddess' physicals reliably if we go for a bulky setup, and his higher base Evade allows him to dodge more if we use this strat.  This should make up for his lower damage output on average.
+
+Character Uses:
+Terra - 4
+Locke - 4
+Cyan - 4
+Shadow - 4
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 4
+Relm - 4
+Setzer - 4
+Mog - 3
+Gau - 4
+Umaro - 4
+Gogo - 4

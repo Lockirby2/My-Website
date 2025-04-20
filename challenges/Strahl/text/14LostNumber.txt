@@ -1,0 +1,7 @@
+This fight is done with Red XIII since he otherwise doesn't get to participate much in this playthrough.
+
+The first half of the fight is straightforward, with Lost Number randomly choosing whether to use physical attacks or Bolt 2.  Luckily, by backtracking with our recently acquired Buggy, we can obtain the Bolt Ring without scavenging since it's handed to us by a man sleeping in a cave.  This accessory nullifies Bolt 2, leaving us with nothing to deal with but weaker physical attacks.  Even though it can attack twice per turn, it can't win here.
+
+Lost Number's main gimmick is that it'll turn into a powerful physical or magical form depending on what attack you use to knock it below 50% HP.  In its physical form, it lets loose devastating strong physicals, and in its magical form, it'll start using spells we can't nullify.  Luckily, we can take a third option.  As long as we let Poison do all the work, it'll never shift form.  Therefore, we just need to stop tossing Molotovs when it reaches half HP.
+
+In the immortal words of GarlandTheGreat, "As this is an optional battle, I will not be saving afterwards".

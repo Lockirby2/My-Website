@@ -1,0 +1,33 @@
+We've now obtained the airship and hit the WoR proper.  Since the WoR can be accessed in pretty much any order, we get an influx of new equipment, spells, etc.  Weirdly enough, almost none of the important things are gated behind boss fights, which means that we're hurting for almost nothing from the get-go.  Ultima, the Economizer, the Illumina, Fire 3, Life 3, the Marvel Shoes, and a decent selection of characters are available right out of the gate.  This makes routing the boss order straightfoward (even if selecting a character for each boss is still a bit of a puzzle).  There are only a few bosses that gate things we want, and we'll face off against most of them pretty early.
+
+The first two bosses in this video are probably the most embarrassing bosses in the entire game.  Whelk is debatably harder than either.  Tritoch is more of a puzzle boss than anything; you're mainly just supposed to figure out to melt it out of the ice with Fire spells.  Its only attacking move is Ice 3, which can be prevented easily with Reflect or an Ice Shield.  We opt for the former because its Rasp can be annoying.  We want to use Fire 3 for offense, as Tritoch's low Magic Defense and Fire weakness means that it slightly outdamages Ultima here.  Tritoch will occasionally freeze us with Cold Dust; we can't prevent this, but we can at least setup Haste so that it doesn't last as long.
+
+Anybody can do this fight, but we don't want to recruit Relm yet and Sabin's Blitz is off the table since Tritoch counters it with Cold Dust.  We'll use Setzer here, as he's the biggest chump left on the table.  This is also our introduction to the Economizer, which reduces MP costs to 1.  It's insanely useful and important, as it allows us to cast the higher-tier spells that we'll need to survive the endgame, but the fact that we're basically married to it for the rest of the game really limits our Relic slots.
+
+The next boss is Umaro.  For whatever reason, the developers decided that this already trivial boss needs to pull its punches when there's only one character standing.  So in this challenge, Umaro only attacks physically, and you can guess how that works out.  If that wasn't enough, he's also weak to both the Poison element and status, so Poison damage racks up absurdly fast.  We choose Sabin here since defenses don't matter at all.  We also use the Active time gauge for once to allow Poison damage to accrue during Blitz inputs.
+
+As our reward for these two fights, we unlock... a huge problem.  Umaro as a character is just as pathetic as his boss incarnation.  He's the game's resident berserker, which means that he'll just select one of a handful of moves.  He has a weak physical attack, an okay tackle attack, and a solid Blizzard move that he can use at the cost of a Relic slot that he desperately needs for other things as well.  He has very few ways to heal and zero utility.  In other words, all Umaro can do is attack... and he's not very good at it.
+
+This may not have been a big deal if we could just equip him properly since equipment is extremely powerful in this game.  However, we can't even enter Umaro's equip menu.  While Umaro has the Snow Scarf (one of the best pieces of defensive gear in the game), he also has no headgear or shield, so his Defense is pretty mediocre and he only deals with the Ice element easily.  All of this is why I went out of my way to recruit him so early.  I wanted to establish what he could actually beat in case I needed to tweak a rule or two.
+
+Obviously, Umaro will be fighting a bonus boss, and we'll choose something that's doable.  But we still need to find three bosses that he can defeat.  Very irritatingly, two of the few WoR bosses that Umaro can defeat easily are Tritoch and Umaro himself - the exact two bosses you need to fight to unlock him.  We'll have to eek out wins for him through cheese, copious amounts of RNG, and finding bosses that are even worse than he is.
+
+Speaking of that RNG one, let's hop straight into the first Phunbaba fight.  This is meant to be fought with Sabin and Celes alone, so its HP is effectively ~7500, which is very small for a WoR boss.  Many bosses' physicals are a death sentence for Umaro, but Phunbaba's are quite weak.  However, we won't be able to survive the physicals for the entire fight with just our armour, so we equip the Marvel Shoes for Auto-Haste, Auto-Safe, and Auto-Regen.  Our other Relic slot must be devoted to the Rage Ring, an Umaro-exclusive Relic whose secondary effect is an immunity to Lightning, Phunbaba's only element (its main effect is useless in this challenge).
+
+So where does the RNG comes in?  Every third turn, Phunbaba has a 1/3 chance of using Blow Fish, which you're probably more familiar with by its GBA name - "1000 Needles".  It does 1000 damage, and there's no way to mitigate it.  We just have to hope Phunbaba never uses it, but the battle goes on long enough that we're pretty likely to get killed by it.  It's still the best odds we have against any boss, and thankfully it was good enough.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 3
+Edgar - 3
+Sabin - 4
+Celes - 3
+Strago - 3
+Relm - 0
+Setzer - 1
+Mog - 1
+Gau - 4
+Umaro - 1
+Gogo - 0

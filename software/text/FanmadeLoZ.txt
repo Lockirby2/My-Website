@@ -1,0 +1,7 @@
+I do not own Legend of Zelda, nor do I claim to.
+
+This game has been made using JCreator, and it was my summative project in Grade 12.  This took around 2 months to make, but at this point it would be easy to add more enemies/maps.  This game follows the original game somewhat closely, but it is actually significantly more difficult, so I just run through without killing too much when I show myself winning the game.  You would need an absurd level of skill/luck to kill everything.  There is no sound, and I didn't edit any into the video because everybody knows half of Youtubers don't read the description, and I don't want people thinking the game has sound when it doesn't.  Don't expect a fully fleshed out game; this was a school project, remember, so it's rough around the edges.  However, considering this was made with only two semesters of experience with Java, I think it turned out extremely well.
+
+I beat it on my first attempt, and then go back to die to show off what happens (if you're wondering why I'm running around, it's because I want to show that some projectiles work through your shield).
+
+I actually made a level editor with Java as well, which outputs the design of the maps that I make in it to a simple text file.  This is so that I don't have to type up all the information by hand.  It saved me oodles of time in the long run, and it would have been very tedious to do it the other way.

@@ -1,0 +1,31 @@
+For the first time in a while, this entire video is a bit of a breather.  Figured I'd save the description of Setzer for this one since there was a lot going on with the Cranes.  It's not like Setzer could have contributed against the Cranes anyways; you don't get the chance to equip him with Relics beforehand, so he couldn't have realistically won even with Joker Doom, let alone without it.
+
+Setzer is probably the most mid character in the entire cast in this challenge.  His Slots provide a huge variety of weird and wacky effects, like damage, damage against grounded enemies, slightly more damage, and even more damage than that.  Oh, and he can summon random Espers, too, but that usually isn't reliable enough to accomplish much.  With Joker Doom banned, Slots mostly ends up being just a slightly-above-average damage source.  It beats out stuff like Sabin and Cyan's skills (provided that you can time them perfectly), but doesn't do anything notable.
+
+In addition, Setzer has the Fixed Dice, which can deal some heavy burst damage if we get really lucky rolls, but probably don't beat Ultima on average.  However, they do combo well with the Imp equipment (more on that later), so Setzer ends up with a small amount of both offensive and defensive utility in all parts of the game.  Since his availability is trash in the WoB and he's not going toe to toe with any of the heavy hitters, we'll have to find space for him in the WoR.
+
+However, there is one thing that Setzer can do for us now.  As you've probably noticed, enemy attacks are starting to reach the point where they're more than we can handle through normal tanking.  To complete the WoB, we need an ace in the hole of some kind.  And that ace comes in the form of the Flame Shield, which can be morphed from Bombs by summoning Ragnarok... though we don't have Ragnarok yet.  The Flame Shield absorbs Fire and nullifies Ice, so it's somewhere between useful and critical for almost every fight until the WoR.  Due to a quirk of the RNG, they can't be morphed by throwing the Magicite item (which also summon a random Esper), but Setzer's Slots can do the job.  In theory, the odds of a successful morph are 1/864, but I'm pretty sure that the odds in practice are 1/256.
+
+Thankfully, this is doable even without save states.  Bombs show up regularly in a certain section of the world map, so we don't need to worry about encounter RNG.  The Slots have a similar mechanic to FF7 where they'll deny certain symbols from lining up (even when timed perfectly) unless you're lucky, and the exploit from FF7 doesn't work here.
+
+However, there's a simple RNG manipulation that can be done to allow any outcome.  The random number generator for the Slots is shared by exactly one other game mechanic IIRC, and that's the randomness used to produce certain attack animations.  Thankfully, the Echo Screen item has the right animation to guarantee that any Slot can be spun if used at the start of battle.  Since the Slots are timeable, the only RNG we need is the 1/256 chance that we summon Ragnarok, connect it, and morph a Flame Shield.  I used save states to speed up this process, but it should only take an hour or two on console.
+
+Strago joins at the high level of 8.  Since HP is determined almost entirely by level in this game, that makes the "squishy" black mage pretty bulky in the WoB and gives him a great damage output as well.  His Lores aren't super valuable when Step Mine is banned, but he's still got some useful tricks up his sleeve.  Since Strago is present during this awkward Crescent Island segment where we have a limited party of characters that we don't really want to use, and his high HP is most valuable right now, we'll be racking up fights with him very fast.
+
+Now that we have the Flame Shield, you will probably be unsurprised to learn that absorbing Fire makes the fight against the giant flaming fireball that only use fire moves rather trivial.  It does show up with some Balloons that can punch us, but as long as we leave exactly one alive to prevent it from summoning anything else, it can't kill us.  Stone makes that easy to accomplish, as we can confuse them all on the first turn and watch them blow up on each other.  If you were playing this on console, you probably wouldn't learn all the spells I did here because the only source of AP for Strago is in the Burning House and you can't save in here.  However, I thought it made for a better video to learn everything that would be useful.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 2
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 1
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 2
+Umaro - 0
+Gogo - 0

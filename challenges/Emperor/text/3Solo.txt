@@ -1,0 +1,5 @@
+Here is my final Emperor dragon video.  Celes shows just how unfair this game can get.  I needed an Atlas Armlet to break 50K damage, even with max Vigor, so I couldn't use a Safety Bit, meaning that Soul Out and Delta Hit are instant death.  He never got to counterattack because every time I hit him, I was on Quick or he lost a "life".
+
+Notes from the future:
+
+Celes is used since she gets the highest Magic Evasion, which we've stacked high enough to evade anything evadable.  Since Celes hits for just over 50K damage with two sets of attacks, it only takes two attacks to deplete a "life".  We don't have a Relic slot for an Economizer, so we need to use an Elixir at a specific point in the fight regardless of how much we've been damaged.  IIRC, I routed this heals so that it would happen at a time when we'd usually be low on HP to improve consistency.

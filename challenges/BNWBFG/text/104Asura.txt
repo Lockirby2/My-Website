@@ -1,0 +1,7 @@
+Why decide whether to heal, attack, or unfreeze my characters? I can do all three at once with Merton. I bet my Iceguards for four Flameguards in the Coliseum because they are useful for both Asura and Myria.
+
+The trickiest part of this fight is that I need to listen closely for counterattacks. If a character is Dispelled, I need to reapply Reraise with Relm. If a character is Reverse Polaritied, I need to tell that character to move back to the correct row. Nobody benefits from being in the front here, and Loc-Nar hits for decent damage when I'm in the front.
+
+Nearly all of her attacks are neatly countered by Celes casting Merton. However, if Celes herself is frozen I have Relm's Fire 2 as a backup method of unfreezing people. Meteo is the other big threat, which is why I want to keep my Reraise up. I don't usually like Reraise in this challenge because it can be very difficult to keep track of who has the status. I considered it important here because Meteo can wipe my team if I'm very unlucky. That being said, this team has high magical evasion for good measure.
+
+I can keep a constant stream of damage with this strategy. Merton for 3.5K, Chainsaw for 4K, Flare for 4.5K and Black Omen for 5K are pretty solid, and I can often just barrage her with attacks. Sometimes I will lose momentum due to Meteo, but that didn't happen in this run (I got very lucky here). I consider this a good use of X-Ethers because I have three heavy MP users and I want to spend as little time as I can managing MP.

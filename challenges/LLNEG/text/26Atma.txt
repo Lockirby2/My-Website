@@ -1,0 +1,12 @@
+Atma: Not too difficult in this challenge.  I use Debilitator with Gogo for the first turn because I can still get use out of him and have a chance to mimic Flare Star.  However, debilitation didn't pan out this time around.  Luckily, Fenrir and Reflect make me immune to the majority (or maybe all) of his attacks in his first phase.  I didn't notice when my Reflect ran out though.  Thankfully, he decided not to smite me with an MT spell, just killing Ed instead.  After a certain number of attacks (8 iirc) he starts charging for Ultima, wasting all the time that he lives for in his second phase.  Gau and Gogo really went nuts with Flare Star in this battle, killing him before he could use it.
+
+Inferno, Striker and Rough: Definately a LARGE step down in difficulty from an LLNENMG, where I would need a lot more luck, and a fully charged Traveller to have any decent chance at this battle.  Flare Star fails miserably for once, being divided among three targets.  The boss also absorbs fire, meaning I need to debilitate him first.  Therefore, I switch my tactics and use Thunder Shields instead.  These can be farmed by stealing from Steroidites (thank goodness for 30x speed!) and deal out about 6000 damage from a Morphed Terra or Gau (my Gau is an extra level higher than he should be, hence the massive damage).  Now here's where the Espers come in.  Palidor is just there to buy me some time.  It's equipped to Mog because he has the MP to cast it.  Gau gets Fenrir, as he can cast it, and he is more valable than Mog, hance wanting the protection.  Carbunkle, equipped to Terra, protects my party from his many Thunder based spells (They also bounce back for some nice damage).  Shoat kills the arms instantly, as neither are protected from ID, but it can miss.  This is good for three reasons:
+<ol>
+    <li>No Shrapnel.</li>
+    <li>Inferno will waste a turn casting the useless MBarrier.</li>
+    <li>It changes his attack pattern to being 2/3 chance of Bolt 3, which deals good damage to him, and 1/3 chance of being Meteor, which kills me.  This is actually an improvement from my chances with his "regular" script.</li>
+</ol>
+
+Now I can just beat him down with Thunder Shields and hope not to see Meteor.  Most of the luck in this battle is just Pre-empting his attacks with Palidor.
+
+Skull Dragon:  I think I've gone on long enough, haven't I?

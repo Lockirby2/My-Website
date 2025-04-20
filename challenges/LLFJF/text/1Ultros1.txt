@@ -1,0 +1,32 @@
+I recently participated in the FF6 "Four Job Fiesta" (https://www.fourjobfiesta.com/ff6/), and after some theorycrafting I realized that I should be able to do a low level game of this.  The rules are as follows:
+</p><ul class="standard-text-interrupt">
+    <li>It's a Low Level Game, so avoid EXP where possible and divide EXP in a way that reduces the level count as much as possible.</li>
+    <li>No Magic is allowed.  I cannot cast any spells from the Magic menu, equip Espers, or learn any spells from equipment.  Note that the rules specifically say that I cannot equip Espers. ;)</li>
+    <li>No Rod breaking is allowed.  Note that the rules specifically say not to break *rods*. ;)</li>
+    <li>A random party of four is chosen, and I may only use members of that foursome when possible.  The party I rolled is Locke, Edgar, Cyan, Gogo Only.  The game isn't structured nicely for this, and the rules more or less say "Do your best", so there's a bit of grey area on what's allowed and what isn't.  I settled on the following rules:</li>
+    <ol>
+        <li>If I can't use any characters from my chosen four, I can do whatever I want as long as I follow the other rules.</li>
+        <li>If I can use any of my chosen four, any other characters must be removed from the party if possible.</li>
+        <li>If any of my characters are present and I must have other characters, the other characters must start any important battles dead if possible.</li>
+        <li>If it's not possible for all of my other characters to start the battle dead, they must remain in the front row, not have any statuses applied to them, have no equipment (if possible), and not take any actions.  I will not force myself to have the minimum number of characters alive in these scenarios.</li>
+        <li>Temporary characters (most notably Banon and the Moogles) are allowed to act normally.</li>
+    </ol>
+</ul><p class="standard-text">
+In a sense, this ruleset is a little bit forgiving; I could technically ensure that other characters are dead before I start acting with allowed characters or ban using temporary characters.  However, a couple fights are basically impossible with that ruleset, so I took some liberties in how I interpreted the rules.
+
+This fight with Ultros is the first major challenge in this run.  With the party I rolled, we are limited to Edgar and Banon in this fight.  For maximum LLG purity, I wanted to fight this with Banon at level 2 even though he won't affect any permanent members if he levels up.  This restricts us quite a bit.
+
+The naive approach is simply to use Health and Autocrossbow every turn.  However, this will eventually back us into a corner when Ultros uses a single-target (ST) Tentacle on Banon.  We somehow need to act more often, and it turns out there's a way to do that.
+
+If we throw all sorts of ATB manipulation techniques at this, we can get both Banon and Edgar to act twice for every turn that Ultros takes.  These are as follows:
+</p><ul class="standard-text-interrupt">
+    <li>Set the battle speed to 6; battle speed only affects enemies in this game, so this only benefits us.</li>
+    <li>We can use the "Wait Trick" to buy us some time.  Normally, all ATBs increment during our attack animations.  However, if we have one character wait in the menu, the ATB will be paused.  If we only do this during our own attack animations, we gain extra turns.</li>
+    <li>We can run away to cause "Can't run" messages to appear when Ultros is going to attack, stalling his turns.</li>
+    <li>We can set the message speed to 6; Ultros' text boxes and our "Can't run" messages will be dragged out, stalling Ultros' turns even longer.  We'll usually be Wait Tricking during our own text boxes, so this doesn't hurt us as much.</li>
+    <li>Give Edgar the RunningShoes for auto-Haste</li>
+    <li>Queue Banon's Health skill as soon as Ultros queues his last attack of the turn to stall out the short delay before Health will be used.</li>
+</ul><p class="standard-text">
+With all of those tricks in play, we can eke out two Autocrossbows, a Health, and a Defend every turn.  This allows Banon to survive multi-target (MT) Tentacles consistently, but if he's hit by an ST Tentacle he still dies about 5 out of 9 times.  There's also one turn in Ultros' attack script where he can use Tentacle twice; this is game over as well if it happens.
+
+Ultros' attack script is pretty consistent, do it's easy to calculate the odds of victory.  With the damage output we have, we need to risk three double-Tentacles (1/3 chance of death) and two ST Tentacles (~5/9 chance of death).  This comes out to about a 9% chance of victory.

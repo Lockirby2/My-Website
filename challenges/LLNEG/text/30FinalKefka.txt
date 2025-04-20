@@ -1,0 +1,39 @@
+So, many, bosses.  I'll go through it step by step.]
+
+First of all, I did use some save states between battles.  It would be no fun to go through battles I've already fought over and over again.  I did not use them to luck manipulate during battles though.  I only used them when I was absolutely safe at the start or end of a battle.  Namely:
+</p><ul class="standard-text-interrupt">
+    <li>When only the Right Arm was left and at low HP</li>
+    <li>When only muted Magic was left</li>
+    <li>At the start of the Kefka battle (his first attack is always Fallen One, which cannot kill me).</li>
+</ul><p class="standard-text">
+I enter the first battle on Vanish, as I don't want to lose image before the important areas of the battle (2nd tier)
+
+Left arm:  Break works.  I was too lazy to steal the air anchor, so I just cast the spell.
+
+Head:  Has to die next to avoid a Quake death counter.  Flare Star is super effective naturally, so it'll go down first guarenteed.
+
+Right arm:  No threat.  One of the arms has Shock Wave, but healing from it would be ridiculously easy anyways.
+
+I cast Hastega at the end of the tier, as it will help in the next tier.  I could have cast Reflect and Reraise on everybody too, but I didn't think wnybody wanted to see all those animations during an already long video.  
+
+Now is where it gets harder.
+
+Tools:  I'm not sure if Break would work, so I use death instead, even though it hits less.  It better hit, too.  Death is probably better than air anchor in this case because it denies him his second turn (air anchor gives him a turn before he dies).
+
+Magic:  Mute and leave.
+
+Hit:  I summon Fenrir here mostly to dodge Hit's attacks.  Io allows me to keep Image when I die, but I must take a turn to Rage it.  With Fenrir, Hit poses little threat.
+
+Tiger:  The big evil in this tier.  He has a good chance of wiping out my party every four turns with an attack.  I Poison him at the start of the battle, but this isn't good enough to take him out in time.  I need to use Flare Star as well to supplement this Poison damage.  Split between three targets though, it isn't that deadly.  Unfortunately, while Force Fielding fire would stop him from attacking, it would stop me from attacking too, and I didn't buy enough Super Balls to defeat the whole second tier (though if I were to do it without save states, this would have been my strategy).  Using Reraise, Gogo eventually ends up alone with Image status as Tiger goes into his second phase, which uses deadly attacks every two turns instead of every four.  At this point, I thought I was headed to a quick death.  I couldn't even Rage Io, as I would lose the ability to revive the other characters.  Luckily, Tiger did everything wrong at this point and died of Poison (thank goodness I gave Gogo the magic command and not Throw, which would have never been used anyways).  Crazy luck there.
+
+At the end, don't pay any attention to me killing Ed; that was part of a strategy that fell through.
+
+Lady:  There's nothing for it but to chuck Super Balls.  I can't even debilitate her.  Super balls seem extremely random, but with four characters throwing them, they do the job.  Luckily, lady can't hurt me.
+
+Sleep:  Sleep has one attack in his first phase which hurts a lot:  Merton.  If he does use it, it will kill the person who Magic's dispel counters hit, and remove Reraise from everybody else.  Luckily, once Gau and Gogo are on the Io Rage, they are safe from it, as Io nullifies wind.  I can't put Gogo on Io right away though, as I need him to debilitate Sleep as fast as possible.  Sleep's second phase is even more dangerous.  I Rage Gau right away, hoping to drop Sleep into his second phase soon after he's debilitated.  Overall, this works out well here.
+
+In Sleep's second phase he uses Meteo every turn, which has a low hit rate (though it seemed to hit more in the GameBoy version...maybe that's just me).  I have Reraise on some people still, but I need good luck with it either way.  Somehow, while Gau and Gogo scared me by punching Sleep a lot, Sleep maneged to only take one turn, and never used Meteo as a counter.  His Calmness could hit Gogo (or rather, miss Gogo), Strago (he isn't needed) or anybody with Reraise and I'm fine with it.
+
+Kefka:  His first phase is actually pretty lame.  Carbunkle takes care of his spells, and I would just heal from physical attacks, but this time his only one hit Gogo and finally removed the Image he had been sporting since tier 2.  This phase is good because I can debilitate him in time for Goner.  I would have used Reraise too, but Strago was muted and out of MP after the point where I could do anything about it.  In his second phase, Kefka can counter with HyperDrive, and I risked it by throwing a Super ball.  By this point, I need to kill him as fast as possible.  After he starts charging for Goner, I can throw as many Super Balls as I want, and I got quite high damage out of them.
+
+Special Thanks to WhiteThunder for the OoT clip.

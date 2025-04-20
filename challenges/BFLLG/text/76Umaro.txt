@@ -1,0 +1,19 @@
+Woah, a segment with gameplay? That hasn't happened in a while.
+
+First off, I have to slaughter some Tonberries. These guys are pathetic because they can't hit me through Vanish unless I cast Magic on them.
+
+Next up is Umaro. I can't quite jack up Gau's Defense to perfect yet, despite the Snow Muffler (which thankfully absorbs Ice). I can get his hits to be relatively weak, but not enough to survive easily. While I could Berserk Umaro and then cast Vanish on myself, I don't really want to do that. The majority of his script goes to waste because I only plan on leaving one character alive and he isn't using Magic, which means that he'll pretty much just punch me or use Tackle. He has a 1/3 chance of healing me with Blizzard if Gau uses Blaze on him, which heals me for 120, but understandably that doesn't happen very often.
+
+Gau can survive for quite a while, but he won't survive indefinitely. Normally this isn't much of a deal, since Umaro is weak to Poison and it tears through him rather quickly. However, on this run Umaro pre-empts Edgar (already unlikely), and uses Blizzard (1/3 chance), killing my team too early. Now Gau has to do all the damage by his lonesome, which he isn't really cut out to do. Surprisingly he managed to pull through, not that I did anything to help with that outcome.
+
+Finally, I have to encounter all Tomb Thumb formations in this dungeon to maximize my chances of getting Traveler on the Veldt. I could just run around for a while, hit a couple dozen encounters and hope that I get the right ones, but I'd prefer to actually identify what I'm fighting so that I'm sure. Fortunately, it's pretty easy. Simply cast Fire on everything to open the fight.
+</p><ul class="standard-text-interrupt">
+    <li>If I get four Mega Volt counters, it is Anenome x4 (worthless)
+    <li>If I get two Mega Volt counters, it is Anenome x2 + Tomb Thumb (I need this one)
+    <li>If I get no Mega Volt counters, it is Ceritops x3 or Ceritops + Tomb Thumb x2 (I need the latter)
+</ul><p class="standard-text">
+At this point wait for the second enemy turn.
+</p><ul class="standard-text-interrupt">
+    <li>If I hear Dash from the Tomb Thumb (they use it on themselves), it's the encounter I need.
+    <li>If I don't hear Dash, it's probably the Ceritops x3 encounter, though I can't be sure. At this point I'll run and look for a different encounter.
+</ul><p class="standard-text">

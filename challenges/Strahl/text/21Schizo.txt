@@ -1,0 +1,35 @@
+I've heard it said that Schizo is always one of the easiest or the hardest bosses in FF7 challenge runs.  In this challenge, it's probably the hardest, bar none.  It was also one of the scariest, as a mistake or miscalculation here could have ended the run or required redoing hours of content to fix.  The No Scavenging rule denies us the Fire/Ice immunities/absorptions that we could use to cheese an easy win, which means that we're limited to resisting the Ice element with the Elemental Materia.  In theory, resisting Fire should be just as good as resisting Ice here, but I believe it's actually mandatory to resist Ice (more on that later).
+
+On the first turn, Schizo will hit us with an Ice Breath and a Fire Breath back-to-back.  Even surviving this requires us to stack every defensive tool we have.  We need Ice-resistance, Sadness, and the 30 Spirit from a Circlet Accessory stolen from the Snow enemy just before this fight.  On top of that, we needed to carefully route EXP so that Cait Sith reaches level 20 just before this fight.  This is why Cait Sith fought Palmer rather than Aerith.  I'm not sure if it's possible to reach level 21 here while maintaining level 28 at the end of the game, and if it is, I wasn't confident that I'd manage such a tight EXP route without any mistakes.
+
+Finally, this is the reason why we're playing on the Steam version of the game.  On the Playstation version, there's a bug that prevents Magic Defense from armour from doing anything.  While the benefit of raw defenses from Armour are generally dogwater in this game, in this case, the tolerance is so tight that we can't go without the extra 37 Magic Defense.
+
+This gets us past the first turn, but we'll need to endure 19 rounds of this over the course of the fight.  Doing this is a lot easier if we manipulate the HP stat.  At any level, there's an "expected" HP value that we're supposed to have.  While HP growth is randomish, we'll generally end up with lower HP growths when above the expected value and higher growths when below it.  This means that unmanipulated HP will generally be about average, and we ended up with slightly below-average growth after JENOVA Life.  With that luck, I needed to repeat the Icicle fight until we got a maximum HP roll (1/8 chance).  The difference between 903 HP (the second-highest growth) and 913 HP may seem negligible, but from my analysis it seems to be the difference between a ~5% chance of surviving and a ~77% chance.
+
+But that's not the end of it because the heads will eventually start using Double Breaths on us.  We can't survive two in a row even though we resist both.  The trick is to de-sync the heads so that they don't use Double Breaths on the same turn.  Let's look at the attack script now (both heads have the same script):
+
+Single Breath
+Single Breath
+Single Breath
+Nothing
+Nothing
+Double Breath
+
+The heads won't act at exactly the same time because one head's ATB will fill a bit during the other head's attack animations.  We need to start the fight with the Ice Head attacking first.  After the third round of Single Breaths, we want to wait a moment for the Ice Head to do Nothing and slip an X-Potion in before the Fire Head does Nothing.  Done correctly, the Ice Head will now use Double Breath on a turn where the Fire Head does nothing.  At this point, we've essentially constructed the following boss script for ourselves:
+
+Nothing and Double Breath
+Double Breath and Ice Breath (survivable since Ice Breath is resisted)
+Fire Breath and Ice Breath
+Fire Breath and Ice Breath
+Fire Breath and Nothing
+Nothing and Nothing (this happens faster than you'd expect; it's almost unnoticeable, and we don't get a turn here)
+
+Although we don't die, we also don't get any turns to do anything other than heal.  This means that this is another MP-stall fight.  We can't equip Cure Materia since this reduces our HP slightly, so we need to farm X-Potions to heal here.  Stealing them is annoying, but doable; after confirming it was possible, I used three party members to save time there.  On some turns we're safe to heal with Hi-Potions, so I used them when possible to save myself farming time.
+
+So why did I say earlier that Ice resistance was mandatory here?  The astute viewer might notice that the heads flip the order they attack after the de-syncing trick.  This should be unsurprising given that we let the Ice Head get an extra turn in.  What is surprising is that the heads don't flip their attacking order if the Fire Head attacks first.  My hypothesis (which I have neither the tools nor the knowledge to test) is that the heads are queuing up Nothings at the same time.  I don't think the order flips on the turn where they both do Nothing because enemies will typically act in the order that they queue.  However, because Nothing happens instantly, on the next turn, they'll queue at exactly the same moment.  I expect that the game has some sort of tiebreaker when this happens (e.g., ordering the enemies by which slot they're in), and the Fire Head acts earlier according to that tiebreaker, which means it takes the ATB lead on the Ice Head again while also being further ahead in its attack script.
+
+This is critical because this ends up causing the Fire Head to get two turns in a row more times later in the fight, causing the heads to de-sync more.  Eventually, we get hit by a Double Breath and an unresisted Ice Breath on the same turn, leading to a swift Game Over.  This behaviour stumped me for a while, and I only solved the fight by accident.  Recall that we need to be attacked by the resisted element on the first turn?  I had six attempts in a row where the Ice Head attacked first, causing me to get annoyed and "pointlessly" switch to resisting Ice.  I'm glad this happened; I have no clue how else I would have figured all this out.  Regardless of whether my analysis is correct, the behaviour was consistent across many attempts.
+
+After the heads run out of MP, there are two more points of interest.  First, we can Steal a Protect Ring here, which will be handy later.  Second, both heads have a death counter that doesn't consume MP.  It's Lightning element, but we can't afford to run the Bolt Ring over the Circlet to nullify it.  Thankfully it's tankable as long as we don't kill both heads at the same time.  No reason not to use the OP Dragon Scales for damage at this point in the fight.  I played this part slowly to avoid doing something stupid.
+
+Even after the death animation plays, we're not done with this fight yet (because of course we aren't).  There's a bug (I have no clue if it's fixed in the Steam version) where running away remains disabled in random encounters after the Schizo fight.  The bug will persist until we exit the room, so I ran out the closer south exit and then backtracked to the save point afterwards.  The time it takes to hit a random encounter is consistent every time you load a save, so before Schizo I made sure to save the game on a seed where we wouldn't hit anything after Schizo.  I determined whether the seed was good enough by trial and error.

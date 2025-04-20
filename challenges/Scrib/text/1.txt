@@ -1,0 +1,1 @@
+This is a challenge where I attempt to use as few items as possible in each of the levels. So far, no more than one item has been required to beat any level, and several have been beaten with no items.  I am only doing the Action stages so far, for the puzzle stages have too many "Give three of this item" levels which are pretty pointless for a challenge like this.

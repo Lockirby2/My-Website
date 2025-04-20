@@ -1,0 +1,23 @@
+Since the previous video, we had one more character join the party.  Celes' ability is a strange one when it comes to evaluating its usefulness.  When used, Runic will absorb the next incoming magic spell (among a list of spells that the game will allow you to Runic), allowing you to nullify its effects and regain some MP.  This is incredibly useful while the game is trying to teach you how to use it, but you'll never have any reason to apply what you've learned later in the game because the game just stops putting you in situations where it would help.  In addition, Celes is an Illumina-wielder, but with her being useful at a couple odd moments before that, she won't be as prominent an endgame character as Terra or Locke.  Oddly, she almost completely mirrors Edgar in terms of the timings of when she fights her battles.
+
+This battle is the official Runic tutorial, so it's no surprise that Celes takes the lead here.  Any spell is instant death, so Runic must be up every time the boss takes a turn.  With Auto-Haste, we have time to barely get off an Ice spell or a healing item as long as Celes' ATB is full after Tunnel Armour finishes its move.  Spells with short animations like Fire don't buy quite enough time for this, so a physical attack can be slipped in instead if it uses them.  The Black Belt occupies our second Relic slot, allowing for occasional counterattacks.  Since our damage output is split between physical and magical damage (a rarity), a direct damage boost probably isn't as good.
+
+The Rune Edge is used because it can consume MP to auto-crit, but we unequip when not completely full on MP since we don't want to run out of MP for Ice casts.  I played this one before deciding to patch the Evade bug; otherwise, leaving the Rune Edge on full time and chancing running out of MP would probably have been worth it for the Evade boost.  Overall, this boss can't kill us as long as we play conservatively.  We do have to watch out for the occasional physical counter.  They aren't strong, but if we attack thinking we're safe at 60 HP, it might finish us off with a physical counter followed by a Drill.
+
+This battle was one of the sloppier fights in the run, probably because I was tired when doing it (I've been suffering from insomnia for a while now).  I should have attacked with Ice right at the start instead of Runicking since Tunnel Armour itself actually triggers the opening dialogue, meaning that its ATB is always depleted at the start of the fight.  In general, some opportunities to attack were missed due to playing unnecessarily safe, and I did a poor job of keeping track of MP.  But I doubt it really made too much of a difference; this fight was always going to be slow and steady.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 1
+Shadow - 1
+Edgar - 2
+Sabin - 2
+Celes - 1
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 0
+Umaro - 0
+Gogo - 0

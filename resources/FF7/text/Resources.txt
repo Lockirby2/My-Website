@@ -1,0 +1,7 @@
+<a href="http://ff7.fr/logiciels.php#Tseng">Tseng EXP Router</a> - This is an enormous timesaver for people who need to create a custom EXP route for their challenge.  Some notes:
+</p><ul class="standard-text-interrupt">
+<li>The site's in French, but the tool is clearly labeled as "Tseng", and Google can translate the page for you if need be.</li>
+<li>If I execute "tseng.exe", it complains that I don't have Java 1.5.0 installed.  It runs fine if I execute "tseng.jar" instead.</li>
+<li>There's a bug where if you add Yuffie or Vincent to the list of characters you're using, it'll use Cid's EXP thresholds for calculating their levels.  This doesn't matter too much since Vincent isn't typically used and Yuffie's battle plan isn't very flexible anyways, but be aware so that it doesn't jumpscare you into thinking you ruined your run somehow.</li>
+<li>There's another small issue where characters can sometimes have a couple points less EXP than what's listed.  I'm assuming it's a rounding error, but it generally doesn't matter much.  If you're somehow reaching level 29 by only a couple EXP, you may want to double-check manually.  However, AFAIK you can be guaranteed that you will end the game at level 28 if Tseng says you will.</li>
+</ul><p class="standard-text">

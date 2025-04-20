@@ -1,0 +1,13 @@
+This segment is probably the lousiest in the entire run. I totally forgot to grab Odin (which I didn't notice at the end of the segment), and I was constantly making mistakes in the menu that I hadn't been making in a long time. So I kinda wish that I redid the first part, but I had already gone far enough ahead that I didn't really want to.
+
+Now that I actually bothered to make a strat for WEAPON, he's fairly straightforward. Bolt Scrolls just decimate him, and he announces his presence very clearly at the start of the fight. I also add in Chainsaw to make up a little extra damage.
+
+As for the rest of the indoor enemies, Mephistos and Boxxies generally die too easily from Edgar's AutoCrossbow to pose much of a threat. Liliths are harder to kill, but they can really only Confuse me or let me die very slowly from Condemned. And Confusion isn't much of a threat to this party. Gau is protected, Throw can't be used on Confuse, several Tools can't hit the party (and AutoCrossbow removes the Confusion), and nobody knows very powerful spells.
+
+After the last four dragons being interesting battles, Blue Dragon is just pathetic. With both Gau and Gogo Raging Sea Flower, I can absorb his water attacks with two characters. Additionally, they usually hit his weakness as well, preventing Blue Claw counters against them. I couldn't care less about Storm counters or Dispel counters. Finally, Edgar doesn't need to keep up the Poison status because Feeler will do it for me. Edgar is set up as a tank so that he is unlikely to die. He can set up Golem (to prevent Blue Claw from slipping through and countering Feeler), and set up Seizure with Drill before spamming Chainsaw like there was no tomorrow.
+
+I have Shadow set up Regen and Reraise on Edgar and then let him stay dead forever. Keeping him alive in this fight is a waste of time.
+
+With Regen being enough to keep Edgar alive in most circumstances, physical attacks being rare and doing little, and Sea Flower absorbing most attacks, holding A will be enough to guarantee victory unless he spams 1000 Needles and Raid, which he is unlikely to do.
+
+Master T sucks. Mute + Vanish makes you invincible.

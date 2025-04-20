@@ -1,0 +1,30 @@
+Time for Celes' final battle (sorry TimBluesWins1996).  Using Celes here is nice since her low HP isn't too much of a problem and she can equip the Minerva to become immune to both Bolt and Ice.  Ice immunity is nice here since, for some inscrutable reason, Flash Rain is Ice/Water element and not Bolt/Water.  The Minerva prevents us from getting perfect Magic Evade, but we don't need it since we're protected from all the relevant elements and we have the Ribbon to prevent Sleep.  In return, the Minerva gives us better defenses to shrug off the physical attacks.  This means we're safe from the main threats in this fight.
+
+The gimmick to this fight is that the boss will switch between the "Goddess" and "Demon" forms.  We only want to hit the Demon, as hitting the Goddess will cause her to inflict the "HP Drain" status.  This status is similar to Seizure, but it will override Auto-Regen and can't be cured.  Not an auto-loss, but it's a pain.  There are two ways the Goddess can be brought out:
+</p><ul class="standard-text-interrupt">
+    <li>If a moderate amount of time has passed, the Goddess will come out and attack three times before retreating.</li>
+    <li>If the Demon is attacked four times, the Goddess will come out and attack once before retreating.</li>
+</ul><p class="standard-text">
+It's designed to be a bit confusing and trick you into attacking the Goddess.  The timer will probably expire right when the Demon comes back out, causing the Demon to immediately flee.  It's important to keep track of the timer to avoid attacking in this scenario.  Hasting the Goddess helps since this will reduce the amount of time that she'll be on the field and help you get more turns in before the timer expires.
+
+Similarly, in some scenarios, using Fire 3 with its shorter animation can help you slip in more attacks.  The first cycle where I attack demonstrates this well; we'd only get three Ultimas normally here, but with Fire 3, we can reliably get four in.  On top of that, the AI stall glitch triggers in this case, so we get Fire 3 and four Ultimas in this case.
+
+I intended to follow this pattern for the rest of the fight, but things start getting messed up after this point.  There are two threats not dealt with via equipment.  The first is Charm, which acts a bit like confusion, but there's no immunity to it.  However, there are a couple ways to play around it.  First, any command queued will still aim where you select, so we input Fire 3 during the animation to ensure that we don't attack ourselves instead.  Charm also ends when the Goddess leaves the field, so it looks like it does nothing in this fight.
+
+The second issue is Doom Kiss, which inflicts Condemned.  It's not common for this to connect, but we got a bit unlucky here, so it kills us and throws off the rest of the fight.  I didn't exactly recover efficiently here, but it gets the job done.  Perhaps using perfect M. Evade and a Safety Bit would have been better than being creative with the Minerva here; we'd have to heal from every physical hit by the Demon IIRC, but we wouldn't have to deal with Doom Kiss.
+
+Character Uses:
+Terra - 1
+Locke - 1
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 3
+Relm - 0
+Setzer - 2
+Mog - 1
+Gau - 4
+Umaro - 2
+Gogo - 0

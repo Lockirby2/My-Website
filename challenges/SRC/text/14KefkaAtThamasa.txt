@@ -1,0 +1,27 @@
+First things first: Relm has now officially joined the party.  And she joins Sabin and Cyan as one of the bottom-tier characters.  Her Sketch skill is basically always useless, as it uses her (terrible) level and the enemies' (terrible) Magic stat when calculating damage.  This means that Sketch is basically always terrible even if you Sketch something amazing.  If Sketch used the enemies' (great) levels and Relm's (great) Magic, it would probably be a challenge run staple, but alas...
+
+Relm also has above-average Magic Evasion (but not enough to be really great) and the highest natural Magic stat in the game, which makes her the... second-best damage dealer in the WoR, after level 11 Mog.  The fact that her most impressive trait is being second-best at something really shows how lackluster she is.  And unlike Sabin and Cyan, she has no skills to provide early-game utility.  With her poor availability in the WoB, we'll be saving a lot of the free fights in the WoR for her.
+
+This fight is the second of the four bonus bosses (only battled to ensure characters fight exactly four battles each), and the memes are out in full force for this one.  You'd normally fight this one with General Leo, but with him not being a full party member, that wouldn't normally make this fight relevant to the challenge.  Therefore, I decided to hack another character in and fight with them instead.  Since no characters are usually eligible for this fight, I decided arbitrarily that only the characters present during the Crescent Island segment (Terra, Locke, Strago, Relm) could participate.  Also, since Reflect (which General Leo doesn't have reliable access to) shuts down this fight trivially, I also banned Relics and Magic.
+
+Conveniently, Kefka's most dangerous spell, Fire 3, is the element that we shut down with the Flame Shield (this is important since it OHKOs).  His next most dangerous spell, Bio, will nearly OHKO and poison us, requiring two turns to recover from.   Thankfully, in the very short section between Ultros 3 and Kefka, we gain access to two new pieces of gear, the Tabby Suit and the Chocobo Suit, which conveniently provide a rare nullification to the Poison element.  This eliminates Bio entirely and also makes Kefka's Poison spell worthless too.  The fursuit armour type is only equippable by Strago and Relm, and Strago is the obvious pick since he has attacks other than Fight.
+
+You might think that Kefka's physical attacks might be a threat, but they're not.  In a regular playthrough, it appears that General Leo has stellar defense, but it's a bit of an illusion; Kefka is actually just really, really weak.  He's level 1 (is he doing a challenge run too?), which essentially makes physical attacks do one or zero damage due to how the physical damage formula works.  This means that Strago shrugs off the attacks equally well.  Kefka's low level also impacts his remaining spells, Bolt and Drain, making Drain in particular survivable here.
+
+As for offense, Aqua Rake is the obvious choice.  It's no Shock, but it'll have to do.  Executing this fight is easy; just attack and heal as needed, and you can't die.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 4
+Shadow - 2
+Edgar - 2
+Sabin - 2
+Celes - 2
+Strago - 3
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 2
+Umaro - 0
+Gogo - 0

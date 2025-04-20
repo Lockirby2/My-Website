@@ -1,0 +1,38 @@
+It is finally time to enter Kefka's Tower! After some final preparations (like betting stuff in the Coliseum, which I was too lazy to even investigate before), I give an overview of who I wanted to bring and who should go in which party. I'll give a tl;dr here:
+</p><ul class="standard-text-interrupt">
+    <li>Cyan is not going because I can't control his Bushido very well.</li>
+    <li>Umaro is going because I don't have to control him at all, so he's as good for me as he is for you.</li>
+    <li>Gau/Gogo can also play that Berserker role, so they're going for the same reasons.</li>
+    <li>Setzer's going because he has the best healing that doesn't consume MP, and some nice damage as well.</li>
+    <li>Terra/Celes/Edgar go because they are Terra/Celes/Edgar.</li>
+    <li>Strago is going because Black Omen/Osmose.</li>
+    <li>Relm is going because Flare/Meteor/RegenX//Cure 3/Osmose.</li>
+    <li>Shadow is going because he destroys Isis.</li>
+    <li>I drag Sabin along because he has passable utility.</li>
+    <li>I drag Locke along because he's a Boring Yet Practical beatstick/healer.</li>
+    <li>Mog is not going because he's level 21, I built him wrong, and his Dancing role was awkward in the version I'm playing.</li>
+</ul><p class="standard-text">
+I organize my parties based on a few factors:
+</p><ul class="standard-text-interrupt">
+    <li>Characters with high magical defenses should fight Kaiser.</li>
+    <li>Celes and characters with Flameguards want to fight Asura, so I can use Merton strats.</li>
+    <li>Shadow/Gogo want to fight Isis, to wreck her with Throw.</li>
+    <li>Terra wants to be with characters that can use Image.</li>
+    <li>Umaro/Gau don't want to fight Isis (Gau is arguable, but it doesn't change anything).</li>
+</ul><p class="standard-text">
+Based on this, I can make some easy decisions:
+</p><ul class="standard-text-interrupt">
+    <li>Celes, Edgar, Strago and Relm will fight Kaiser/Asura.</li>
+    <li>Shadow, Gogo and Terra will fight Isis.</li>
+    <li>Umaro and Gau will be in team three. Putting berserkers together may bother some people, but it doesn't bother me. Setzer is also on this team, since I don't want Locke/Sabin together dragging down one team.</li>
+    <li>Now Locke goes on team three, since I originally thought I might use the Excalibur more against Myria.</li>
+</ul><p class="standard-text">
+I now venture into the dungeon. IIRC, there are four different sets of enemies and three teams. Therefore, I need to be aware of twelve sets of strategies to make it through the dungeon. Thankfully, I don't need all of them in my head at once.
+
+In the outdoor areas, team 3 can use Imp to shoot the Diablos in the foot, making that fight more or less trivial. This never came up though, as only Vectagoyles appeared in these areas in the recording. Vectagoyles are a pain, since Locke/Gau really can't pierce their defenses well. I try to use RegenX from Setzer (it is really easy to make decisions with this group, since only Setzer really needs to be controlled) to counter the Seizure from their Fire Balls. Other than that, I spam Slots gratuitously. They will take me down if given enough time, but usually Umaro slams them to death too quickly for that to happen. I probably should have taken the time to find a better Rage for Gau here.
+
+In the indoor junk areas, I never received an encounter here.
+
+In the machinery areas, the Warmech isn't likely to kill me when I can hit him for 7K damage with Shrapnel and great single target damage with Umaro. There are two types of Searcher. One can summon shmuck enemies, and the other will summon three Androids when it dies. The Androids can use Delete to OHKO my characters, which is pretty scary since my characters are unreliable in this party. In general, my strategy will pull through though, because something is almost certain to go right. The other enemies generally don't bother me because Setzer's Lagomorph spam will outpace their damage. I do have to worry a bit about Brown Note though.
+
+My luck was actually pretty bad in this segment, but not enough for me to die.

@@ -1,0 +1,43 @@
+It seems like every video, I remember about another rule I was supposed to add.  This time, I'll note that Offensive Items are also banned (as in Garland's playthrough).  Also, I decided to redo most WoR fights so that I could ban the Paladin Shield as well.  I finally feel like the second half of the game is in a good spot for this challenge now.
+
+First off, there's two new recruits to the team.  The first is Shadow, who will come and go throughout the first half of the game.  He is one of the most valuable characters in the entire squad, as he is able to apply the Image status to himself, which is a powerful status effect.  Essentially, it will block all physical attacks and only dissipate 1/4th of the time when struck.  In combination with high natural physical evasion and Interceptor blocking 25% of attacks that would slip through, Shadow is one of the best answers to enemy physical attacks, especially in the WoB.  If that wasn't enough, he gets access to the elemental Skeans, which approach the tier 3 elemental spells in power for no MP cost.
+
+Cyan gets a... less glowing review.  He's about as bad as Sabin in this challenge.  Compared to Sabin, his WoR equipment is slightly better, but his WoR offense is slightly worse.  In the WoB, he has slightly more HP, but he doesn't have AuraBolt.  However, he does have a decent, reliable attack in Dispatch, which can hit a few bosses that AuraBolt cannot thanks to being non-elemental (it does less damage though).  Also, Cyan has an oddball skill called Retort, which allows him to counterattack physical attacks with a powerful magical attack.  When we can make use of this, it's pretty nice.
+
+As an aside, Cyan's high HP comes from being a level above most characters at level 7.  One of the biggest differences between this game and FF7 is that preserving high HP characters isn't very important here.  A small difference in HP just doesn't allow you to survive extra attacks in this game most of the time.  Generally, endgame attacks will do nothing or OHKO with little in between.  This challenge happens to be one of the few where that isn't always the case, but even still, high HP is actually at its best in the earlygame where it allow us to tank attacks on a regular basis.
+
+Telstar is the first of the bosses for this video, and also the first of the four "bonus bosses".  It doesn't really feel like one though, as this is just a straight-up good fight with no memes to be had.  Telstar's most threatening move is Magitek Laser, which will simply OHKO us (already!?) if we don't play around it.  In this case, we could just luck out and not see it, but there's a better trick we can use.  Right before the fight, it's possible to pick up a Barrier Ring, which offers SOS Shell.  It works a bit differently from FFX.  Instead of applying Shell constantly while at low HP, it will trigger an actual Shell spell once after being knocked low.  This means that the Shell status will persist after being healed up again.
+
+Therefore, we enter the fight at low HP with the Barrier Ring equipped.  Shell will trigger immediately.  Sabin can't fight this boss at all since it will counter Blitz by Berserking him, so Shadow is the way to go.  Entering with Vanish status (applied via the Inviz Edge that Shadow can Throw) will prevent any chance of death on turn 1.  Vanish is a strange status that will cause any physical attacks to miss, but any magical attacks to hit (even through Reflect).  It is automatically removed as soon as you're hit by any magical attack, so it's situational.  On turn one, Telstar can only attack physically or use Schiller to blind us, so it does its job here and allows us to heal up.
+
+From here, we buff up with Image instead and start spamming Shurikens.  Tek Laser probably still kills sometimes, but it doesn't kill on this attempt.  However, noticing that the Seizure damage (inflicted by Missile) will probably kill Shadow after the next Tek Laser, we push damage ASAP to finish Telstar off before it gets another chance to use it.  With Telstar gone, the Soldiers can't damage us through Image.
+
+That said, it's not over yet!  The Imperial Camp is the first "gauntlet", a series of battles with no save in between.  The first battle is trivial; we just buff with Vanish and they can no longer hit us.  After that are three battles where an uncontrollable Cyan joins the party.  There are technical hurdles to removing him and these battles are just as trivial with Vanish, so I decided to just skip them.  Finally, there are some battles in Magitek Armour, but provided we get the first turn, we'll always live.  Fortunately, with one of the fastest characters in the game and Haste status, we'll usually get the first turn against the slow machines.  The final Magitek Armour couldn't have even killed us with Tek Laser since it's weaker than Telstar.
+
+Against Ghost Train, we'll use Sabin since he deals more damage than Cyan and I already have plans for Cyan.  Even if we wanted to waste one of Shadow's turns here, his HP is low enough right now that he'd struggle to deal with incoming attacks.  AuraBolt actually hits a Holy weakness here, but it doesn't feel like it because the train's Magic Defense is so high that it does less damage than it did to Ultros.
+
+Ghost Train's AI is a little weird.  It has a 1/3 chance of using Evil Toot on the first turn, which probably dooms the fight if it happens since it will inflict a pile of status effects.  We'll just luck our way past that one.  Normally it would continue to use Evil Toot later in the fight, but it is actually never used again if only one character is on the field.  Pretty convenient for this challenge, though for reasons I'll explain shortly, it wouldn't use it anyways in practice.
+
+Ghost Train also has a timed attack that it will use on a frequent basis.  So frequent, in fact, that on the lowest battle speed it will never do anything else!  This attack is usually Acid Rain, but it is sometimes the more powerful Scar Beam.  When using a full party, it can actually be beneficial to bump up the battle speed so that the train will do something weaker every other turn, but here taking two turns to its one is more beneficial.  The strategy is simple.  We just get ourselves knocked down to low HP to obtain SOS Shell (we can't enter at low HP since it takes the first turn and it will probably kill us), allowing us to survive a Scar Beam and a Wheel counterattack, which would otherwise kill us when combined with Seizure damage.
+
+There's one more thing to note about this fight.  It's the first instance of the "AI Stall Glitch".  If you provoke a counterattack at the moment when an enemy's ATB reaches it maximum, it will stop moving for a fair bit of time (a little more than the length of one of its regular turns).  The window for this to happen is basically your entire attack animation, so it will usually happen quite often if the enemy counterattacks a lot.  While I'm trying not to use glitches in general, this one will just happen in regular play and there's no good way to prevent it without skipping turns I would normally get.  I won't abuse it, but I will generally try not to trigger it deliberately if possible.
+
+Finally, we have a fight against Rizopas.  Cyan is the star of this fight because Retort makes this one significantly easier.  I don't bother forcing Sabin out of the party with hacks in this particular fight, and that's because it's downright obvious that it doesn't matter.  At the start of the fight, you will kill sets of Piranhas for about a minute before the real boss shows up.  These things are pathetic and no threat whatsoever.  Of course, if you just wait a minute instead, you only need to kill the one set.  This allows for a (frankly unnecessary) amount of setup without wasting any time.
+
+First, we trigger SOS Shell, which requires us to knock ourselves down to low HP manually since there's a forced heal before this fight.  Then we enter the back row and heal back to full.  If we just kill the Piranha normally, the boss will show up and take a turn before us.  It's preferable to set up Retort just after the last Piranha takes a turn, giving us time to set up Retort again just after Rizopas shows up to get a huge blast in immediately.  After that, we can generally finish it off with a Dispatch (though it is a range to kill).  Fun fact: I believe the measly +2 Magic from the Barrier Ring is offensively better than the Atlas Armlet here because Retort is so strong and Cyan's Magic stat is so low.
+
+Character Uses:
+Terra - 1
+Locke - 0
+Cyan - 1
+Shadow - 1
+Edgar - 2
+Sabin - 2
+Celes - 0
+Strago - 0
+Relm - 0
+Setzer - 0
+Mog - 1
+Gau - 0
+Umaro - 0
+Gogo - 0

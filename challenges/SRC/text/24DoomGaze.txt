@@ -1,0 +1,25 @@
+First off, IDK what's up with this recording or why it's dropping frames.  Sorry about that.
+
+This is a bit of a weird one.  I like the idea behind how this fight plays out in this challenge, but it's also a bit... cheaty... in practice.  The main mechanic for this fight is that you'll randomly encounter Doom Gaze as you fly around the WoR map in your airship.  Eventually, Doom Gaze will flee, but all the damage it took before then will stick permanently.  So as long as you can deal some damage and survive for a couple turns, you can eventually win.  Even better, you can choose to run away on your own terms, so you really only need to survive a single round of combat.
+
+This makes for a perfect fight for Umaro, in theory.  Doom Gaze will always attack first and open with Level 5 Doom, which won't kill us because Umaro's level isn't a multiple of 5, but it does prevent us from entering the fight with Vanish.  We can die on its second turn if it hits us with two physicals (it may counterattack us with one when we hit it) or a Doom spell.  I'd say the odds of survival are probably about 2/3.  We need Safe from the Marvel Shoes to survive even one physical hit, so we can't get Instant Death immunity or a damage boost.  After that, we must run because we don't have a good chance of living through the next turn.
+
+With this in mind, the fight is obviously possible.  The issue is that is takes a very, very long time.  Even with the fast-forward key and my hack to make Doom Gaze appear when talking to an NPC, it likely would have taken hours to record the whole thing fairly.  If you imagine a player doing this on console, it would take dozens, if not hundreds, of hours to finish this fight since it can take ages to find Doom Gaze on the airship and I don't know of a way to manipulate this.  So for this video, I only have Umaro deal the first few hits and the last few hits.
+
+It feels a bit weird to me to accept this fight since if a fight required so much RNG that it would take hundreds of hours to complete, I wouldn't throw my hands up and say "It's obviously possible, so we'll accept it" under any circumstances.  So if you don't like this outcome, that's fair.  If you want to imagine how this challenge would go if we didn't allow this, it would likely force us to get incredible RNG against Presenter (I was able to deplete over half its HP on my best attempt after trying for a moderate amount of time) or remove the rule against MP milling bosses and wait for the White Dragon to run out of MP.  In the latter case, this fight and Dullahan become uninteresting, White Dragon becomes a slog, and we gain a cheesy out against final Kefka if we want it.  None of this improves the challenge IMO, so I decided to accept this instead.
+
+Character Uses:
+Terra - 1
+Locke - 1
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 3
+Relm - 0
+Setzer - 2
+Mog - 1
+Gau - 4
+Umaro - 3
+Gogo - 0

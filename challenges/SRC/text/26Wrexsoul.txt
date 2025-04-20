@@ -1,0 +1,25 @@
+The main gimmick to this fight is that Wrexsoul will possess a random character, and you won't be able to attack it until that character dies.  Normally it's just a guessing game to kill off the right person since you don't know who Wrexsoul possesses, but in this challenge it's a unique threat.  How do we get him to reappear without getting a Game Over?  Well, the answer is surprisingly simple.  If we are auto-revived by Life 3, our character is technically dead for the brief period before the revival happens, and during that time, Wrexsoul will reappear.  Honestly, the fact that we know who Wrexsoul possesses arguably makes this fight less annoying, if anything.
+
+With that covered, this fight isn't too hard.  The biggest danger is the turn right after we kill ourselves.  At low HP and without Life 3, we're vulnerable to randomly being KO'd by a physical attack from Wrexsoul.  This is where Mog comes in.  We can't get perfect Evasion with a realistic setup, but Mog can still achieve perfect Defense.  Defense works similarly to Evasion, but it's simpler.  212 Defense will reduce physical damage by 212/255.  255 Defense will reduce physical damage by 255/255, effectively reducing all physical hits to 0 damage (or 1 in the front row).  Mog's Snow Scarf armour (Gau/Mog/Umaro exclusive) makes him the only source of perfect Defense in this run.
+
+This isn't the only reason why Mog is useful.  This is also a pretty long fight, so his high damage output is welcome.  Furthermore, he can also commit sudoku easily since his Magic Evasion isn't very high.
+
+Other than that, this fight is pretty straightforward.  Wrexsoul's only element is Bolt, so the Thunder Shield makes us invincible to its attacks when combined with perfect Defense.  The Soul Savers go into full support mode when Wrexsoul is on the field, so they're also harmless.  They can kill us when Wrexsoul is gone, but we need to die anyways at that point, so who cares?
+
+For this fight, we use the Gem Box (Dual-cast) to get as much damage as possible per turn that Wrexsoul is on the field.  If you're wondering why we use Flare on the first cast, it's because it wastes a lot of time if the Soul Savers die and reappear before the second cast (though I probably should have used Ultima a little more than I did).  Getting the Pearl Lance from the White Dragon also would have saved some time with its Magic boost, but I was leaving some of the bosses I wasn't concerned about until the end in case I decided to changes routes.
+
+Character Uses:
+Terra - 1
+Locke - 2
+Cyan - 4
+Shadow - 3
+Edgar - 4
+Sabin - 4
+Celes - 4
+Strago - 3
+Relm - 0
+Setzer - 2
+Mog - 2
+Gau - 4
+Umaro - 3
+Gogo - 0
