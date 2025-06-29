@@ -1,0 +1,18 @@
+</p><h2 class="standard-text-interrupt">
+Stage
+</h2><p class="standard-text">
+For Cutman's stage, the only real threat is the Super Cutters.  On Hard mode, you want to hold right and jump when the first Super Cutter hits its peak.  Then just keep running.
+</p><h2 class="standard-text-interrupt">
+Boss
+</h2><p class="standard-text">
+The last three bosses are a significant step down from the first six.  Cutman is a test of... well, a little bit of everything.  He's a "jack of all trades, master of none" type.
+
+During Cutman's movement phase, he'll walk towards us if he's far enough away and jump to our position if he's close enough.  If Cutman's running at us, we can just move towards him and he'll jump way over our heads.  After a certain amount of time, he'll attack.  This sounds simple enough, but the movement phase is the trickiest part to get right.  We want to manipulate his movements so that he doesn't corner us while also making sure he attacks at a predictable time.  Otherwise, this fight can get chaotic fast.
+
+The idea here is to ensure that Cutman jumps exactly twice before attacking.  The time before his attack can be divided into jumping time and walking time.  The two jumps take a consistent amount of time, so we only need to manipulate his walking time.  I find it helpful to think about it in terms of distance rather than time though.  Cutman's movement speed is fixed, so he'll always walk a certain distance in a certain amount of time.  Therefore, between the walk he does before his first jump and the walk he does before his second jump, we need to let him walk a certain total distance.  If we get it right, Cutman will attack soon after landing from his second jump.  The video should demonstrate this pretty well.
+
+This probably sounds far more difficult than it actually is.  The timing is pretty forgiving, so the strat doesn't take much effort to get a knack for.  Once we've manipulated Cutman like this, we need to dodge the attack itself.  Cutman can choose to do a single or double cutter throw, and we can't tell which at the outset.  Either way, we want to start by moving towards Cutman while jumping over the cutter.  Cutman will then jump over us and then catch the cutter before it boomerangs towards us.  After the first (or only) cutter throw, we need to put some distance between ourselves and Cutman.  If Cutman throws another cutter, we can react and jump over that in the same way.  If Cutman doesn't throw another cutter, we can react and start manipulating his next movement cycle.
+
+Sometimes Cutman will replace his attack with a big cutter.  The big cutter has more bark than bite.  Just stay away from the wall, use the animation where he winds back for the throw to time the jump, and double back as soon as you've passed the big cutter.  Then do it again.  Easy!
+
+This fight requires more thought than usual when it comes to offense.  With Oilman, I don't like shooting him as he's jumping over us since the oil slick creates a puddle if it misses, and this can cause several problems.  There are three good openings IMO.  The first is after the big cutter: leave an oil puddle on the floor in front of him and let him walk into it to avoid shooting him before his I-frames wear off.  After the second jump during his movement phase, we can turn back and shoot him just before he attacks.  And if he decides to throw two regular cutters at us, we can shoot him after the second.  Shooting him at any other time caused various problems for me.

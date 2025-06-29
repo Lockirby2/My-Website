@@ -1,0 +1,3 @@
+Specific annoying parts?  The main thing that comes to mind are the two screws on one-tile wide blocks with Mega.  You'll want to kill them from above, as the hitbox of Mega's kicks extend slightly downwards.  Start from the top of the ladder on the left.  Jump over the missile after it starts angling towards you.  Then jump over the next missile and the turret's first bullet in the same jump.  Then you can dodge the second bullet from the turret.
+
+I use the background to time the kick.  First, do a full-height jump.  There's a trapezoid of some kind in the background, and if you kick right as Mega's feet pass the top of the trapezoid, it should give you the correct timing to kill the screw from above.  This is the nastiest stage obstacle in the entire game IMO.

@@ -20,14 +20,6 @@ body {
     font-family: Verdana, Sans-Serif, Monospace;
 }
 
-.standard-text-interrupt {
-    margin: 0;
-}
-
-.standard-text-interrupt+p {
-    margin-top: 0;
-}
-
 .button-text {
     text-align: center;
 }
@@ -122,6 +114,7 @@ body {
 c-main-body {
     width: 45%;
     margin-top: var(--top-bar-margin);
+    line-height: 150%;
 }
 
 .body-image {
@@ -178,6 +171,14 @@ c-navigator-button:active {
 
 .standard-text {
     white-space: pre-line;
+}
+
+.standard-text-interrupt {
+    margin: 0;
+}
+
+.standard-text-interrupt+p {
+    margin-top: 0;
 }
 
 .video-container {
@@ -256,12 +257,12 @@ span.ripple {
 }
 
 /* centered should be called horizontally-centered, but I'm too lazy to rename it right now. */
-h1, c-video, .centered {
+h1, h2, c-video, .centered {
     display: flex;
     justify-content: center;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
 }
 
@@ -279,8 +280,31 @@ h1 {
     align-items: center;
 }
 
-.neocities {
+.blog-comments {
+    width: 100%;
+    border: none;
+}
+
+.rss-text {
+    text-align: center;
+}
+
+.attribution-section {
     padding: 20px 0 20px 0;
+    text-align: center;
+}
+
+.attribution-link {
+    width: 200px;
+    height: 59px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.attribution {
+    width: 200px;
+    height: 59px;
+    display: inline-block;
 }
 
 /* mobile only styling */
@@ -315,7 +339,6 @@ h1 {
         width: 70%;
         margin-left: 3px;
         border-width: 0;
-        box-sizing: border-box;
         background-color: mintcream;
         z-index: var(--navigator-z-index);
         transition: border-width 0s 0.3s, box-shadow 0s 0.3s;

@@ -1,0 +1,13 @@
+The obstacle near the end of Wily 1 is trickiest with Roll/Mega.  As a setup, when first entering the room, I'd climb up and down the ladder three times  (making sure to buffer the down input during the screen scroll to exit the room immediately).  This allows the pendulum to move forwards a specific amount.  When you re-enter the room, the turret's cycle should be reset, so it'll be lined up with the pendulum.  You may want to experiment with the number of times you re-enter the screen since I'm not confident three times is the right number.
+
+Then, when the turret is about to stop firing, you'll want to wait until the pendulum is close to the right side.  Then you want to do the following:
+</p><ol class="standard-text-interrupt">
+    <li>Jump to the left of the pendulum and land on the platform</li>
+    <li>Jump over the pendulum (you'll land on its right side)</li>
+    <li>Jump back over the pendulum.  The turret should pause its attacks at that exact moment and give you an opening to reach it and kill it.  Do an aerial attack since Roll/Mega will stop moving during their attacks otherwise.</li>
+</ol><p class="standard-text">
+With Oilman, it's similar, but a bit easier.  You'll want to shoot as you're jumping over the pendulum and ride the skateboard into the turret to OHKO it.
+
+Everyone else can kill the turret with a ranged attack and then just dodge the pendulum if necessary.
+
+Practicing in softcore is advised.

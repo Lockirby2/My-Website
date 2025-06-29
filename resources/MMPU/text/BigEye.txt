@@ -1,0 +1,13 @@
+On Easy/Normal you can just kill Big Eye, as I'm assuming you're already doing.
+
+On Hard, the first two jumps will always be a low jump and then a high jump, or a high jump and then a low jump.  After that it's random AFAIK.  If it's going to do a low jump, it'll pause for slightly longer, but I find it hard to react to this.
+
+In Elecman's stage, the best way to deal with it is to hope it does a low jump 1st and run under it for the next jump.  If it does a high jump 1st, exit the room and try again.
+
+You can avoid it easily in Gutsman's stage by waiting on the blocks (I'd assume you're already doing that).
+
+In Cutman's stage, you should have time to kill it with most characters since the stage is so long.  With a character like Oilman, you may want to retreat to the previous room though.
+
+Fireman's stage is the hardest since there isn't much room.  Oilman and Cutman can retreat to the previous room with the wall jump and Oil Slider respectively.  Most other characters can just kill it.  With Elecman, you'll want to shoot your shots directly in its face since I believe you'll hit it with the vertical parts of the shot as well and kill it faster.  Fireman wants to stay close to hit multiple times with the spinny shield.  Iceman can freeze it and jump over.  Bombman is the trickiest here.  I'm sure it's possible to kill it every time with perfect play, but I wasn't able to get consistent at that, so I elected to just get lucky.  There's a 50% chance it does a low jump first, in which case the second jump will be high and you can run under.  If it jumps high first, I waited until the third jump and just prayed it was a high jump.  This gives a 75% chance of success, which is good enough odds to do with one character.
+
+In Wily 1, I just pray the first Big Eye jumps low first and luck through it since it's right at the start.  The next two will always jump next to the block structures.  Stand about half a block from the edge and you can jump over it when it lands.

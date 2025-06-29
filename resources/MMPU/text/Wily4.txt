@@ -1,0 +1,25 @@
+For Wily, the best way to deal with phase 2 is to cover all the possibilities rather than react to the phase change.  With most characters, I like to wait with about half of my character on the leftmost green tile and half hanging off the right side of it.  Right as Wily is about to fire, I jump up and to the left.  Here are all the outcomes:
+
+Rolling Cutter: The first shot will be fired over your head if you jumped at the right moment (sometimes he won't fire this one).  This is the attack the jump is meant to avoid, so if you're getting hit by this you need to jump a bit earlier or later.  Before the next shot, I may attack Wily once if he's low.  Then go to the left edge of the screen and jump again when Wily's cannon starts to pass the green tile.  Before the third shot, you may have another opportunity to hit Wily.  Then jump again when the cannon passes the third line from the green tile to lure the third shot away.
+
+Oil Slick: Since you're moving left, you should dodge the first shot for free and then you can react to the rest.  Best to just jump away from each shot and then turn around to land where you started your jump from.  This will limit how much the oil spreads.  I don't usually attack during this move.  It's easier to dodge than on Normal mode. 
+
+Ice Slasher: It's always possible to dodge, but sometimes extremely difficult.  When he begins Ice Slasher, he'll fire up to three shots before he reaches the bottom of his arc.  When he reaches the bottom, he'll instantly begin the next set of shots regardless of how long it's been since the first set.  Therefore, be careful when Wily reaches the bottom of his arc for the first time; you don't want to jump slightly over one shot just to land one that's just behind.  After he reaches the bottom, his pattern becomes more predictable and that's your opening to attack.  When dodging his first set of shots, he may shoot two bullets near the ground with a small gap in the middle.  You won't be able to clear both, so this is extremely tough to dodge.  You have to land in between, and this typically requires moving slightly to the left to keep pace with his shots as you land in between.  Best not to rely on luck to never see this pattern, but it isn't terribly common, so if you can't dodge it at all it won't be too significant of a hindrance.
+
+Thunder Beam: The fact that you're already moving left makes this much easier to dodge, but you'll need to react extremely fast if you start dodging from the position I recommended.  Usually you don't want to jump over it, but if it's fired at the very bottom of Wily's arc you do need to jump.  As hard as it is to dodge, it's not hard to counterattack.  He doesn't always fire the first shot, so don't panic and jump randomly in this scenario.
+
+Hyper Bomb: He'll tilt his cannon before doing this, so you can react easily.  I'm assuming this one isn't giving you trouble to dodge?  It's the best opportunity to get hits too.
+
+Fire Storm: Only counters, obviously no need to react.  Try to attack at the very bottom or near the top of his arc to make avoiding counters easier. 
+
+Super Arm: Lol, just don't get greedy.  If you hit him right before the phase transition, he'll be flashing long into his next phase and this can cause confusion if you get certain patterns.
+
+Curvy shot: You have plenty of time to react.  Move back towards Wily instead of hanging out at the left wall.  Use sounds cues as he charges it to time this one.  When you hear the "charging" sound five times, jump and it'll fly over your head.  It's easy to get a shot in with most characters, but it's hard to react fast enough to hit Wily if your character is short-ranged.
+
+When playing Bombman, I prefer to stand a bit closer to Wily during the phase change.  It makes it harder to react to his attacks (especially Thunder Beam), but it allows you to get a lot more hits.
+
+Oilman, Roll, and Mega all have short range, so you'll get fewer opportunities to attack.  Be patient rather than trying to hit Wily at all the opportunities you normally would.  All of these characters deal extra damage to Wily, so you'll still finish the fight just as fast.
+
+With Mega Man, don't attack right after a phase transition.  When Wily does the special ramming attack, he'll have I-frames the entire time if you shoot him right after the phase transition, and this will prevent you from staggering him, so you'll take guaranteed damage.  Wait until you know what Wily's next move is and then decide which weapon to use.  I'd recommend only using his weakness when he's close to reaching the rightmost side of the stage.  If you do anything else he'll remain in place as you stagger him and this will throw off your dodging.  Otherwise, shoot Wily with charged Mega Buster shots (clear Normal mode with Mega Man to unlock).
+
+If you want to be cheesy, if Wily is onscreen when he transitions phases, you can repeatedly pause to react to his next weapon more easily.

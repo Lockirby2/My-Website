@@ -1,0 +1,45 @@
+Over the past couple months, I've been slowly working on completing all the stages in this game damageless.  This is quite the task given that I need to play each of the 13 stages with 12 characters on three different difficulties, for a total of 468 stages (plus an extra ten for Old Style).  It would be unreasonable to record everything, but I wanted to record the hardest part of the playthrough and provide strategies detailed enough for others to pick up the damageless RetroAchievements set for this game a little more easily.  This stage is particularly instructive since it's the one that includes each of the eight robot master refights, so learning these strats will make it easier to play most of the other stages too.  Since this is intended to help others learn the game, I'll avoid leaving out any details even if they're cumbersome or boring, so the description might be a bit tricky to follow in places if you aren't reading alongside the video closely.
+
+First off, I wanted to give a shoutout to Paper Joe for his damageless boss fight videos.  While I didn't just take his strats wholesale for a variety of reasons, his videos provided valuable insight into Elecman and Fireman, among others.
+
+I have no clue what the developers were thinking when they made Oilman.  He plays more like an extra-hard difficulty setting than a character.  His main gimmick is that he can shoot oil puddles onto the ground and then step on them to board a fast-moving skateboard.  Where they went wrong is failing to provide a source of I-frames for the skateboard attack, making it too precise to hit with.  We can't afford a 5% chance of screwing up and colliding with the boss with every attack we make, so we'll be using the regular shot for almost everything.  The problem is that the regular shot was made deliberately weak to incentivize using the awful skateboard, so it only deals one damage (two to Elecman).  In other words, this is an extreme consistency test.  We can't rely on luck, and we have to play perfectly for over twenty minutes to get a win here.  It's probably almost as difficult as beating the entirety of the original MM1 damageless TBH (though less RNG-dependant).
+
+The beginning of the stage is a softball.  There are a couple Yoku block sections that are easily reacted to and a ladder that you can just hold up on.  The green platforms can be horrible in other stages due to their randomness, but this one is reliable.  We can always jump on it just after the enemy shot passes us, and by tapping right to inch to the right edge, we can always jump to the ladder as soon as it reaches the right side of the screen.
+
+After that is the meat and potatoes: the boss refights.  Choosing a good order is important.  Generally, we want to take on the harder bosses first, but it's adviseable to toss in some of the easier ones early from time to time to make sure we stay practiced.  I tend to fight a boss first any time I fail to it for that reason, and Iceman was the one I failed to on the previous attempt, so he's first here.
+
+The boss fights mostly have their own dedicated write-ups on this site, so I'll link to them rather than repeating them.
+</p><ul class="standard-text-interrupt">
+    <li><a href="https://lockirby2.neocities.org/resources/MMPU/#iceman">Iceman</a></li>
+    <li><a href="https://lockirby2.neocities.org/resources/MMPU/#mega-man-boss">Mega Man?</a></li>
+    <li><a href="https://lockirby2.neocities.org/resources/MMPU/#elecman">Elecman</a></li>
+    <li><a href="https://lockirby2.neocities.org/resources/MMPU/#bombman">Bombman</a></li>
+    <li><a href="https://lockirby2.neocities.org/resources/MMPU/#gutsman">Gutsman</a></li>
+    <li><a href="https://lockirby2.neocities.org/resources/MMPU/#fireman">Fireman</a></li>
+    <li><a href="https://lockirby2.neocities.org/resources/MMPU/#cutman">Cutman</a></li>
+    <li><a href="https://lockirby2.neocities.org/resources/MMPU/#timeman">Timeman</a></li>
+</ul><p class="standard-text">
+With all eight robot masters defeated, it's time to face the final boss of this gauntlet: the red square enemy a couple rooms down.  Since our movement up and down the ladder is slow, we only have a small window to climb up, shoot one shot, and then climb back down again.  It's best to start and stop about half a block away from the red square, as we don't want to start or stop moving a bit too early.  We can start moving right as the eye opens to maximize our window.  The red square can crash into the oil puddle, so we don't need to try and get close enough to shoot the red square directly.  If we find ourselves getting off-rhythm with our movements, it's best to wait a cycle instead of rushing it.
+
+The other rooms are mostly self-explanatory.  The turrets will never hit us if we climb fast.  The second red square isn't nearly as dangerous as the first.  If we miss the jump from the ladder in the next room, we may fall back to the previous room and land on the second red square.  To avoid this, we can use the screen transition to react and regrab the ladder before we fall too far.  In Hard mode, the pickaxe Mets in the final room will jump to prevent us from jumping over them.  This is also their big weakness, as the jump will reset the timer that controls when they attack.  In other words, as long as we keep jumping, they'll never attack us.  With Oilman's downwards arcing shots, we can bypass the shields easily and make it to Copy Oilman.
+
+<a href="https://lockirby2.neocities.org/resources/MMPU/#oilman">Here is the boss strat for Copy Oilman.</a>
+
+This is it for Oilman, but I've made some notes on what order you should play the characters in for this stage.  Timeman should be last IMO.  The different layout of the Copy Robot stage throws off his regular pattern, so you need to memorize a longer and more difficult sequence of dodges.  When you play the other characters, you'll be fighting Timeman near the end and infrequently, and you do not want to start mixing up the regular Timeman with the Copy Robot Timeman deep into their runs.  So learning the Copy Robot Timeman after you've done all the others is best IMO.
+
+Protoman, Mega Man, and Gutsman should be the first three, in that order.  None of them will give you much practice at the robot masters, but you may as well get them out of the way immediately regardless.  For Mega Man, the fight against Copy Robot is pretty tricky though.
+
+The rest I'd just do in order from easiest to hardest.  Here is my order for Normal:
+
+Fireman
+Elecman
+Bombman
+Roll
+Cutman
+Iceman
+Mega
+Oilman
+
+Finally, here are some notes on Hard mode Copy Robot:
+
+Copy Mega Man and Copy Protoman are free now.  Copy Mega is still free.  Iceman is harder now, but I went over that in detail in my Copy Robot video description and don't have much else to say.  Plus you've already beaten Hard Iceman many times by now with an icy floor to boot.

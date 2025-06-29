@@ -1,0 +1,42 @@
+CPU is a tricky fight.  Let's start with the red phase since it's the most important.  It's key that dealing damage to CPU makes its hitbox smaller.  You can't hide in the corners until you hit it a couple times (twice with most characters), so usually it's best to only finish off the yellow/orange phases when blocks are on the field.
+
+You also need to find a way to hit red-phase CPU a couple times (twice with most characters) before the blocks fall.  This is because if blocks fall close to the center, you won't have enough room to get on top without smacking CPU.
+
+Now for the tricky part.  There are four components to dodging the laser.  First, you have to be right at the dead center of the screen before moving.  Second, you have to know which way to run.  CPU will always fire the laser towards your side of the screen, so you need to run towards the side of the screen you're not on when it begins firing.  If you just try to walk to the center of the screen, you may have trouble determining whether you're barely to the left of center or barely to the right.  For this reason, I recommend standing a bit left of center and budgeting about half a second for the water suction to pull you towards the center.  This will ensure that you're always at  the center while still guaranteeing that you're on the left side.
+
+The rest is just precision.  Obviously, you need to start walking at the perfect moment.  I used the orange light coming from the CPU to time this.  I aimed for a specific frame of the orange light.  You'll just need to practice in softcore to figure out when to go.
+
+Finally, the last step depends on where the blocks fall.  If they fall close to the center, you need to react and pause your movement a bit to make it onto the block.  Otherwise the game does a weird thing where you hit your head on the block while it's falling and it kills your upwards momentum.
+If the blocks fall near the edge, this gets a lot harder.  You need to land on the very left edge of the block so that you can jump sooner.  This essentially requires perfection.
+
+I practiced nothing but dodging red lasers in softcore for about 1.5 hours and only got ~40% consistent at it, so don't expect to get this one every time.  Nobody except Cutman needs to dodge the red laser twice, so make sure you know how to defeat CPU quickly enough to avoid a second.
+
+Paper Joe has damageless videos on the CPU fight for all characters, so you can hopefully watch his videos to understand anything else you're missing.  I'll go over some character-specific strats though.
+
+Mega Man: Save Elecman's weapon for the red phase.  You want enough ammo to end the red phase without dodging the laser.  I found Oilman's weapon good for the rest of the fight.  It does massive damage and has tons of ammo.
+
+Cutman: In the red phase, stay near the wall as it's going to fire the laser.  Do a full-height jump right as CPU begins to fire the first laser (the one that sweeps the top of the screen).  Then wall-jump at the peak of the jump to go over the second laser.  Keep an eye on the debris at the top indicating where the blocks will fall so that you can avoid getting crushed by them.  This is pretty easy and well worth learning because you don't want to dodge the red laser twice.
+
+Gutsman: When the CPU is transitioning between phases, use that time to build two blocks and grab one.  Then you can throw the first block at the CPU as it's descending and use the second block to get over it.  There's a brief window between the lasers where you can hit the CPU.  I elected to toss a second block at it during that window to avoid needing to dodge the red laser.
+
+Iceman: Standard.
+
+Elecman: At the start of a phase, the CPU always descends on your side of the screen.  Stand under it and use a couple vertical shots to stun-lock it and buy extra time.  CPU should never fire any lasers here.
+
+Bombman: You can get extra damage while it's descending by throwing bombs upwards.  A neat trick is that the bombs will actually bounce upwards if they're descending when they hit one of the side walls, which can be handy for some extra damage.
+
+Fireman: If you accidentally defeat the orange phase when there aren't any blocks, you can jump upwards to hit the CPU a couple times when it's descending and then camp in the corner.
+
+Timeman: It's viable to make use of Time Slow here.  You generally want to use it during phase transitions.  You can dodge the red laser more easily or even kill the CPU before it uses it if you spam enough.
+
+Oilman: It's possible to ride the Oil Slick to get over the red laser, but I didn't notice this when I did this, so I don't know exactly how.
+
+Roll: Similarly to Fireman, you can jump up and hit CPU from below once and then hit it once more while standing in the corner.  It's precise, but can be a handy backup strat if you accidentally kill the orange phase when blocks are on the field.
+
+Mega: The hardest version of the fight, though I'm skeptical it's worth 100 points.  Don't defeat the orange phase when the blocks are at the edges of the screen since you won't have time to hit the red phase twice before the laser.  Instead, wait until the blocks are in the center before defeating the orange phase.  This means dodging the orange laser many times, but I did Mega last and had about 90% consistency dodging the orange laser by that point, so I felt it was the best approach.
+
+Protoman: Spam the crud out of the CPU and it should never fire a laser.
+
+That's all I have to say.  Hopefully it's helpful.
+
+Here's a video of the stage.  Boss fight was horrible, don't look at it. :P Hard to play while talking and rusty.

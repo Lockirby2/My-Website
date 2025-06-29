@@ -1,0 +1,21 @@
+Copy Roll is the only thing that might give you pause.  You can copy Paper Joe's video for that fight; I did some experimenting and I couldn't find any better strats.  For the moment where you need to jump over her, I don't remember my visual cue unfortunately.  Try to defeat her before she corners you again on the right side of the stage. 
+Oh, I guess there's one other thing I could say for Copy Roll.  If you let her approach you, she'll attack when she's still too far away to hit you.  So when you're lining up to jump over her, stand still and let her approach you rather than walking towards her.
+
+You're already prepared for everything else in this stage.
+
+I think I remember my visual cue now.  Copy Roll attacks with a two-hit combo.  You want to jump over her between the first and second hit of the combo, not between combos.  The latter intuitively seems better, but I spent a long time trying to learn it this way and it just isn't.
+
+As I mentioned earlier, you want to let Copy Roll approach you rather than approaching her since she'll stop so far away that she won't hit you.  Let her do one full combo before acting.  On the second combo, wait for the frame I screenshotted from Paper Joe's video (it's near the end of the first swing) and then press right.  If you time it right, it looks like you'll run into the broom, but it'll disappear just before you hit it.  I'd guess that this right press is a 2-3 frame window, so you'll need to practice it with save states.  You may have to start pressing right a bit earlier or later depending on how much input lag you have on your setup.
+
+</p><div class="standard-text-interrupt centered"><img class="body-image" src="/resources/MMPU/images/CopyRollVisualCue.png" alt="Copy Roll Visual Cue"></div><p class="standard-text">
+
+<b>Credit goes to GreninjaMan for this strategy:
+"ah ok"
+"and found out that it takes her five combos to actually hit you with the broom"
+"which i can be able to hit her twice before she hits me"</b>
+
+After pressing right, cross about three quarters of the distance to Roll and do a full hop over (the jump timing is more lenient, but I don't have a visual cue for it).
+
+Then do everything you can to kill her before she corners you on the right side.  It's hard enough to jump over her left-to-right even if you practice it, and you won't have as much practice jumping right-to-left, so you really don't want to do that unless forced to.
+
+And that's it!  Hopefully this makes it a bit easier for somebody else to jump into damageless runs of this game.  There aren't a ton of resources for it, so I figured I needed to make this.
